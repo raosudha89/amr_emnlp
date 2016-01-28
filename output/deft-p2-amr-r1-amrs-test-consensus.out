@@ -1,0 +1,1320 @@
+# ::id wb.eng_0003.100
+(c11 / and
+		:op3 (c3 / person
+			:ARG0-of (c4 / invest-01
+				:ARG1 (c13 / system
+					:mod (c12 / incompetent
+)					:poss (c14 / that
+)					:ARG2 (c15 / fund-01
+	:ARG0 c13
+						:ARG1 (c16 / request
+)						:ARG1 (c17 / regard-01
+							:ARG2 (c18 / link
+))						:op2 (c19 / or
+)						:ARG1 (c20 / lack
+	:ARG0 c13
+							:ARG2 (c24 / plan-01
+								:mod (c22 / master
+)								:mod (c23 / transport-01
+))))	:poss c20
+)))		:op2 (c5 / lobby-01
+			:ARG2 (c6 / place
+	:location-of c4
+				:op1 (c7 / road
+)))		:ARG0 (c0 / person
+			:op1 (c2 / direct-01
+				:ARG1 (c1 / comment
+)	:ARG1 c4
+	:ARG1 c13
+)			:name (n0 / name :op1 "Ray" :op2 "Hyde" 
+))		:op1 (c10 / property
+)		:ARG1 (c9 / they
+)		:ARG2 (c8 / near-02
+)		:mod (c21 / thereof
+))
+
+# ::id wb.eng_0003.74
+(c1 / possible-01
+		:ARG1 (c4 / build-01
+			:ARG1 (c5 / it
+))		:ARG0 (c3 / reason
+			:domain (c0 / that
+)			:mod (c2 / suffice-01
+)	:ARG1 c4
+)		:ARG1 (c6 / all
+))
+
+# ::id wb.eng_0003.75
+(c7 / recommend-01
+		:ARG1 (c8 / apply-01
+			:ARG1 (c3 / that
+)			:ARG0 (c6 / logic
+				:ARG1-of (c5 / same-01
+))			:ARG2 (c9 / road
+))		:ARG0 (c0 / all
+			:op2 (c2 / say-01
+				:ARG0 (c1 / i
+)))		:ARG1 (c4 / exact-01
+))
+
+# ::id wb.eng_0003.76
+(c1 / recommend-01
+		:ARG1 (c6 / get-05
+			:ARG0 (c5 / we
+)			:ARG1 (c8 / use-01
+				:mod (c7 / maximum
+))			:ARG1 (c9 / investment
+))		:ARG2 (c3 / end-01
+)		:condition (c2 / destination
+)		:degree (c0 / they
+)		:ARG0 (c4 / order
+))
+
+# ::id wb.eng_0003.77
+(c1 / need-01
+		:ARG0 (c0 / we
+)		:ARG1 (c3 / place
+			:mod (c2 / more
+))		:ARG1 (c5 / get-05
+			:ARG2 (c6 / closer
+)			:ARG1 (c7 / balance-01
+				:op2 (c9 / say-01
+					:ARG0 (c8 / you
+)					:ARG1 (c11 / need-01
+						:ARG0 (c10 / we
+)))))		:ARG1 (c4 / order
+))
+
+# ::id wb.eng_0003.70
+(c0 / contrast-01
+		:ARG1 (c9 / find-01
+			:manner (c1 / aggregate-01
+)			:ARG0 (c7 / we
+)			:manner (c8 / eventual
+)			:ARG1 (c12 / work-01
+				:ARG1 (c10 / we
+)				:mod (c11 / all
+)				:ARG2 (c13 / person
+					:name (n0 / name :op1 "Devil" 
+))))		:ARG2 (c3 / demonize-01
+			:ARG0 (c2 / we
+)			:ARG1 (c4 / business
+)			:degree (c6 / enough
+				:ARG1-of (c5 / long-03
+))))
+
+# ::id wb.eng_0003.71
+(c9 / and
+		:ARG0 (c3 / point
+			:mod (c2 / any
+)			:manner (c4 / claim-02
+				:ARG0 (c5 / solution
+					:mod (c6 / balance-01
+))				:ARG0 (c8 / dynamic
+					:ARG1 (c7 / that
+))				:op2 (c11 / change-01
+					:mod (c10 / ever
+)					:ARG1 (c12 / nature
+)))	:manner c11
+)		:op2 (c1 / see-01
+			:ARG0 (c0 / i
+)))
+
+# ::id wb.eng_0003.72
+(c2 / see-01
+		:mod (c0 / even-if
+)		:ARG0 (c1 / you
+)		:ARG1 (c3 / rail
+)		:ARG2 (c11 / bi
+			:ARG1 (c5 / positive
+				:domain (c9 / center
+					:ARG1-of (c6 / cause-01
+)					:ARG1 (c8 / job
+)))			:ARG1 (c13 / demand-01
+				:mod (c12 / directional
+)				:ARG1 (c14 / rail
+)))		:ARG1 (c10 / promote-01
+	:mod c9
+)		:ARG0 (c7 / country
+			:name (n0 / name :op1 "Dulles" 
+))		:ARG2 (c4 / country
+			:name (n1 / name :op1 "Dulles" 
+)))
+
+# ::id wb.eng_0003.73
+(c1 / agree-01
+		:ARG0 (c0 / i
+))
+
+# ::id wb.eng_0003.78
+(c1 / check-out-09
+		:mod (c0 / reality
+)		:location (c2 / here
+))
+
+# ::id wb.eng_0003.79
+(c5 / and
+		:ARG0 (c1 / drive-01
+			:ARG0 (c0 / i
+)			:ARG1 (c2 / person
+				:name (n0 / name :op1 "Watkins" :op2 "Landing" 
+))			:ARG1 (c4 / morning
+				:mod (c3 / every
+)				:mod (c6 / evening
+))	:ARG1 c6
+))
+
+# ::id wb.eng_0003.98
+(c1 / overlook-01
+		:mod (c0 / consistently
+)		:op2 (c8 / spend-01
+			:ARG1 (c6 / that
+)			:ARG1 (c7 / possible-01
+))		:ARG0 (c3 / ovre-01
+)		:ARG0-of (c2 / debate-01
+)		:mod (c5 / else
+)		:ARG1 (c4 / 288
+))
+
+# ::id wb.eng_0003.99
+(c3 / possible-01
+		:ARG1 (c5 / money
+			:ARG1 (c6 / apply-02
+				:ARG1 (c10 / project
+					:mod (c8 / press-01
+						:mod (c7 / other
+))					:mod (c9 / road
+))))		:ARG0 (c14 / even
+)		:ARG1 (c12 / god
+			:ARG1 (c16 / project
+				:mod (c13 / forbid-01
+)				:mod (c15 / road
+)))		:time (c2 / congestion
+			:mod (c1 / traffic
+))		:ARG2 (c11 / or
+)		:mod (c4 / alleviate-01
+			:quant (c0 / much
+)))
+
+# ::id wb.eng_0003.96
+(c8 / wish-01
+		:ARG0 (c7 / you
+)		:ARG1 (c9 / live-01
+	:ARG0 c7
+)		:ARG0 (c3 / right
+			:mod (c2 / every
+)			:ARG2 (c4 / live-01
+				:manner (c5 / country
+)))		:ARG1 (c1 / you
+)		:ARG0 (c0 / anonymous
+)		:ARG1 (c6 / that
+))
+
+# ::id wb.eng_0003.97
+(c0 / contrast-01
+		:ARG0 (c10 / shop-01
+			:ARG0 (c8 / it
+)			:ARG1-of (c9 / easy-05
+)			:op2 (c11 / and
+				:op2 (c12 / get-05
+	:ARG0 c8
+					:ARG1 (c13 / work-01
+	:ARG0 c8
+)))	:ARG1 c12
+)		:ARG1 (c1 / you
+)		:ARG2 (c3 / rest
+			:poss (c4 / state
+				:ARG1-of (c5 / underwrite-01
+					:ARG1 (c6 / construct-01
+						:ARG1 (c7 / highway
+)))))		:ARG1 (c2 / right
+))
+
+# ::id wb.eng_0003.94
+(c10 / make-02
+		:ARG1 (c11 / want-01
+			:ARG2 (c12 / live-01
+				:manner (c14 / core
+)))		:ARG1 (c13 / urban
+)		:ARG0 (c3 / horse
+			:time-of (c4 / hunt-01
+)			:ARG1 (c7 / type
+				:mod (c6 / certain
+)				:mod (c9 / business
+					:mod (c8 / small
+))))		:time (c1 / legitimate
+)		:mod (c2 / preference
+)		:ARG0 (c0 / many
+)		:ARG1 (c5 / gardening
+))
+
+# ::id wb.eng_0003.95
+(c4 / baffle-01
+		:ARG1 (c1 / infatuation
+			:mod (c0 / this
+)			:ARG1 (c3 / living
+				:mod (c2 / city
+))))
+
+# ::id wb.eng_0003.92
+(c2 / go-02
+		:ARG0 (c0 / gas
+)		:ARG0 (c1 / possible-01
+)		:ARG4 (c3 / 10
+)		:ARG0 (c4 / gallon
+))
+
+# ::id wb.eng_0003.93
+(c0 / and
+		:op2 (c3 / pay-01
+			:ARG0 (c1 / i
+)			:mod (c2 / still
+)			:ARG2 (c4 / live-01
+	:ARG0 c1
+				:manner (c5 / country
+)))	:op2 c4
+)
+
+# ::id wb.eng_0003.90
+(c0 / and
+		:op2 (c2 / happen-01
+			:ARG0 (c1 / i
+)			:ARG1 (c3 / like-01
+	:ARG0 c1
+				:ARG1 (c6 / develop-01
+					:mod (c4 / large
+)					:quant (c5 / lot
+))))	:op2 c3
+)
+
+# ::id wb.eng_0003.91
+(c8 / beyond
+		:op1 (c2 / suppose-02
+			:mod (c0 / exact
+)			:ARG0 (c1 / i
+)			:op2 (c3 / keep-01
+	:ARG0 c1
+				:ARG1 (c4 / horse
+)				:ARG1 (c7 / lot
+)))		:ARG0 (c6 / acre
+)		:ARG1 (c5 / 1
+))
+
+# ::id wb.eng_0003.63
+(c5 / and
+		:op2 (c13 / generate-01
+			:ARG0 (c4 / pattern-01
+				:mod (c2 / human
+)				:mod (c3 / settle-01
+)				:mod (c9 / capacity
+					:mod (c6 / balance-01
+						:ARG1 (c8 / system
+							:mod (c7 / transport-01
+)))					:poss (c10 / and
+	:op2 c13
+)					:op2 (c12 / use-01
+						:mod (c11 / land
+)))	:mod c12
+)	:ARG0 c9
+			:ARG1 (c15 / deman
+				:mod (c14 / travel-01
+)))		:op2 (c1 / functional
+	:ARG1 c13
+)		:op1 (c0 / solution
+))
+
+# ::id wb.eng_0003.62
+(c0 / have-condition-91
+		:ARG1 (c2 / hard-02
+			:ARG1 (c1 / it
+)			:ARG2 (c3 / understand-01
+	:ARG0 c1
+)))
+
+# ::id wb.eng_0003.61
+(c9 / and
+		:op2 (c0 / let-01
+			:ARG1 (c2 / pay-01
+				:mod (c1 / business
+))			:ARG2 (c3 / more
+				:compared-to (c5 / bill
+					:mod (c4 / transport-01
+)))			:ARG1 (c10 / incentivize-01
+				:ARG2 (c11 / locate-01
+					:ARG1 (c13 / put-01
+						:ARG0 (c12 / they
+)						:ARG1 (c14 / stress-01
+)						:ARG2 (c15 / system
+)						:ARG2 (c18 / mean-01
+							:mod (c16 / even
+)							:domain (c17 / that
+)							:ARG1 (c21 / travel-01
+								:mod (c19 / more
+)								:ARG1 (c20 / overall
+)))))))		:ARG0 (c8 / course
+)		:op1 (c7 / pass-03
+			:ARG0 (c6 / they
+)))
+
+# ::id wb.eng_0003.60
+(c9 / recommend-01
+		:ARG1 (c10 / do-02
+			:ARG0 (c8 / we
+)			:ARG1 (c12 / thing
+				:quant (c11 / 2
+)))		:ARG1 (c5 / benefit-01
+			:mod (c1 / recognize-02
+				:ARG0 (c0 / we
+))			:op1 (c3 / road
+				:mod (c2 / that
+))			:mod (c4 / primaarily
+)			:ARG1 (c6 / business
+)			:time (c7 / then
+)	:ARG1 c10
+))
+
+# ::id wb.eng_0003.67
+(c13 / and
+		:op2 (c14 / put-01
+			:ARG0 (c7 / it
+)			:ARG2 (c19 / else
+				:ARG1 (c16 / interest
+					:mod (c15 / public
+)					:mod (c18 / all
+						:mod (c17 / above
+)))))		:op2 (c10 / private
+)		:op1 (c12 / plan
+			:mod (c11 / business
+))		:ARG0 (c1 / see-01
+			:ARG0 (c0 / i
+)			:ARG1 (c2 / point
+				:poss (c5 / state-01
+					:mod (c3 / this
+)))			:op2 (c8 / appear-01
+				:time (c6 / cause-01
+)	:ARG1 c7
+				:time (c9 / demonize-01
+	:ARG0 c7
+	:op1 c14
+)	:op1 c14
+))		:ARG1 (c4 / thing
+	:ARG2-of c5
+))
+
+# ::id wb.eng_0003.66
+(c1 / say-01
+		:ARG0 (c0 / tmt
+)		:ARG1 (c9 / serve-01
+			:ARG0 (c3 / it
+)			:ARG1 (c11 / interest
+				:mod (c10 / public
+)))		:ARG1 (c4 / benefit-01
+	:ARG0 c3
+			:mod (c7 / plan
+				:mod (c6 / business
+)))		:ARG0 (c8 / and
+	:op2 c9
+)		:time (c2 / state
+			:name (n0 / name :op1 "Virginia" 
+))		:mod (c5 / private
+))
+
+# ::id wb.eng_0003.65
+(c0 / person
+		:name (n0 / name :op1 "EMR" 
+))
+
+# ::id wb.eng_0003.64
+(c2 / spin-01
+		:quant (c0 / all
+)		:mod (c1 / else
+))
+
+# ::id wb.eng_0003.69
+(c3 / problem
+		:mod (c0 / obvious-01
+)		:mod (c1 / there
+)		:mod (c2 / local-02
+)		:mod (c8 / lumpy
+			:ARG1-of (c4 / cause-01
+))		:mod (c7 / dough
+			:mod (c5 / this
+))		:ARG1-of (c6 / cookie
+))
+
+# ::id wb.eng_0003.68
+(c7 / and
+		:op1 (c1 / think-01
+			:ARG0 (c0 / i
+)			:ARG2 (c4 / intertwine-01
+				:ARG0 (c2 / they
+)				:ARG1-of (c8 / same-01
+					:ARG1 (c5 / they
+))))		:op2 (c3 / tightly
+)		:op3 (c6 / virtual
+))
+
+# ::id wb.eng_0003.89
+(c10 / and
+		:op2 (c12 / temporal-quantity
+			:unit (c13 / hour
+				:ARG1-of (c9 / long-03
+					:ARG1 (c11 / irregular
+))))		:op3 (c1 / use-01
+			:ARG0 (c0 / i
+)			:ARG1 (c3 / transit
+				:mod (c2 / mass
+)				:ARG2 (c4 / safe-01
+	:ARG1 c3
+					:ARG1 (c6 / commuter
+						:mod (c7 / that
+)						:ARG1 (c8 / work-01
+	:ARG0 c6
+	:ARG1 c13
+)))))		:op1 (c5 / female
+))
+
+# ::id wb.eng_0003.88
+(c1 / work-01
+		:ARG0 (c0 / i
+)		:ARG2 (c3 / area
+)		:ARG0 (c2 / downtown
+))
+
+# ::id wb.eng_0003.85
+(c7 / and
+		:op2 (c1 / possible-01
+			:ARG1 (c3 / get-05
+				:ARG0 (c0 / we
+)	:ARG1-of c1
+				:mod (c2 / actual
+)				:ARG1 (c6 / develop-02
+					:mod (c4 / some
+)					:mod (c5 / commerce
+))))		:op2 (c8 / work-01
+			:ARG2 (c9 / closer
+				:ARG1 (c11 / live-01
+					:ARG0 (c10 / we
+)))))
+
+# ::id wb.eng_0003.84
+(c8 / and
+		:op2 (c10 /organization
+			:ARG1-of (c6 / instead-of-91
+)			:name (n0 / name :op1 "Chesterfield" 
+))		:op3 (c3 / use-01
+			:mod (c2 / actual
+)			:ARG1 (c4 / it
+))		:op1 (c12 / lack
+			:ARG2 (c13 / road
+))		:mod (c9 / world-region
+			:name (n1 / name :op1 "West" 
+))		:ARG0 (c1 / that
+)		:time (c11 / bottleneck-01
+)		:op4 (c0 / 288
+)		:quant (c7 / powhatan
+)		:ARG0-of (c5 / wonderful
+))
+
+# ::id wb.eng_0003.87
+(c4 / any
+		:ARG1-of (c2 / desire-01
+			:polarity (c1 / -
+)			:ARG2 (c3 / live-01
+				:manner (c5 / city
+)))		:ARG0 (c0 / i
+))
+
+# ::id wb.eng_0003.86
+(c2 / think-01
+		:ARG0 (c0 / you
+)		:ARG0 (c1 / possible-01
+)		:ARG1 (c6 / use-01
+			:domain (c3 / that
+)			:mod (c4 / rational
+)			:mod (c5 / land
+)))
+
+# ::id wb.eng_0003.81
+(c1 / see-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / anything
+)		:mod (c3 / remotely
+			:ARG1 (c4 / resemble-01
+				:ARG1 (c5 / flood-01
+					:location (c6 / traffic
+)))))
+
+# ::id wb.eng_0003.80
+(c3 / and
+		:op2 (c1 / commute
+			:ARG0 (c0 / i
+)			:mod (c2 / back
+				:part-of (c4 / forth
+))			:ARG1 (c5 / work-01
+	:ARG0 c0
+				:ARG2 (c6 / organization
+					:name (n0 / name :op1 "Huguenot" :op2 "Trail" 
+)))))
+
+# ::id wb.eng_0003.83
+(c12 / and
+		:op2 (c16 / zone-01
+			:op2 (c19 / and
+				:op2 (c20 / funnel-01
+)))		:op1 (c17 / temporal-quantity
+			:unit (c18 / year
+))		:ARG0 (c4 / plan-01
+			:ARG1 (c2 / widening
+				:op1 (c1 / road
+))			:mod (c3 / already
+)			:ARG1 (c6 / demand-01
+				:mod (c5 / heavy
+)				:mod (c7 / develop-02
+					:manner (c9 / side
+						:part-of (c8 / chesterfield
+)))				:ARG1 (c11 / school
+					:mod (c10 / new
+))				:ARG1 (c14 / bunch
+					:mod (c13 / whole
+)))	:ARG1 c11
+	:ARG1 c14
+)		:op3 (c15 / development
+)		:mod (c0 / huguenot trail
+)		:time (c21 / robious road
+))
+
+# ::id wb.eng_0003.82
+(c3 / zone
+		:topic-of (c0 / it
+)		:ARG1 (c5 / car
+			:location (c6 / morning
+				:quant (c7 / much
+)))		:ARG0 (c2 / mph
+)		:ARG0-of (c1 / 55
+)		:ARG1 (c4 / 75
+))
+
+# ::id wb.eng_0003.16
+(c9 / and
+		:ARG0 (c7 / drive-01
+			:mod (c8 / back
+				:part-of (c10 / forth
+))	:time c10
+			:ARG1 (c13 / country
+				:name (n1 / name :op1 "Goochland" :op2 "counties" 
+)))		:ARG1 (c11 / organization
+			:op2 (c12 / and
+)			:name (n0 / name :op1 "Chesterfield" 
+))		:op1 (c16 / live-01
+			:ARG0 (c15 / they
+)			:ARG0 (c17 / and
+)			:ARG1 (c18 / work-01
+	:ARG0 c15
+))		:op2 (c14 / other
+)		:ARG2 (c3 / provide-01
+			:ARG0 (c2 / highway
+				:ARG1-of (c0 / limit-01
+)				:location (c1 / access-01
+))			:ARG1 (c6 / relieve-01
+				:ARG1-of (c4 / limit-01
+)				:mod (c5 / traffic
+))))
+
+# ::id wb.eng_0003.17
+(c0 / and
+		:op1 (c2 / create-01
+			:ARG0 (c1 / they
+)			:ARG1 (c4 / congestion
+				:mod (c3 / traffic
+)				:location (c6 / place
+					:mod (c5 / new
+)))))
+
+# ::id wb.eng_0003.14
+(c3 / moment
+		:mod (c0 / this
+)		:mod (c1 / major-02
+)		:mod (c2 / d'oh
+))
+
+# ::id wb.eng_0003.15
+(c3 / generate-01
+		:ARG1 (c1 / predict-01
+			:ARG0 (c0 / we
+))		:ARG1 (c2 / route 288
+)		:ARG1 (c5 / develop-02
+			:manner (c4 / residential
+)			:ARG1 (c8 / area
+))		:ARG1 (c11 / exit
+			:quant (c9 / all
+)			:location (c10 / around
+))		:ARG1 (c12 / overtax-01
+			:ARG2 (c15 / road
+				:ARG1-of (c13 / local-02
+)				:mod (c14 / country
+)))		:ARG0 (c7 / populate-01
+)		:ARG1 (c6 / scarcely
+))
+
+# ::id wb.eng_0003.12
+(c6 / and
+		:op2 (c8 / spend-01
+			:ARG1 (c1 / that
+)			:ARG0 (c2 / vdot
+)			:ARG1 (c3 / behest
+				:ARG0 (c5 / politician
+					:ARG1-of (c4 / local-02
+)))			:ARG1 (c11 / money
+				:quant (c9 / all
+)				:quant (c10 / friggin
+))			:ARG1 (c12 / 288
+))		:ARG0 (c0 / reason
+)		:op1 (c7 / booster
+))
+
+# ::id wb.eng_0003.13
+(c2 / need-01
+		:ARG0 (c1 / you
+)		:ARG1 (c0 / person
+			:name (n0 / name :op1 "Homer" :op2 "Simpson" 
+)))
+
+# ::id wb.eng_0003.10
+(c5 / note-01
+		:time (c0 / person
+			:name (n0 / name :op1 "Dale" :op2 "Totten" 
+))		:ARG1 (c8 / lane
+			:op1 (c9 / road
+))		:ARG1 (c10 / 13
+)		:time (c13 / money
+			:mod (c12 / more
+))		:ARG0 (c1 / resident
+)		:ARG1 (c2 / person
+			:ARG0-of (c3 / engineer-01
+))		:ARG2 (c4 / organization
+			:name (n1 / name :op1 "Virginia" :op2 "Department" :op3 "of" :op4 "Transportation" 
+))		:ARG3 (c11 / it
+)		:ARG4 (c7 / 4
+)		:ARG5 (c6 / vdot
+))
+
+# ::id wb.eng_0003.11
+(c5 / more
+		:ARG0 (c6 / money
+			:polarity (c4 / -
+)			:poss (c8 / construct-01
+				:ARG1 (c7 / road
+)				:mod (c10 / region
+)))		:compared-to (c9 / city
+			:name (n0 / name :op1 "Richmond" 
+))		:mod (c3 / vdot
+)		:degree (c2 / course
+			:mod (c1 / include-91
+))		:ARG1 (c0 / person
+	:ARG2-of c1
+))
+
+# ::id wb.eng_0003.18
+(c3 / rapid
+		:ARG0 (c5 / happen-01
+			:ARG1 (c4 / this
+)))
+
+# ::id wb.eng_0003.19
+(c2 / think-01
+		:time (c0 / even-if
+)		:ARG0 (c1 / i
+)		:ARG1 (c4 / lag
+			:ARG4 (c3 / there
+))		:ARG1 (c8 / temporal-quantity
+			:unit (c9 / year
+				:quant (c5 / 3
+					:op2 (c6 / or
+)					:quant (c7 / 4
+))	:quant c7
+)))
+
+# ::id wb.eng_0003.4
+(c9 / open-01
+		:ARG0 (c0 / route 288
+			:ARG2 (c2 / highway
+				:location (c1 / circumferential
+)				:ARG1 (c3 / run-01
+					:ARG1 (c5 / south
+						:location (c4 / around
+)))				:location (c7 / quadrant
+)))		:ARG1 (c11 / date-entity :year 2004 
+			:ARG1 (c10 / late
+))		:ARG0 (c8 / organization
+			:name (n0 / name :op1 "Richmond" :op2 "New" :op3 "Urban" :op4 "Region" 
+))		:ARG1 (c6 / western
+))
+
+# ::id wb.eng_0003.5
+(c6 / and
+		:op1 (c5 / bad-07
+			:ARG1-of (c8 / localized
+				:ARG1-of (c7 / cause-01
+)))		:op2 (c2 / change-01
+			:ARG1-of (c0 / already
+)			:ARG0 (c1 / it
+)			:ARG1 (c4 / pattern-01
+				:mod (c3 / develop-02
+))			:ARG1 (c10 / congestion
+	:op1 c5
+				:mod (c9 / traffic
+)))		:op1 (c12 / exit
+			:location (c11 / around
+)))
+
+# ::id wb.eng_0003.6
+(c0 / organization
+		:op2 (c1 / tell-01
+			:ARG1 (c2 / tale
+)			:ARG1 (c3 / today
+)			:ARG1 (c4 / impact
+))		:name (n0 / name :op1 "Richmond" :op2 "Times" :op3 "-" :op4 "Dispatch" 
+)		:name (c6 / country
+			:name (n1 / name :op1 "Powhatan" :op2 "County" 
+))		:mod (c5 / organization
+			:name (n2 / name :op1 "Huguenot" :op2 "Trail" 
+)))
+
+# ::id wb.eng_0003.7
+(c8 / report-01
+		:ARG1 (c2 / double-01
+			:ARG0 (c0 / traffic
+)			:quant (c1 / more
+)			:ARG1 (c3 / section
+				:ARG1-of (c4 / huguenot trail
+))			:ARG1 (c6 / 288
+				:time (c5 / since
+)				:ARG0-of (c7 / open-01
+)))		:ARG1 (c9 / will jones
+))
+
+# ::id wb.eng_0003.1
+(c0 / braawwk
+)
+
+# ::id wb.eng_0003.2
+(c0 / braawwkkk
+)
+
+# ::id wb.eng_0003.3
+(c1 / take-01
+		:ARG0 (c0 / it
+)		:ARG1-of (c2 / long-03
+))
+
+# ::id wb.eng_0003.8
+(c1 / and
+		:op2 (c3 / surge-01
+			:op2 (c0 / speed-01
+				:ARG0 (c2 / accident
+))))
+
+# ::id wb.eng_0003.9
+(c2 / report-01
+		:ARG1 (c1 / accident
+			:polarity (c0 / 17
+))		:ARG1 (c5 / intersect-01
+			:ARG1-of (c3 / near-02
+))		:ARG1 (c11 / all
+			:mod (c12 / date-entity :year 2004 
+))		:ARG1 (c10 / 12
+)		:mod (c8 / temporal-quantity
+			:unit (c9 / year
+				:mod (c7 / this
+)))		:topic (c4 / thing
+	:ARG0-of c5
+)		:concession (c6 / winterfield road
+))
+
+# ::id wb.eng_0003.30
+(c2 / understand-01
+		:mod (c0 / now
+)		:ARG0 (c1 / you
+)		:ARG2 (c5 / feel-01
+)		:ARG1 (c3 / tmt
+)		:ARG0 (c4 / city
+			:name (n0 / name :op1 "Fairfax" 
+)))
+
+# ::id wb.eng_0003.31
+(c2 / take-01
+		:ARG0 (c0 / i
+)		:ARG2 (c1 / usually
+)		:ARG1 (c5 / position
+			:op1 (c4 / road
+))		:ARG1 (c3 / pro
+))
+
+# ::id wb.eng_0003.32
+(c0 / contrast-01
+		:ARG2 (c8 / excess
+			:ARG1 (c2 / need-01
+				:mod (c1 / glaring
+)				:ARG1 (c4 / part
+					:mod (c3 / other
+)					:mod (c5 / state
+)))			:mod (c7 / definite
+))		:ARG1 (c6 / 288
+))
+
+# ::id wb.eng_0003.33
+(c4 / virtual
+		:op1 (c1 / city
+			:name (c2 / city
+				:name (n0 / name :op1 "Richmond" 
+))			:domain (c3 / that
+))		:ARG0 (c0 / you
+)		:ARG1 (c6 / traffic
+			:polarity (c5 / -
+)))
+
+# ::id wb.eng_0003.34
+(c5 / long-03
+		:ARG1 (c2 / hour
+			:op2 (c0 / rush-01
+))		:ARG1 (c4 / minute
+)		:degree (c3 / 30
+)		:ARG1 (c1 / temporal-quantity
+	:unit c2
+))
+
+# ::id wb.eng_0003.35
+(c2 / give-01
+		:ARG0 (c0 / and
+)		:ARG0 (c1 / you
+)		:ARG1 (c3 / beltway
+			:ARG1 (c6 / area
+				:mod (c4 / large
+)))		:ARG1 (c5 / rural
+))
+
+# ::id wb.eng_0003.36
+(c0 / road
+		:polarity (c1 / -
+))
+
+# ::id wb.eng_0003.37
+(c1 / think-01
+		:mod (c0 / just
+)		:ARG2 (c4 / spend-01
+			:ARG1 (c3 / money
+				:mod (c2 / this
+))			:ARG1 (c7 / cross-02
+				:mod (c5 / another
+)				:ARG1 (c6 / potomac
+)				:ARG1 (c8 / or
+)				:ARG1 (c10 / improve-01
+					:ARG1 (c9 / road
+)))	:ARG1 c10
+)		:ARG2 (c12 / need-01
+			:mod (c11 / desperately
+)			:ARG1 (c13 / nova
+)))
+
+# ::id wb.eng_0003.38
+(c5 / help-01
+		:ARG0 (c0 / country
+			:name (n0 / name :op1 "Virginia" :op2 "Centrist" 
+))		:ARG1 (c3 / rest
+			:poss (c4 / state
+))		:ARG1 (c6 / pay-01
+			:ARG1 (c7 / 288
+))		:ARG1 (c12 / deal-01
+			:ARG1 (c11 / budget-01
+))		:ARG2 (c13 / wipe-01
+			:ARG2 (c15 / clean-01
+))		:ARG0 (c9 / temporal-quantity
+			:unit (c10 / year
+				:mod (c8 / last
+)))		:ARG1 (c14 / slate
+)		:ARG2 (c16 / debt
+)		:manner (c1 / insult-01
+)		:ARG0 (c2 / injury
+))
+
+# ::id wb.eng_0003.39
+(c2 / nice
+		:ARG1 (c0 / it
+)		:degree (c1 / very
+)		:ARG0 (c3 / y'all
+)		:ARG0-of (c4 / oblige-02
+	:ARG0 c0
+))
+
+# ::id wb.eng_0003.29
+(c2 / congestion
+		:mod (c1 / traffic
+)		:location (c3 / place
+)		:ARG0 (c0 / additional
+))
+
+# ::id wb.eng_0003.28
+(c8 / alternative
+		:ARG1 (c2 / create-01
+			:ARG4 (c0 / there
+)			:ARG1-of (c1 / enough
+)			:ARG1 (c5 / congestion
+				:mod (c3 / new
+)				:mod (c4 / traffic
+))			:location (c7 / place
+				:mod (c6 / new
+))))
+
+# ::id wb.eng_0003.27
+(c1 / think-01
+		:ARG0 (c0 / i
+)		:ARG1 (c4 / blame-01
+			:ARG0 (c2 / you
+)			:ARG0 (c3 / possible-01
+	:ARG1 c4
+)			:ARG1 (c6 / create-01
+))		:ARG1 (c5 / 288
+))
+
+# ::id wb.eng_0003.26
+(c1 / think-01
+		:ARG0 (c0 / i
+)		:ARG2 (c4 / spend-01
+			:ARG0 (c2 / we
+)			:ARG0 (c3 / possible-01
+)			:ARG1 (c6 / elsewhere
+))		:ARG1 (c5 / good-02
+))
+
+# ::id wb.eng_0003.25
+(c0 / thanks
+		:mod (c1 / nothing
+))
+
+# ::id wb.eng_0003.24
+(c1 / think-01
+		:ARG0 (c0 / brainiac
+)		:ARG1 (c4 / idea
+			:mod (c2 / route 288
+)			:mod (c3 / great
+)))
+
+# ::id wb.eng_0003.23
+(c5 / see-01
+		:ARG1 (c1 / end
+			:time (c0 / before
+)			:mod (c2 / decade
+))		:ARG0 (c3 / we
+)		:ARG3 (c4 / possible-01
+)		:ARG1 (c8 / zoom-01
+)		:ARG1 (c11 / take-01
+			:ARG1 (c10 / it
+)			:ARG1 (c12 / build-01
+	:ARG0 c10
+				:ARG1 (c14 / highway
+					:mod (c13 / original
+))))		:ARG0 (c9 / original
+)		:ARG2 (c7 / liability
+)		:time (c6 / unfunded
+))
+
+# ::id wb.eng_0003.22
+(c8 / and
+		:op2 (c20 / soar-01
+			:ARG1 (c16 / need-01
+				:ARG1 (c19 / improve-01
+					:mod (c17 / new
+)					:ARG1 (c18 / road
+))))		:op2 (c10 / mega
+			:ARG1 (c12 / project
+				:mod (c11 / commerce
+)				:mod (c14 / 288
+					:ARG1-of (c13 / major-02
+))))		:op1 (c9 / approval
+)		:op3 (c15 / intersection
+)		:mod (c3 / temporal-quantity
+			:unit (c4 / year
+				:time (c0 / after
+)				:quant (c1 / few
+					:ARG2 (c2 / more
+))				:mod (c7 / develop-02
+					:manner (c5 / scatter-01
+)					:manner (c6 / subdivision
+)))))
+
+# ::id wb.eng_0003.21
+(c2 / prodiction
+		:mod (c1 / another
+)		:location (c0 / here
+))
+
+# ::id wb.eng_0003.20
+(c12 / create-01
+		:ARG1 (c2 / create-01
+			:ARG0 (c0 / route 288
+)			:time (c1 / already
+)			:ARG1 (c9 / think-01
+				:ARG0 (c4 / road
+					:ARG1 (c5 / construct-01
+						:ARG2 (c8 / exist-01
+							:mod (c6 / just
+)							:mod (c7 / this
+))))				:ARG2 (c10 / liability
+)))		:ARG0 (c11 / it
+)		:ARG1 (c13 / all
+			:mod (c14 / exit
+))		:ARG1 (c3 / 13
+))
+
+# ::id wb.eng_0003.58
+(c10 / contrast-01
+		:ARG2 (c14 / support-01
+			:ARG0 (c13 / need-01
+				:mod (c12 / overwhelming
+))			:ARG1 (c15 / business
+))		:ARG0 (c4 / drive-01
+			:ARG1 (c3 / "sunday"
+)			:ARG1 (c5 / trip
+)			:poss (c7 / and
+)			:ARG1 (c9 / game
+				:mod (c8 / soccer
+)))		:ARG1 (c2 / date-entity
+	:year c3
+)		:ARG1 (c1 / course
+)		:ARG2 (c11 / still
+)		:ARG3 (c0 / then
+)		:ARG4 (c6 / grandma
+))
+
+# ::id wb.eng_0003.59
+(c7 / or
+		:op2 (c13 / wonder-02
+			:ARG1 (c4 / match-03
+				:ARG0 (c1 / expenditures-01
+					:op1 (c0 / road
+))				:ARG1-of (c3 / near-02
+					:mod (c2 / nowhere
+))				:ARG1 (c5 / increase-01
+					:op2 (c10 / produce-01
+						:mod (c6 / business
+							:poss (c8 / state
+))	:mod c8
+						:time (c9 / domestic
+))))			:domain (c11 / it
+)			:polarity (c12 / -
+)			:ARG2 (c15 / suffer-01
+				:ARG0 (c14 / we
+)				:ARG1 (c17 / problem
+					:mod (c16 / congestion
+)))))
+
+# ::id wb.eng_0003.52
+(c2 / wrong
+		:ARG0 (c0 / you
+)		:quant (c1 / all
+))
+
+# ::id wb.eng_0003.53
+(c2 / state-01
+		:ARG1 (c0 / less
+)		:ARG1 (c6 / intend-01
+			:ARG1 (c3 / that
+)			:ARG1 (c5 / money
+				:quant (c4 / 288
+))			:ARG2 (c7 / pay-01
+	:ARG1 c5
+				:ARG1 (c10 / money
+					:mod (c8 / economy
+)					:mod (c9 / develop-02
+))))		:ARG1 (c1 / person
+			:name (n0 / name :op1 "Walter" :op2 "Stoch" 
+)))
+
+# ::id wb.eng_0003.50
+(c1 / relate-01
+		:ARG0 (c2 / expenditure
+)		:mod (c0 / transport-01
+))
+
+# ::id wb.eng_0003.51
+(c6 / and
+		:op2 (c7 / serve-01
+)		:ARG0 (c9 / thing
+			:ARG2-of (c10 / interest-01
+				:poss (c8 / public
+)))		:op2 (c3 / private
+)		:op1 (c0 / state
+			:name (n0 / name :op1 "Virginia" 
+))		:ARG1 (c2 / benefit-01
+			:mod (c5 / plan
+				:mod (c4 / business
+))	:mod c7
+)		:ARG2 (c1 / it
+))
+
+# ::id wb.eng_0003.56
+(c6 / or
+		:op2 (c2 / stick-01
+			:ARG0 (c1 / you
+)			:location (c3 / traffic
+)			:ARG1 (c5 / way
+				:ARG0 (c4 / you
+)				:poss (c8 / sort
+					:quant (c7 / some
+)					:mod (c9 / business
+))))		:ARG0 (c0 / last
+))
+
+# ::id wb.eng_0003.57
+(c1 / seem-01
+		:ARG1 (c0 / it
+)		:ARG0 (c10 / and
+)		:ARG1 (c6 / facilitate-01
+			:ARG1 (c4 / point
+				:mod (c3 / whole
+)				:mod (c5 / road
+))			:ARG1 (c8 / interest
+				:mod (c7 / public
+))			:ARG1 (c9 / get-01
+				:ARG1 (c12 / business
+					:mod (c11 / private
+))))		:ARG1 (c2 / that
+))
+
+# ::id wb.eng_0003.54
+(c0 / come-01
+		:manner (c2 / !!
+			:ARG1 (c1 / folk
+)))
+
+# ::id wb.eng_0003.55
+(c0 / tmt
+		:op2 (c2 / understand-01
+			:ARG0 (c1 / i
+)			:ARG1 (c3 / point
+)))
+
+# ::id wb.eng_0003.49
+(c4 / and
+		:op1 (c7 / bad-07
+			:mod (c6 / this
+)			:ARG1-of (c8 / pour-01
+				:ARG1 (c10 / money
+					:mod (c9 / more
+))				:ARG1 (c13 / institution
+					:mod (c11 / this
+))))		:op2 (c3 /person
+			:name (n0 / name :op1 "Chichester" 
+))		:ARG0 (c1 / have-org-role-91
+			:ARG2 (c2 / senator
+))		:op3 (c12 / flawed
+)		:mod (c0 / moreover
+)		:time (c5 / toady
+))
+
+# ::id wb.eng_0003.48
+(c7 / recommend-01
+		:ARG1 (c1 / submit-02
+			:ARG0 (c0 / i
+)			:ARG1 (c5 / situation
+				:ARG1 (c2 / that
+)				:mod (c3 / this
+)				:mod (c4 / disgraceful
+)				:ARG1 (c6 / that
+)				:mod (c8 / tolerate-01
+	:ARG1 c5
+))))
+
+# ::id wb.eng_0003.41
+(c2 / problem
+		:ARG1 (c0 / it
+)		:ARG1-of (c1 / same-01
+))
+
+# ::id wb.eng_0003.40
+(c1 / sense-02
+		:mod (c0 / much
+))
+
+# ::id wb.eng_0003.43
+(c2 / need-01
+		:ARG1 (c10 / congestion
+)		:ARG0 (c8 / pave-01
+			:ARG0 (c7 / you
+)			:ARG1 (c9 / way
+))		:ARG0-of (c1 / build-01
+			:ARG0 (c0 / you
+)			:ARG1 (c4 / acute
+				:time (c3 / already
+)))		:ARG1-of (c6 / claim-01
+			:time (c5 / then
+)))
+
+# ::id wb.eng_0003.42
+(c5 / accuse-01
+		:ARG1 (c1 / get-05
+			:ARG0 (c0 / you
+)			:ARG2 (c2 / ahead
+)			:ARG1 (c3 / need-01
+))		:ARG0 (c4 / you
+)		:ARG1-of (c6 / cause-01
+			:ARG1 (c7 / sprawl-01
+)))
+
+# ::id wb.eng_0003.45
+(c2 / point
+		:domain (c0 / that
+)		:mod (c1 / fair
+))
+
+# ::id wb.eng_0003.44
+(c0 / anonymous
+)
+
+# ::id wb.eng_0003.47
+(c23 / contrast-01
+		:ARG2 (c5 / validity
+			:ARG1 (c8 / report-01
+				:mod (c7 / auditor
+					:mod (c6 / state
+))				:op2 (c9 / find-01
+					:ARG1 (c14 / fail-01
+						:ARG1 (c10 / that
+)						:ARG1 (c11 / country
+							:op2 (c12 / and
+	:op2 c14
+								:op2 (c15 / fund-01
+	:ARG1 c11
+									:ARG1 (c13 / vdot
+)									:ARG1 (c17 / project
+										:mod (c16 / transport-01
+))									:ARG1 (c22 / plan-01
+										:mod (c18 / base-02
+)										:mod (c19 / comprehensive
+)										:mod (c20 / state
+)										:mod (c21 / transport-01
+))))							:name (n0 / name :op1 "CTB" 
+))	:ARG2 c13
+	:ARG2 c15
+))))		:ARG1 (c3 / hammer
+			:op1 (c0 / contrast-01
+)			:ARG1 (c2 / situation
+				:mod (c1 / this
+))			:op2 (c4 / home
+))		:ARG0 (c26 / good
+			:degree (c27 / most
+))		:ARG1 (c28 / job
+	:mod c27
+			:mod (c29 / lobbying
+))		:ARG2 (c24 / base-02
+)		:ARG3 (c25 / whoever
+))
+
+# ::id wb.eng_0003.46
+(c1 / make-02
+		:ARG0 (c0 / 5
+)		:ARG1 (c3 / point
+			:mod (c2 / good
+)))
+

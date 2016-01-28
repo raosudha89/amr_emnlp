@@ -1,0 +1,687 @@
+DF-200-192400-625_7744.3
+{0: [(2, 'root')], 2: [(1, 'advmod'), (4, 'nsubj')], 4: [(3, 'det')]}
+
+DF-200-192400-625_7557.36
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (4, 'dobj')]}
+
+DF-200-192400-625_7557.33
+{0: [(8, 'root')], 4: [(3, 'advmod')], 8: [(1, 'cc'), (4, 'nmod'), (6, 'nsubj'), (7, 'aux'), (9, 'dobj'), (12, 'parataxis')], 12: [(11, 'nsubj'), (13, 'dobj'), (15, 'nmod:in'), (16, 'xcomp'), (18, 'xcomp')], 15: [(14, 'case')], 16: [(17, 'cc'), (18, 'conj:and'), (20, 'dobj')], 20: [(19, 'det')]}
+
+DF-199-194215-653_0484.1
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'cop'), (4, 'cc'), (6, 'conj:and')], 6: [(5, 'det'), (14, 'nmod:of')], 9: [(10, 'cc'), (12, 'conj:and')], 12: [(11, 'det')], 13: [(9, 'nummod'), (12, 'nummod')], 14: [(7, 'case'), (8, 'det'), (13, 'nmod:npmod')]}
+
+DF-200-192400-625_6304.2
+{0: [(4, 'root')], 32: [(31, 'case')], 4: [(1, 'advmod'), (3, 'nsubj'), (7, 'ccomp')], 7: [(5, 'nsubj'), (6, 'aux'), (8, 'iobj'), (10, 'dobj'), (12, 'advcl'), (20, 'advcl'), (26, 'advcl')], 10: [(9, 'det')], 12: [(11, 'mark')], 20: [(14, 'mark'), (15, 'nsubj'), (16, 'aux'), (17, 'advmod'), (18, 'cop'), (19, 'advmod'), (22, 'cc'), (26, 'conj:and'), (30, 'conj:and')], 26: [(15, 'nsubj'), (23, 'dep'), (24, 'cc'), (25, 'advmod'), (27, 'cc'), (30, 'conj:and')], 30: [(28, 'det:predet'), (29, 'det'), (32, 'nmod:of')]}
+
+DF-199-194215-653_0484.3
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'xcomp'), (8, 'cc'), (13, 'conj:and')], 4: [(1, 'nsubj'), (3, 'mark'), (5, 'xcomp')], 5: [(7, 'dobj')], 7: [(6, 'amod')], 10: [(9, 'nmod:poss'), (11, 'case')], 12: [(10, 'nmod:poss')], 13: [(12, 'nsubj'), (16, 'advcl')], 16: [(14, 'mark'), (15, 'nsubj'), (19, 'ccomp')], 19: [(17, 'nsubj'), (18, 'aux'), (20, 'dobj'), (22, 'advcl')], 22: [(21, 'mark'), (25, 'nmod:with')], 25: [(23, 'case'), (24, 'nmod:poss')]}
+
+DF-199-194215-653_0484.2
+{0: [(9, 'root')], 1: [(2, 'cc'), (6, 'conj:and')], 4: [(3, 'nmod:poss'), (5, 'case')], 6: [(4, 'nmod:poss')], 9: [(1, 'nsubjpass'), (6, 'nsubjpass'), (7, 'aux'), (8, 'auxpass'), (10, 'compound:prt'), (12, 'nmod:since')], 12: [(11, 'case')]}
+
+DF-199-194215-653_0484.5
+{0: [(2, 'root')], 33: [(30, 'nsubj'), (31, 'aux'), (32, 'neg'), (34, 'dobj')], 2: [(1, 'nsubj'), (4, 'advmod'), (5, 'xcomp'), (12, 'cc'), (14, 'conj:and')], 4: [(3, 'advmod')], 5: [(9, 'nmod:in'), (11, 'advmod')], 9: [(6, 'case'), (7, 'case'), (8, 'nmod:poss')], 11: [(10, 'advmod')], 14: [(13, 'nsubj'), (17, 'ccomp')], 17: [(15, 'nsubj'), (16, 'aux'), (26, 'xcomp'), (33, 'xcomp')], 21: [(18, 'advmod'), (19, 'nsubj'), (20, 'aux'), (22, 'iobj'), (24, 'dobj')], 24: [(23, 'amod')], 26: [(21, 'advcl'), (25, 'nsubj'), (27, 'xcomp'), (29, 'cc'), (33, 'conj:and')], 27: [(28, 'dobj')]}
+
+DF-199-194215-653_0484.4
+{0: [(4, 'root')], 4: [(1, 'nsubj'), (2, 'cop'), (3, 'advmod'), (5, 'cc'), (6, 'conj:and'), (7, 'cc'), (9, 'conj:but')], 6: [(1, 'nsubj')], 9: [(8, 'nsubj'), (11, 'advmod'), (13, 'xcomp')], 11: [(10, 'neg')], 13: [(8, 'nsubj'), (12, 'mark'), (18, 'advcl')], 18: [(14, 'mark'), (15, 'nsubj'), (16, 'cop'), (17, 'neg')]}
+
+DF-199-194215-653_0484.7
+{0: [(3, 'root')], 3: [(1, 'cc'), (2, 'nsubj'), (7, 'xcomp'), (10, 'xcomp'), (11, 'ccomp'), (13, 'cc'), (14, 'conj:and')], 5: [(4, 'neg')], 7: [(5, 'dep'), (6, 'nmod:poss'), (8, 'cc'), (10, 'conj:and')], 10: [(9, 'dep')], 11: [(12, 'compound:prt')], 14: [(2, 'nsubj'), (17, 'dobj')], 17: [(15, 'nmod:poss'), (16, 'amod')]}
+
+DF-199-194215-653_0484.6
+{0: [(2, 'root')], 9: [(3, 'nsubj'), (4, 'mark'), (5, 'cop'), (6, 'advmod'), (7, 'case'), (8, 'nmod:poss'), (11, 'advcl')], 2: [(1, 'nsubj'), (3, 'dobj'), (9, 'xcomp')], 11: [(10, 'mark'), (12, 'dobj'), (13, 'advmod')]}
+
+DF-199-194215-653_0484.9
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (3, 'xcomp'), (18, 'cc'), (22, 'conj:or')], 3: [(4, 'dobj'), (11, 'xcomp')], 11: [(4, 'nsubj'), (5, 'mark'), (6, 'neg'), (7, 'cop'), (8, 'advmod'), (9, 'case'), (10, 'nmod:poss'), (17, 'advcl')], 17: [(12, 'mark'), (13, 'nsubj'), (14, 'cop'), (15, 'det'), (16, 'amod')], 20: [(21, 'mwe')], 22: [(19, 'nsubj'), (20, 'advmod')]}
+
+DF-199-194215-653_0484.8
+{0: [(4, 'root')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (7, 'xcomp'), (9, 'cc'), (20, 'conj:and')], 7: [(1, 'nsubj'), (5, 'mark'), (6, 'cop'), (8, 'advmod')], 11: [(10, 'det')], 15: [(14, 'case')], 17: [(11, 'dep'), (12, 'nsubj'), (13, 'cop'), (15, 'advmod'), (16, 'advmod')], 20: [(17, 'advcl'), (18, 'nsubj'), (19, 'aux')]}
+
+DF-200-192400-625_7744.14
+{0: [(5, 'root')], 2: [(1, 'det')], 5: [(2, 'dep'), (3, 'aux'), (4, 'nsubj'), (6, 'dobj')]}
+
+DF-200-192400-625_6304.1
+{0: [(11, 'root')], 3: [(1, 'discourse'), (2, 'nsubj'), (4, 'dobj'), (6, 'nmod:in')], 6: [(5, 'case')], 11: [(3, 'ccomp'), (8, 'aux'), (9, 'neg'), (10, 'advmod'), (13, 'nmod:with'), (14, 'advmod'), (17, 'nmod:like')], 13: [(12, 'case')], 17: [(15, 'case'), (16, 'amod')]}
+
+DF-200-192400-625_6677.11
+{0: [(12, 'root')], 9: [(1, 'mark'), (5, 'nmod:in'), (7, 'nsubj'), (8, 'aux'), (11, 'dobj')], 11: [(10, 'neg')], 12: [(9, 'csubj'), (13, 'dobj')], 5: [(3, 'case'), (4, 'nmod:poss')]}
+
+DF-200-192400-625_6677.10
+{0: [(6, 'root')], 2: [(1, 'case')], 6: [(2, 'nmod:of'), (4, 'aux'), (5, 'neg'), (7, 'compound:prt'), (9, 'dobj'), (14, 'advcl')], 9: [(8, 'det'), (11, 'nmod:with')], 11: [(10, 'case')], 14: [(12, 'mark'), (13, 'nsubj'), (19, 'nmod:in')], 19: [(15, 'case'), (16, 'advmod'), (17, 'det'), (18, 'amod')]}
+
+DF-200-192400-625_6677.13
+{0: [(7, 'root')], 33: [(32, 'case'), (35, 'ref'), (39, 'acl:relcl')], 7: [(1, 'advmod'), (2, 'nsubj'), (3, 'cop'), (4, 'det:predet'), (5, 'det'), (6, 'amod'), (7, 'conj:negcc'), (8, 'advmod'), (11, 'nmod:of'), (21, 'cc'), (24, 'nmod:to')], 41: [(40, 'nsubj'), (44, 'xcomp')], 11: [(10, 'case'), (15, 'acl:relcl')], 44: [(42, 'cop'), (43, 'det')], 15: [(12, 'nsubj'), (13, 'aux'), (14, 'cop'), (19, 'advcl')], 19: [(16, 'mark'), (17, 'nsubj'), (18, 'cop')], 21: [(20, 'cc')], 24: [(22, 'case'), (23, 'det'), (28, 'acl:relcl')], 39: [(33, 'nsubj'), (36, 'aux'), (37, 'neg'), (38, 'cop'), (41, 'ccomp')], 28: [(25, 'advmod'), (26, 'nsubj'), (27, 'advmod'), (30, 'ccomp')], 30: [(29, 'nsubj'), (31, 'dobj'), (33, 'nmod:to')]}
+
+DF-200-192400-625_6677.12
+{0: [(20, 'root')], 3: [(1, 'advmod'), (2, 'nsubj'), (5, 'xcomp')], 5: [(2, 'nsubj'), (4, 'mark'), (10, 'ccomp')], 10: [(6, 'mark'), (7, 'nsubj'), (8, 'aux'), (9, 'neg'), (12, 'xcomp')], 12: [(7, 'nsubj'), (11, 'mark'), (14, 'advmod'), (16, 'nmod:for')], 14: [(13, 'advmod')], 16: [(15, 'case')], 20: [(3, 'advcl'), (18, 'nsubj'), (19, 'aux'), (21, 'xcomp')], 21: [(23, 'xcomp')], 23: [(22, 'nsubj')]}
+
+DF-200-192400-625_6344.2
+{0: [(4, 'root')], 2: [(1, 'nmod:poss')], 4: [(2, 'nsubj'), (3, 'aux'), (5, 'xcomp'), (8, 'parataxis'), (20, 'parataxis')], 8: [(7, 'nsubj'), (11, 'dobj')], 11: [(9, 'det'), (10, 'amod'), (14, 'nmod:with')], 14: [(12, 'case'), (13, 'nmod:poss')], 16: [(17, 'cc'), (19, 'conj:and')], 19: [(18, 'nmod:poss')], 20: [(16, 'nsubj'), (19, 'nsubj'), (23, 'ccomp')], 23: [(21, 'nsubj'), (22, 'aux'), (25, 'dep'), (27, 'dobj')], 25: [(24, 'nmod:poss')], 27: [(26, 'det')]}
+
+DF-200-192400-625_7200.6
+{0: [(7, 'root')], 1: [(3, 'nmod:on')], 3: [(2, 'case')], 9: [(8, 'case')], 7: [(1, 'nsubj'), (4, 'aux'), (5, 'cop'), (6, 'det'), (9, 'nmod:of')]}
+
+DF-200-192400-625_6304.7
+{0: [(3, 'root')], 8: [(5, 'nsubj'), (6, 'cop'), (7, 'advmod'), (11, 'ccomp')], 2: [(1, 'det')], 3: [(2, 'nsubj'), (4, 'compound:prt'), (8, 'ccomp')], 11: [(9, 'mark'), (10, 'nsubj')]}
+
+DF-199-194215-653_0484.11
+{0: [(3, 'root')], 11: [(10, 'nsubj')], 10: [(9, 'neg')], 3: [(1, 'cc'), (2, 'nsubj'), (7, 'advcl')], 7: [(4, 'mark'), (5, 'nsubj'), (6, 'aux'), (8, 'dobj'), (11, 'dep')]}
+
+DF-199-194215-653_0484.10
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (3, 'ccomp')], 3: [(6, 'ccomp')], 5: [(4, 'det')], 6: [(5, 'nsubj'), (9, 'ccomp')], 8: [(7, 'det')], 9: [(8, 'nsubj'), (11, 'ccomp')], 11: [(10, 'nsubj'), (12, 'advmod'), (14, 'advmod')], 12: [(13, 'cc'), (14, 'conj:or')]}
+
+DF-199-194215-653_0484.13
+{0: [(4, 'root')], 2: [(1, 'nmod:poss')], 4: [(2, 'nsubj'), (3, 'aux'), (6, 'advcl')], 6: [(5, 'nsubj'), (8, 'dobj')], 8: [(7, 'nmod:poss'), (14, 'amod')], 14: [(10, 'amod'), (12, 'amod')]}
+
+DF-199-194215-653_0484.12
+{0: [(4, 'root')], 10: [(8, 'case'), (9, 'nmod:poss')], 4: [(1, 'dep'), (2, 'aux'), (3, 'nsubj'), (6, 'xcomp')], 6: [(3, 'nsubj'), (5, 'mark'), (7, 'compound:prt'), (10, 'nmod:with')]}
+
+DF-199-194215-653_0484.15
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'dobj')], 4: [(3, 'det'), (6, 'acl'), (12, 'acl')], 6: [(5, 'mark'), (9, 'dobj'), (10, 'cc'), (12, 'conj:and')], 9: [(7, 'nmod:poss'), (8, 'amod')], 12: [(11, 'cop'), (17, 'advcl')], 17: [(14, 'mark'), (15, 'aux'), (16, 'neg'), (20, 'nmod:to')], 20: [(18, 'case'), (19, 'nmod:poss')]}
+
+DF-199-194215-653_0484.14
+{0: [(4, 'root')], 12: [(9, 'nsubj'), (10, 'aux'), (11, 'advmod')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (7, 'nmod:to'), (8, 'cc'), (12, 'conj:or')], 7: [(5, 'case'), (6, 'case')]}
+
+DF-199-194215-653_0484.17
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'ccomp'), (19, 'parataxis')], 4: [(3, 'nsubj'), (9, 'ccomp')], 9: [(7, 'nsubj'), (8, 'aux'), (11, 'xcomp')], 11: [(7, 'nsubj'), (10, 'mark'), (12, 'dobj'), (15, 'advcl')], 15: [(13, 'mark'), (14, 'nsubj'), (16, 'dobj')], 19: [(20, 'dobj')]}
+
+DF-199-194215-653_0484.16
+{0: [(10, 'root')], 4: [(1, 'mark'), (2, 'nsubj'), (3, 'advmod'), (6, 'dobj')], 6: [(5, 'nmod:poss')], 10: [(4, 'advcl'), (8, 'nsubj'), (9, 'aux'), (11, 'dobj'), (12, 'advmod'), (14, 'cc'), (21, 'conj:but')], 21: [(15, 'nsubj'), (16, 'cop'), (17, 'advmod'), (18, 'det'), (19, 'amod'), (20, 'compound'), (24, 'ccomp')], 24: [(22, 'mark'), (23, 'nsubj'), (26, 'ccomp')], 26: [(25, 'nsubj')]}
+
+DF-199-194215-653_0484.19
+{0: [(1, 'root')], 1: [(3, 'dobj')], 3: [(2, 'det'), (5, 'nmod:of')], 5: [(4, 'case')]}
+
+DF-199-194215-653_0484.18
+{0: [(1, 'root')]}
+
+DF-200-192400-625_6304.5
+{0: [(2, 'root')], 2: [(1, 'dep'), (5, 'nmod:to')], 10: [(7, 'advmod'), (8, 'cop'), (9, 'det')], 5: [(3, 'case'), (4, 'det'), (10, 'acl:relcl')]}
+
+DF-200-192400-625_7046.13
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (5, 'xcomp'), (29, 'advcl')], 4: [(3, 'det')], 5: [(4, 'nmod:npmod'), (7, 'ccomp'), (13, 'dep'), (16, 'dep')], 7: [(6, 'nsubj'), (10, 'dobj')], 10: [(8, 'det'), (9, 'amod')], 13: [(11, 'mark'), (12, 'nsubj'), (15, 'cc'), (16, 'conj:but')], 16: [(12, 'nsubj'), (17, 'dobj'), (19, 'advcl')], 19: [(18, 'mark'), (20, 'dobj')], 27: [(28, 'case')], 29: [(22, 'mark'), (23, 'nsubj'), (24, 'advmod'), (25, 'cop'), (26, 'neg'), (27, 'nmod:poss'), (32, 'nmod:as'), (50, 'dep'), (59, 'conj')], 32: [(31, 'case'), (36, 'acl')], 36: [(34, 'cop'), (35, 'compound:prt'), (42, 'dep')], 39: [(38, 'auxpass')], 42: [(37, 'mark'), (39, 'csubj'), (40, 'cop'), (41, 'advmod'), (45, 'dep'), (48, 'dep')], 45: [(43, 'mark'), (44, 'cop'), (46, 'cc'), (48, 'conj:and')], 48: [(47, 'auxpass')], 51: [(55, 'dep')], 55: [(53, 'mark'), (54, 'nsubj'), (57, 'dobj')], 57: [(56, 'det')], 59: [(51, 'nsubj'), (60, 'xcomp')], 60: [(62, 'nmod:to')], 62: [(61, 'case')]}
+
+DF-200-192392-456_1160.5
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (12, 'advcl')], 5: [(4, 'mark'), (11, 'nmod:as')], 11: [(6, 'advmod'), (7, 'advmod'), (8, 'advmod'), (9, 'advmod'), (10, 'case')], 12: [(3, 'mark'), (5, 'csubj'), (13, 'neg'), (14, 'dep')], 14: [(17, 'xcomp')], 17: [(15, 'mark'), (16, 'aux'), (18, 'dobj')], 18: [(20, 'dep')], 20: [(19, 'det')]}
+
+DF-200-192392-456_1160.4
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (4, 'xcomp')]}
+
+DF-200-192392-456_1160.7
+{0: [(2, 'root')], 2: [(1, 'nmod:poss'), (4, 'acl'), (12, 'dep')], 4: [(3, 'mark'), (6, 'dobj'), (8, 'nmod:in')], 6: [(5, 'amod')], 8: [(7, 'case'), (10, 'nmod:of')], 10: [(9, 'case')], 12: [(17, 'dep')], 17: [(13, 'mark'), (14, 'nsubj'), (15, 'aux'), (16, 'advmod'), (18, 'dobj'), (20, 'nmod:like')], 20: [(19, 'case'), (22, 'nmod:in')], 22: [(21, 'case')]}
+
+DF-200-192392-456_1160.6
+{0: [(12, 'root')], 1: [(5, 'dobj')], 5: [(2, 'det'), (3, 'compound'), (4, 'nummod'), (8, 'nmod:on')], 8: [(6, 'case'), (7, 'det')], 12: [(1, 'ccomp'), (10, 'nsubj'), (11, 'advmod'), (13, 'dobj'), (15, 'xcomp')], 15: [(13, 'nsubj'), (14, 'mark'), (17, 'nmod:on'), (21, 'nmod:as')], 17: [(16, 'case'), (19, 'amod')], 19: [(18, 'amod')], 21: [(20, 'case')]}
+
+DF-200-192392-456_1160.1
+{0: [(11, 'root')], 3: [(1, 'det'), (2, 'compound')], 4: [(3, 'nsubj'), (6, 'dobj')], 6: [(5, 'amod')], 10: [(8, 'det'), (9, 'amod')], 11: [(4, 'ccomp'), (10, 'nsubj'), (13, 'dobj')], 13: [(12, 'amod'), (16, 'appos')], 16: [(15, 'det'), (17, 'ref'), (18, 'acl:relcl')], 18: [(16, 'nsubj'), (21, 'ccomp')], 20: [(19, 'nmod:poss')], 21: [(20, 'nsubj'), (23, 'dobj')], 23: [(22, 'amod')]}
+
+DF-200-192400-625_7046.10
+{0: [(6, 'root')], 33: [(32, 'case')], 6: [(1, 'nsubj'), (2, 'cop'), (3, 'neg'), (4, 'det'), (5, 'compound'), (7, 'cc'), (11, 'conj:and')], 11: [(8, 'nsubj'), (9, 'aux'), (10, 'advmod'), (14, 'nmod:from')], 14: [(12, 'case'), (13, 'amod'), (15, 'ref'), (16, 'acl:relcl')], 16: [(14, 'nsubj'), (20, 'advcl')], 20: [(17, 'advmod'), (18, 'nsubj'), (19, 'advmod'), (22, 'ccomp')], 22: [(21, 'nsubj'), (26, 'dobj'), (33, 'nmod:about')], 26: [(23, 'det'), (24, 'amod'), (25, 'compound'), (29, 'nmod:about'), (31, 'nmod:about')], 29: [(27, 'case'), (28, 'nmod:poss'), (30, 'cc'), (31, 'conj:and')]}
+
+DF-200-192392-456_1160.3
+{8: [(1, 'nsubj'), (7, 'mark'), (10, 'dobj')], 0: [(4, 'root')], 10: [(9, 'det')], 4: [(1, 'nsubj'), (2, 'advmod'), (3, 'aux'), (6, 'xcomp')], 6: [(1, 'nsubj'), (5, 'mark'), (8, 'xcomp')]}
+
+DF-200-192392-456_1160.2
+{0: [(4, 'root')], 4: [(1, 'aux'), (2, 'dobj'), (3, 'neg'), (9, 'ccomp')], 9: [(5, 'mark'), (6, 'nsubj'), (7, 'aux'), (8, 'neg'), (10, 'dobj'), (15, 'nmod:from')], 10: [(12, 'nmod:of')], 12: [(11, 'case')], 15: [(13, 'case'), (14, 'det')]}
+
+DF-200-192400-625_7046.11
+{0: [(3, 'root')], 129: [(126, 'nsubj'), (131, 'nmod:like')], 2: [(1, 'amod')], 3: [(2, 'nsubj'), (150, 'ccomp')], 4: [(5, 'cc'), (6, 'conj:and'), (41, 'acl:relcl'), (145, 'acl')], 136: [(133, 'advmod'), (134, 'nsubj'), (135, 'aux'), (139, 'advcl')], 10: [(7, 'advmod'), (8, 'nsubj'), (9, 'advmod'), (12, 'xcomp'), (21, 'cc'), (25, 'conj:but')], 139: [(137, 'mark'), (138, 'nsubj'), (141, 'xcomp')], 12: [(8, 'nsubj'), (11, 'mark'), (15, 'dep')], 141: [(138, 'nsubj'), (140, 'mark'), (142, 'advmod')], 15: [(14, 'nsubj'), (16, 'advmod'), (19, 'advmod')], 145: [(144, 'auxpass'), (147, 'nmod:to')], 19: [(17, 'dep'), (18, 'advmod')], 150: [(4, 'nsubj'), (6, 'nsubj'), (148, 'aux'), (149, 'advmod'), (152, 'ccomp'), (156, 'dep'), (160, 'dep')], 152: [(151, 'nsubj'), (153, 'xcomp')], 25: [(22, 'nsubj'), (23, 'aux'), (24, 'advmod'), (28, 'ccomp')], 28: [(26, 'mark'), (27, 'nsubj'), (30, 'dobj')], 30: [(29, 'det'), (35, 'nmod:with')], 160: [(162, 'dobj')], 162: [(161, 'det')], 35: [(31, 'case'), (32, 'nmod:poss'), (33, 'compound'), (34, 'amod')], 41: [(10, 'advcl'), (25, 'advcl'), (37, 'nsubj'), (38, 'aux'), (39, 'neg'), (40, 'advmod'), (83, 'dep'), (87, 'dep'), (97, 'dep')], 45: [(44, 'aux'), (46, 'dobj'), (50, 'ccomp'), (52, 'ccomp')], 50: [(47, 'mark'), (48, 'nsubj'), (49, 'cop'), (51, 'cc'), (52, 'conj:or')], 128: [(127, 'case')], 158: [(157, 'case')], 57: [(45, 'ccomp'), (54, 'nsubj'), (55, 'aux'), (56, 'advmod'), (59, 'dobj'), (63, 'cc'), (65, 'conj:and'), (69, 'dep')], 59: [(58, 'det'), (62, 'nmod:at')], 62: [(60, 'case'), (61, 'det')], 65: [(54, 'nsubj'), (64, 'aux'), (67, 'dobj')], 67: [(66, 'det')], 69: [(73, 'acl:relcl')], 73: [(70, 'cop'), (71, 'neg'), (72, 'advmod'), (76, 'nmod:as')], 76: [(74, 'case'), (75, 'nmod:poss')], 78: [(43, 'compound'), (57, 'dep'), (65, 'dep'), (79, 'cc'), (80, 'conj:and')], 156: [(155, 'cop'), (158, 'nmod:to'), (159, 'cc'), (160, 'conj:and')], 83: [(42, 'mark'), (78, 'nsubj'), (80, 'nsubj'), (81, 'cop'), (82, 'advmod'), (87, 'conj:but'), (92, 'cc'), (97, 'conj:but'), (113, 'conj:but'), (136, 'conj:but')], 87: [(85, 'advmod'), (86, 'advmod'), (89, 'xcomp'), (90, 'nsubj')], 89: [(88, 'mark'), (90, 'nsubj')], 97: [(93, 'advmod'), (95, 'nsubj'), (96, 'aux'), (99, 'xcomp'), (107, 'xcomp'), (110, 'cc'), (113, 'conj:but'), (129, 'parataxis'), (132, 'cc'), (136, 'conj:but')], 99: [(95, 'nsubj'), (98, 'mark'), (101, 'nmod:with'), (103, 'nmod:with'), (105, 'nmod:in')], 131: [(130, 'case')], 101: [(100, 'case'), (102, 'cc'), (103, 'conj:and')], 105: [(104, 'case')], 107: [(95, 'nsubj'), (106, 'mark'), (108, 'advmod')], 113: [(95, 'nsubj'), (111, 'aux'), (112, 'neg'), (114, 'dobj'), (115, 'compound:prt'), (117, 'advcl')], 147: [(146, 'case')], 117: [(116, 'mark'), (118, 'xcomp')], 118: [(120, 'xcomp')], 120: [(119, 'mark'), (121, 'dobj'), (124, 'nmod:at')], 124: [(122, 'case'), (123, 'det')], 126: [(128, 'nmod:of')]}
+
+DF-200-192400-625_7806.3
+{0: [(3, 'root')], 33: [(32, 'mark'), (36, 'nmod:in')], 3: [(1, 'nsubj'), (2, 'aux'), (5, 'xcomp')], 36: [(34, 'case'), (35, 'nmod:poss')], 5: [(1, 'nsubj'), (4, 'mark'), (6, 'dobj'), (10, 'nmod:about')], 6: [(7, 'amod')], 10: [(8, 'case'), (9, 'det'), (12, 'nmod:of')], 12: [(11, 'case'), (13, 'ref'), (17, 'acl:relcl'), (23, 'acl:relcl')], 17: [(12, 'nsubj'), (14, 'advmod'), (15, 'aux'), (16, 'neg'), (20, 'xcomp'), (21, 'cc'), (23, 'conj:or')], 20: [(18, 'nsubj'), (19, 'advmod')], 23: [(12, 'nsubj'), (22, 'advmod'), (25, 'dobj'), (27, 'nmod:as'), (29, 'advcl')], 25: [(24, 'nmod:poss')], 27: [(26, 'case')], 29: [(28, 'mark'), (31, 'dobj'), (33, 'advcl')], 31: [(30, 'compound')]}
+
+DF-200-192400-625_7046.8
+{0: [(26, 'root')], 1: [(3, 'nmod:to')], 3: [(2, 'case'), (5, 'dep'), (12, 'dep'), (25, 'dep')], 5: [(4, 'dep'), (8, 'dobj'), (10, 'cc'), (12, 'conj:and'), (22, 'cc'), (25, 'conj:and')], 8: [(6, 'det'), (7, 'amod')], 12: [(11, 'nsubj'), (14, 'dobj'), (19, 'parataxis')], 14: [(13, 'det'), (17, 'nmod:like')], 17: [(15, 'case'), (16, 'det')], 19: [(20, 'dobj')], 25: [(23, 'nsubj'), (24, 'advmod')], 26: [(1, 'nsubj'), (27, 'xcomp')]}
+
+DF-200-192400-625_7046.9
+{0: [(35, 'root')], 33: [(31, 'case'), (32, 'amod')], 35: [(8, 'nsubj'), (39, 'xcomp')], 5: [(4, 'case'), (6, 'case')], 39: [(36, 'cop'), (37, 'det'), (38, 'compound')], 8: [(1, 'nmod:poss'), (3, 'amod'), (7, 'amod'), (12, 'acl'), (22, 'acl')], 12: [(9, 'mark'), (10, 'nsubj'), (11, 'mark'), (14, 'xcomp'), (20, 'advcl:in'), (21, 'cc'), (22, 'conj:and')], 14: [(13, 'advmod')], 3: [(2, 'neg'), (5, "nmod:'s")], 20: [(15, 'advmod'), (16, 'nsubj'), (17, 'cop'), (18, 'case'), (19, 'amod')], 22: [(10, 'nsubj'), (24, 'dobj')], 24: [(23, 'det'), (26, 'acl'), (30, 'acl')], 26: [(25, 'mark'), (28, 'nmod:with'), (29, 'cc'), (30, 'conj:and')], 28: [(27, 'case')], 30: [(33, 'nmod:into')]}
+
+DF-200-192400-625_7046.4
+{0: [(2, 'root')], 32: [(19, 'nsubj'), (22, 'dep'), (29, 'dep'), (31, 'nsubj'), (34, 'dobj')], 2: [(1, 'nsubj'), (5, 'nmod:at'), (14, 'advcl'), (18, 'advcl')], 43: [(42, 'nsubj'), (45, 'xcomp'), (48, 'nmod:in')], 36: [(35, 'mark'), (38, 'nmod:on'), (41, 'conj:and'), (50, 'cc'), (51, 'conj:and')], 5: [(3, 'case'), (4, 'det')], 38: [(37, 'case')], 54: [(53, 'case'), (55, 'cc'), (56, 'conj:and')], 8: [(7, 'det'), (11, 'nmod:in')], 41: [(40, 'advmod'), (43, 'dep')], 11: [(9, 'case'), (10, 'nmod:poss')], 34: [(33, 'neg'), (36, 'acl'), (41, 'acl'), (51, 'acl')], 14: [(6, 'mark'), (8, 'nsubj'), (12, 'cop'), (13, 'advmod'), (16, 'cc'), (18, 'conj:and')], 45: [(44, 'advmod')], 48: [(46, 'case'), (47, 'amod')], 18: [(8, 'nsubj'), (17, 'aux'), (32, 'xcomp')], 51: [(52, 'dobj'), (54, 'nmod:over'), (56, 'nmod:over')], 22: [(20, 'advmod'), (21, 'advmod')], 26: [(25, 'advmod')], 27: [(23, 'dep'), (24, 'nmod:poss'), (26, 'amod')], 29: [(27, 'dep')]}
+
+DF-200-192400-625_7046.5
+{0: [(6, 'root')], 1: [(4, 'nmod:of')], 35: [(31, 'mark'), (32, 'nsubj'), (33, 'cop'), (34, 'det'), (40, 'nmod:of')], 4: [(2, 'case'), (3, 'nmod:poss')], 38: [(37, 'nmod:poss'), (39, 'case')], 6: [(1, 'nsubj'), (5, 'aux'), (7, 'dobj'), (9, 'nmod:with'), (11, 'cc'), (14, 'conj:and'), (22, 'cc'), (27, 'conj:and')], 40: [(36, 'case'), (38, 'nmod:poss'), (42, 'appos')], 9: [(8, 'case')], 14: [(12, 'nsubj'), (13, 'aux'), (18, 'ccomp')], 18: [(15, 'nsubj'), (16, 'aux'), (17, 'neg'), (20, 'nmod:from')], 20: [(19, 'case')], 27: [(23, 'nsubj'), (24, 'cop'), (25, 'det'), (26, 'amod'), (29, 'nmod:to'), (35, 'advcl')], 29: [(28, 'case')]}
+
+DF-200-192400-625_7046.6
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (5, 'xcomp'), (12, 'xcomp'), (22, 'xcomp'), (32, 'cc'), (41, 'conj:but'), (73, 'conj:but')], 5: [(1, 'nsubj'), (4, 'mark'), (7, 'dobj'), (8, 'advmod'), (10, 'cc'), (12, 'conj:and'), (19, 'cc'), (22, 'conj:and')], 7: [(6, 'nmod:poss')], 12: [(1, 'nsubj'), (11, 'aux'), (13, 'dobj'), (15, 'dobj')], 13: [(14, 'cc'), (15, 'conj:and'), (17, 'amod')], 17: [(16, 'advmod')], 22: [(1, 'nsubj'), (20, 'aux'), (21, 'advmod'), (23, 'dobj'), (24, 'advcl')], 24: [(25, 'dep')], 25: [(27, 'dep')], 27: [(28, 'dobj'), (30, 'dobj')], 28: [(29, 'cc'), (30, 'conj:and')], 35: [(33, 'nmod:poss'), (34, 'amod'), (37, 'acl:relcl')], 41: [(35, 'nsubj'), (40, 'cop'), (42, 'ref'), (46, 'acl:relcl'), (50, 'dep'), (56, 'appos'), (65, 'ccomp'), (69, 'cc'), (73, 'conj:and')], 44: [(43, 'nmod:poss')], 46: [(41, 'dobj'), (44, 'nsubj'), (45, 'aux'), (73, 'dobj')], 50: [(48, 'nmod:poss'), (49, 'nummod'), (52, 'nmod:at')], 52: [(51, 'case')], 56: [(54, 'nmod:poss'), (55, 'nummod'), (61, 'acl')], 61: [(57, 'mark'), (58, 'cop'), (59, 'det'), (60, 'amod')], 65: [(63, 'nsubj'), (64, 'aux'), (66, 'dobj')], 71: [(70, 'det')], 73: [(71, 'nsubj'), (72, 'aux'), (74, 'compound:prt'), (76, 'nmod:at')], 76: [(75, 'case')]}
+
+DF-200-192400-625_7046.7
+{0: [(5, 'root')], 64: [(59, 'nsubj'), (61, 'nsubj'), (63, 'nsubj')], 45: [(44, 'nsubj'), (50, 'advcl'), (56, 'dep')], 5: [(1, 'nsubj'), (2, 'advmod'), (3, 'aux'), (4, 'neg'), (8, 'dep'), (13, 'dep'), (45, 'dep'), (58, 'cc'), (64, 'conj:and')], 39: [(38, 'det'), (42, 'nmod:of')], 8: [(6, 'nsubj'), (7, 'mark'), (10, 'cc'), (13, 'conj:and')], 42: [(40, 'case'), (41, 'det')], 13: [(11, 'advmod'), (12, 'nsubj'), (15, 'nmod:of'), (17, 'xcomp')], 15: [(14, 'case')], 48: [(47, 'compound')], 17: [(12, 'nsubj'), (16, 'mark'), (21, 'parataxis'), (28, 'dep'), (37, 'dep')], 50: [(46, 'mark'), (48, 'nsubj'), (49, 'aux'), (52, 'xcomp')], 52: [(48, 'nsubj'), (51, 'mark')], 21: [(19, 'nsubj'), (20, 'neg'), (22, 'compound:prt'), (24, 'nmod:with')], 56: [(54, 'nsubj'), (55, 'aux')], 24: [(23, 'case')], 59: [(60, 'cc'), (61, 'conj:and'), (62, 'advmod')], 28: [(26, 'nsubj'), (27, 'advmod'), (31, 'ccomp'), (33, 'cc'), (37, 'conj:and')], 37: [(34, 'nsubj'), (35, 'aux'), (36, 'neg'), (39, 'dobj')], 31: [(29, 'nsubj'), (30, 'cop')]}
+
+DF-200-192400-625_7046.1
+{0: [(4, 'root')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (8, 'advcl'), (11, 'cc'), (14, 'conj:but'), (17, 'conj:but')], 8: [(5, 'mark'), (6, 'nsubj'), (7, 'aux'), (9, 'dobj')], 14: [(12, 'nsubj'), (13, 'advmod'), (15, 'xcomp'), (16, 'cc'), (17, 'conj:and')], 17: [(12, 'nsubj'), (19, 'dobj'), (21, 'advcl')], 19: [(18, 'det')], 21: [(20, 'mark'), (22, 'dobj')]}
+
+DF-200-192400-625_6344.7
+{0: [(4, 'root')], 11: [(9, 'mark'), (10, 'nsubj'), (13, 'nmod:at')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (5, 'dobj'), (7, 'nmod:at'), (11, 'advcl')], 13: [(12, 'case')], 7: [(6, 'case')]}
+
+DF-200-192400-625_7046.3
+{0: [(42, 'root')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'aux'), (5, 'advmod'), (13, 'advcl'), (30, 'cc'), (32, 'conj:and')], 5: [(8, 'nmod:for')], 8: [(6, 'case'), (7, 'det'), (11, 'nmod:of')], 11: [(9, 'case'), (10, 'nmod:poss')], 13: [(12, 'mark'), (16, 'nmod:to'), (21, 'advcl')], 16: [(14, 'case'), (15, 'amod')], 21: [(18, 'mark'), (19, 'nsubj'), (20, 'aux'), (23, 'dobj'), (27, 'nmod:around')], 23: [(22, 'nmod:poss')], 27: [(24, 'case'), (25, 'case'), (26, 'det'), (29, 'nmod:of')], 29: [(28, 'case')], 32: [(1, 'nsubj'), (31, 'advmod'), (34, 'xcomp')], 34: [(1, 'nsubj'), (33, 'mark'), (35, 'dep')], 35: [(38, 'nmod:for')], 38: [(36, 'case'), (37, 'nmod:poss')], 42: [(4, 'dep'), (32, 'dep'), (40, 'nsubj'), (41, 'aux'), (44, 'dobj')], 44: [(43, 'nummod'), (46, 'acl')], 46: [(45, 'mark'), (49, 'nmod:in'), (62, 'nmod:tmod')], 49: [(47, 'case'), (48, 'nmod:poss'), (54, 'advmod')], 54: [(51, 'case'), (52, 'advmod'), (53, 'nummod'), (56, 'nmod:from'), (60, 'nmod:until')], 56: [(55, 'case'), (57, 'nummod')], 60: [(58, 'case'), (59, 'advmod')], 62: [(61, 'det')]}
+
+DF-200-192400-625_7744.11
+{0: [(5, 'root')], 5: [(1, 'nsubj'), (2, 'aux'), (3, 'advmod'), (4, 'neg'), (8, 'nmod:of'), (15, 'ccomp')], 8: [(6, 'case'), (7, 'det'), (10, 'nmod:like'), (12, 'nmod:like')], 10: [(9, 'case'), (11, 'cc'), (12, 'conj:and')], 15: [(13, 'advmod'), (14, 'nsubj'), (18, 'ccomp')], 18: [(16, 'nsubj'), (17, 'mark')]}
+
+DF-200-192400-625_7806.12
+{0: [(15, 'root')], 4: [(3, 'compound')], 5: [(2, 'mark'), (4, 'nsubj'), (6, 'dobj'), (10, 'parataxis')], 10: [(8, 'advmod'), (9, 'nsubj'), (12, 'xcomp')], 12: [(9, 'nsubj'), (11, 'mark'), (13, 'dobj')], 15: [(1, 'cc'), (5, 'advcl'), (16, 'dobj')], 16: [(19, 'nmod:of')], 19: [(17, 'case'), (18, 'nmod:poss'), (21, 'acl')], 21: [(20, 'mark'), (24, 'ccomp')], 24: [(22, 'nsubj'), (23, 'dep'), (26, 'xcomp'), (31, 'xcomp')], 36: [(32, 'case'), (33, 'amod'), (34, 'compound'), (35, 'compound')], 26: [(25, 'nsubj'), (28, 'nmod:for'), (29, 'cc'), (31, 'conj:and')], 28: [(27, 'case')], 31: [(30, 'nsubj'), (36, 'nmod:from')]}
+
+DF-200-192400-625_7200.2
+{0: [(4, 'root')], 4: [(1, 'nsubj'), (2, 'cop'), (3, 'advmod'), (6, 'nmod:to')], 6: [(5, 'case')]}
+
+DF-200-192400-625_7806.10
+{0: [(1, 'root')], 1: [(3, 'xcomp'), (23, 'xcomp')], 3: [(2, 'nsubj'), (4, 'ccomp'), (21, 'cc'), (23, 'conj:and')], 4: [(6, 'xcomp')], 6: [(5, 'mark'), (8, 'dobj'), (11, 'nmod:on'), (18, 'advcl')], 33: [(32, 'expl')], 8: [(7, 'det')], 11: [(9, 'case'), (10, 'compound'), (14, 'nmod:for')], 14: [(12, 'case'), (13, 'det')], 18: [(15, 'mark'), (16, 'nsubj'), (17, 'aux'), (19, 'dobj')], 19: [(20, 'amod')], 23: [(2, 'nsubj'), (22, 'advmod'), (25, 'xcomp')], 25: [(2, 'nsubj'), (24, 'mark'), (29, 'xcomp')], 29: [(26, 'amod'), (27, 'amod'), (28, 'compound'), (31, 'nmod:of'), (33, 'acl:relcl')], 31: [(30, 'case')]}
+
+DF-200-192400-625_7806.11
+{0: [(8, 'root')], 32: [(31, 'case')], 4: [(2, 'nsubj'), (3, 'aux'), (6, 'xcomp')], 6: [(1, 'dobj'), (2, 'nsubj'), (5, 'mark')], 8: [(4, 'csubj'), (7, 'cop'), (10, 'nmod:on'), (11, 'ref'), (13, 'acl:relcl')], 10: [(9, 'case')], 13: [(8, 'nsubjpass'), (12, 'auxpass'), (15, 'xcomp'), (19, 'xcomp')], 15: [(8, 'nsubj'), (14, 'mark'), (17, 'ccomp'), (18, 'cc'), (19, 'conj:or')], 17: [(16, 'nsubj')], 19: [(8, 'nsubj'), (20, 'xcomp'), (22, 'advmod'), (25, 'advcl')], 22: [(21, 'advmod')], 25: [(23, 'mark'), (24, 'nsubj'), (27, 'xcomp')], 27: [(24, 'nsubj'), (26, 'mark'), (30, 'dobj'), (32, 'nmod:about')], 30: [(28, 'det'), (29, 'compound')]}
+
+DF-200-192400-625_7806.16
+{0: [(11, 'root')], 9: [(8, 'advmod')], 11: [(1, 'advmod'), (5, 'dep'), (9, 'ccomp'), (14, "nmod:'s")], 5: [(3, 'mark'), (4, 'nsubj'), (6, 'xcomp')], 14: [(12, 'case'), (13, 'det'), (15, 'case')]}
+
+DF-200-192400-625_7806.17
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'dobj'), (25, 'advcl')], 4: [(3, 'det'), (5, 'ref'), (6, 'acl:relcl')], 6: [(4, 'nsubj'), (9, 'nmod:from')], 9: [(7, 'case'), (8, 'amod'), (10, 'ref'), (12, 'acl:relcl')], 12: [(9, 'nsubj'), (11, 'aux'), (13, 'dobj'), (15, 'advcl'), (19, 'advcl')], 15: [(14, 'mark'), (17, 'dobj'), (18, 'cc'), (19, 'conj:and')], 17: [(16, 'det')], 19: [(20, 'dobj')], 25: [(21, 'mark'), (22, 'nsubj'), (23, 'cop'), (24, 'advmod'), (29, 'advcl')], 29: [(26, 'mark'), (27, 'nsubj'), (28, 'aux'), (30, 'xcomp')]}
+
+DF-200-192400-625_7806.14
+{0: [(7, 'root')], 3: [(1, 'dobj'), (2, 'nsubj'), (4, 'ccomp')], 7: [(3, 'csubj'), (5, 'aux'), (6, 'advmod'), (11, 'advcl')], 11: [(8, 'mark'), (9, 'nsubj'), (10, 'aux'), (13, 'xcomp')], 13: [(12, 'nsubj'), (15, 'nmod:to')], 15: [(14, 'case'), (16, 'advmod')]}
+
+DF-200-192400-625_7806.15
+{0: [(2, 'root')], 33: [(29, 'case'), (30, 'det'), (31, 'compound'), (32, 'compound')], 2: [(1, 'dep'), (9, 'nmod')], 43: [(42, 'nsubj'), (44, 'advmod'), (46, 'nmod:about'), (49, 'advcl')], 49: [(47, 'mark'), (48, 'nsubj'), (55, 'ccomp')], 6: [(3, 'case'), (4, 'det'), (5, 'amod')], 39: [(34, 'mark'), (35, 'nsubj'), (36, 'aux'), (37, 'aux'), (38, 'aux'), (40, 'dobj')], 9: [(6, 'nmod:in'), (7, 'cc'), (8, 'nsubj'), (41, 'ccomp'), (60, 'ccomp')], 11: [(13, 'dobj'), (17, 'ccomp'), (22, 'cc'), (23, 'conj:and')], 13: [(12, 'det')], 46: [(45, 'case')], 60: [(57, 'nsubj'), (58, 'aux'), (59, 'neg'), (63, 'xcomp')], 17: [(14, 'mark'), (15, 'nsubjpass'), (16, 'auxpass'), (21, 'nmod:to')], 65: [(64, 'case')], 21: [(18, 'case'), (19, 'case'), (20, 'nmod:poss')], 41: [(10, 'mark'), (11, 'csubj'), (23, 'csubj'), (43, 'ccomp'), (56, 'cc'), (60, 'conj:and')], 23: [(25, 'ccomp')], 25: [(24, 'nsubj'), (28, 'nmod:to'), (39, 'advcl')], 28: [(26, 'case'), (27, 'det'), (33, 'nmod:in')], 55: [(50, 'nsubj'), (51, 'cop'), (52, 'neg'), (53, 'det'), (54, 'amod')], 63: [(57, 'nsubj'), (61, 'mark'), (62, 'cop'), (65, 'nmod:about')]}
+
+DF-200-192400-625_7744.9
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'advmod'), (6, 'ccomp')], 6: [(4, 'nsubj'), (5, 'aux'), (7, 'compound:prt'), (9, 'advcl')], 9: [(8, 'mark'), (12, 'dobj'), (16, 'ccomp'), (18, 'ccomp')], 11: [(10, 'advmod')], 12: [(11, 'nummod')], 16: [(13, 'mark'), (14, 'nsubj'), (15, 'aux'), (17, 'cc'), (18, 'conj:or'), (19, 'dobj')], 18: [(14, 'nsubj')]}
+
+DF-200-192400-625_7806.18
+{0: [(3, 'root')], 2: [(1, 'det')], 3: [(2, 'nsubj'), (5, 'dobj'), (6, 'cc'), (9, 'conj:and')], 5: [(4, 'nmod:poss')], 9: [(7, 'nsubjpass'), (8, 'auxpass'), (12, 'xcomp')], 12: [(10, 'nsubj'), (11, 'advmod')]}
+
+DF-200-192400-625_7744.10
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'advmod'), (4, 'xcomp'), (9, 'cc'), (11, 'conj:and')], 4: [(7, 'ccomp')], 7: [(5, 'nsubj'), (6, 'mark')], 11: [(1, 'nsubj'), (10, 'cop'), (13, 'advcl')], 13: [(12, 'mark'), (16, 'nmod:to')], 16: [(14, 'case'), (15, 'det')]}
+
+DF-200-192400-625_7046.2
+{0: [(45, 'root')], 33: [(29, 'advmod'), (31, 'advmod'), (32, 'nsubj'), (34, 'advmod')], 3: [(1, 'det'), (2, 'compound')], 4: [(3, 'nsubj'), (5, 'dobj'), (7, 'cc'), (8, 'conj:and'), (36, 'cc'), (42, 'conj:and')], 49: [(48, 'case'), (50, 'advmod')], 8: [(3, 'nsubj'), (10, 'nmod:at')], 10: [(9, 'case'), (15, 'acl:relcl')], 45: [(4, 'ccomp'), (8, 'ccomp'), (42, 'ccomp'), (44, 'nsubj'), (47, 'ccomp'), (52, 'ccomp')], 15: [(12, 'nsubj'), (13, 'cop'), (14, 'advmod'), (17, 'advcl'), (28, 'advcl')], 17: [(16, 'mark'), (18, 'dobj'), (23, 'dobj')], 18: [(21, 'cc'), (23, 'conj:rather')], 52: [(53, 'dobj'), (56, 'dobj')], 21: [(20, 'cc')], 23: [(22, 'amod'), (25, 'nmod:about')], 56: [(55, 'advmod')], 25: [(24, 'case')], 47: [(46, 'advmod'), (49, 'nmod:by'), (51, 'cc'), (52, 'conj:and')], 28: [(26, 'mark'), (27, 'nsubj'), (33, 'ccomp')], 42: [(37, 'aux'), (38, 'cop'), (39, 'case'), (40, 'amod'), (41, 'nummod')], 53: [(54, 'cc'), (56, 'conj:and')]}
+
+DF-200-192400-625_6304.10
+{0: [(2, 'root')], 2: [(1, 'advmod'), (4, 'dep')]}
+
+DF-200-192400-625_6304.11
+{0: [(14, 'root')], 2: [(4, 'nmod:npmod')], 4: [(3, 'det')], 7: [(2, 'dep'), (6, 'nsubj'), (8, 'advmod')], 8: [(11, 'nmod:to')], 11: [(9, 'case'), (10, 'nmod:poss')], 34: [(32, 'det:predet'), (33, 'det')], 14: [(7, 'advcl'), (13, 'nsubj'), (16, 'dobj')], 16: [(15, 'amod'), (18, 'acl')], 18: [(17, 'mark'), (22, 'parataxis'), (27, 'ccomp')], 22: [(20, 'nsubj'), (21, 'cop')], 25: [(24, 'det')], 27: [(25, 'nsubj'), (26, 'aux'), (30, 'advcl')], 30: [(28, 'mark'), (29, 'nsubj'), (31, 'xcomp'), (34, 'dobj')]}
+
+DF-200-192400-625_6304.12
+{0: [(4, 'root')], 35: [(31, 'mark'), (32, 'nsubj'), (33, 'aux'), (34, 'neg')], 3: [(1, 'case'), (2, 'neg')], 4: [(3, 'advcl:in'), (6, 'dobj'), (21, 'cc'), (23, 'conj:and')], 6: [(5, 'det'), (11, 'dep')], 11: [(7, 'mark'), (8, 'nsubj'), (9, 'aux'), (10, 'advmod'), (12, 'dobj'), (16, 'nmod:for')], 15: [(14, 'advmod')], 16: [(13, 'case'), (15, 'amod'), (19, 'nmod:at')], 19: [(17, 'case'), (18, 'det')], 23: [(22, 'nsubj'), (26, 'ccomp')], 26: [(24, 'nsubj'), (25, 'aux'), (29, 'dobj'), (35, 'advcl')], 29: [(27, 'advmod'), (28, 'det')]}
+
+DF-200-192400-625_6304.13
+{0: [(3, 'root')], 35: [(32, 'mark'), (33, 'nsubj'), (34, 'aux'), (36, 'compound:prt'), (41, 'nmod:in')], 3: [(2, 'nsubj'), (4, 'dobj'), (8, 'conj:but'), (16, 'conj:but'), (24, 'cc'), (27, 'conj:but'), (43, 'cc'), (45, 'conj:and')], 8: [(2, 'nsubj'), (6, 'aux'), (7, 'neg'), (9, 'xcomp'), (11, 'nmod:with')], 41: [(37, 'case'), (38, 'det'), (39, 'amod'), (40, 'compound')], 11: [(10, 'case'), (14, 'nmod:of')], 45: [(44, 'nsubj'), (49, 'xcomp')], 14: [(12, 'case'), (13, 'nmod:poss')], 16: [(2, 'nsubj'), (19, 'advcl')], 49: [(44, 'nsubj'), (46, 'mark'), (48, 'cop')], 19: [(17, 'mark'), (18, 'nsubj'), (21, 'xcomp')], 21: [(18, 'nsubj'), (20, 'mark'), (22, 'compound:prt')], 27: [(2, 'nsubj'), (25, 'aux'), (26, 'neg'), (28, 'dobj'), (30, 'nmod:to'), (35, 'advcl')], 30: [(29, 'case')]}
+
+DF-200-192400-625_6304.14
+{0: [(6, 'root')], 6: [(2, 'nsubj'), (3, 'aux'), (4, 'advmod'), (5, 'cop'), (8, 'cc'), (10, 'conj:not'), (12, 'cc'), (13, 'conj:and'), (21, 'cc'), (27, 'conj:and')], 8: [(7, 'dep')], 10: [(2, 'nsubjpass'), (9, 'auxpass')], 13: [(2, 'nsubj'), (15, 'dobj')], 15: [(14, 'det'), (17, 'acl:relcl')], 17: [(16, 'nsubj'), (19, 'xcomp')], 19: [(16, 'nsubj'), (18, 'mark'), (20, 'dobj')], 22: [(23, 'compound:prt'), (25, 'nmod:of')], 25: [(24, 'case')], 27: [(22, 'csubj'), (26, 'aux'), (28, 'dobj')], 28: [(30, 'amod')], 30: [(29, 'dep')]}
+
+DF-200-192400-625_6304.15
+{0: [(4, 'root')], 4: [(2, 'nsubj'), (3, 'aux'), (7, 'dobj'), (10, 'nmod:tmod'), (18, 'dep')], 7: [(5, 'amod'), (6, 'amod'), (8, 'nummod')], 10: [(9, 'det')], 16: [(17, 'dep')], 18: [(11, 'advmod'), (13, 'aux'), (14, 'neg'), (15, 'aux'), (16, 'advmod'), (20, 'advcl')], 20: [(19, 'mark'), (21, 'dobj'), (23, 'advcl')], 23: [(22, 'mark'), (24, 'dobj')]}
+
+DF-200-192400-625_6304.16
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (3, 'dobj'), (5, 'advmod'), (7, 'conj:and'), (27, 'cc'), (29, 'conj:and')], 5: [(4, 'advmod')], 7: [(1, 'nsubj'), (18, 'ccomp')], 9: [(8, 'det'), (13, 'acl:relcl')], 13: [(10, 'mark'), (11, 'nsubj'), (12, 'aux'), (15, 'xcomp')], 15: [(11, 'nsubj'), (14, 'mark')], 18: [(9, 'nsubj'), (16, 'aux'), (17, 'neg'), (20, 'xcomp')], 20: [(9, 'nsubj'), (19, 'mark'), (23, 'nmod:through'), (24, 'advmod'), (26, 'advmod')], 23: [(21, 'case'), (22, 'det')], 24: [(25, 'cc'), (26, 'conj:and')], 29: [(1, 'nsubj'), (28, 'advmod')]}
+
+DF-200-192400-625_6304.17
+{0: [(3, 'root')], 3: [(1, 'aux'), (2, 'nsubj'), (4, 'xcomp')], 4: [(5, 'iobj'), (7, 'dobj')], 7: [(6, 'det'), (8, 'acl:relcl')]}
+
+DF-200-192400-625_6304.18
+{0: [(2, 'root')], 2: [(1, 'advmod'), (3, 'cc'), (4, 'conj:and'), (6, 'dobj'), (8, 'cc'), (9, 'conj:and')], 6: [(5, 'nmod:poss')], 9: [(12, 'advcl')], 12: [(10, 'mark'), (11, 'expl'), (14, 'nsubj')], 14: [(13, 'det'), (17, 'acl:relcl')], 17: [(15, 'nsubj'), (16, 'aux'), (19, 'dobj')], 19: [(18, 'nmod:poss'), (20, 'acl')], 20: [(22, 'xcomp'), (24, 'xcomp')], 22: [(21, 'mark'), (23, 'cc'), (24, 'conj:and'), (26, 'dobj')], 26: [(25, 'det'), (28, 'dep')], 28: [(27, 'det')]}
+
+DF-200-192400-625_6304.19
+{0: [(1, 'root')], 1: [(3, 'dobj')], 34: [(31, 'nsubj'), (33, 'mark'), (40, 'nmod:in')], 3: [(2, 'nmod:poss'), (13, 'acl:relcl'), (25, 'dep'), (29, 'dep'), (44, 'dep')], 6: [(4, 'det'), (5, 'amod'), (10, 'nmod:to')], 32: [(30, 'mark'), (31, 'nsubj'), (34, 'xcomp')], 40: [(35, 'case'), (36, 'det'), (37, 'compound'), (38, 'compound'), (39, 'compound')], 10: [(7, 'case'), (8, 'det'), (9, 'compound')], 44: [(42, 'nsubj'), (43, 'aux'), (45, 'xcomp')], 13: [(6, 'nsubj'), (11, 'aux'), (12, 'neg'), (16, 'ccomp')], 45: [(46, 'dobj')], 16: [(14, 'nsubj'), (15, 'aux'), (17, 'dobj'), (18, 'advmod')], 18: [(19, 'case')], 24: [(22, 'advmod'), (23, 'advmod')], 25: [(21, 'det'), (24, 'amod'), (26, 'advmod')], 29: [(28, 'nsubj'), (32, 'advcl'), (41, 'cc'), (44, 'conj:and')]}
+
+DF-200-192400-625_7046.16
+{0: [(30, 'root')], 32: [(35, 'acl:relcl')], 2: [(1, 'dep')], 35: [(33, 'nsubj'), (34, 'aux'), (40, 'ccomp')], 4: [(5, 'compound:prt'), (7, 'advcl'), (9, 'cc'), (10, 'conj:and'), (22, 'dep')], 7: [(6, 'advmod'), (8, 'advmod')], 40: [(39, 'nsubj'), (45, 'xcomp'), (48, 'xcomp')], 10: [(12, 'dobj'), (13, 'compound:prt'), (15, 'advcl')], 39: [(37, 'compound'), (38, 'compound')], 12: [(11, 'nmod:poss')], 45: [(42, 'nsubj'), (43, 'cop'), (44, 'amod'), (46, 'cc'), (48, 'conj:and')], 15: [(14, 'mark'), (18, 'dobj')], 48: [(47, 'nsubj')], 18: [(16, 'det'), (17, 'amod'), (20, 'acl:relcl')], 20: [(19, 'nsubj')], 22: [(25, 'advcl')], 25: [(23, 'mark'), (24, 'nsubj'), (27, 'dobj')], 27: [(26, 'compound')], 30: [(2, 'nsubj'), (4, 'parataxis'), (10, 'parataxis'), (29, 'nsubj'), (31, 'xcomp')], 31: [(32, 'dobj')]}
+
+DF-200-192400-625_7046.17
+{0: [(1, 'root')]}
+
+DF-200-192400-625_7046.14
+{0: [(3, 'root')], 32: [(29, 'case'), (30, 'compound'), (31, 'compound'), (33, 'ref'), (34, 'acl:relcl'), (40, 'acl:relcl')], 34: [(32, 'nsubj'), (38, 'nmod:from'), (39, 'cc'), (40, 'conj:and')], 3: [(1, 'mark'), (2, 'nsubj'), (5, 'ccomp')], 5: [(4, 'nsubj'), (6, 'dobj')], 6: [(11, 'nmod:on'), (13, 'acl:relcl')], 40: [(32, 'nsubj'), (41, 'compound:prt')], 38: [(35, 'case'), (36, 'det'), (37, 'amod')], 42: [(43, 'cc'), (44, 'conj:and')], 11: [(7, 'case'), (8, 'det'), (9, 'compound')], 13: [(12, 'nsubj'), (17, 'xcomp'), (27, 'xcomp')], 47: [(45, 'case'), (46, 'det'), (48, 'cc'), (51, 'conj:and')], 17: [(12, 'nsubj'), (14, 'mark'), (15, 'advmod'), (16, 'neg'), (20, 'xcomp'), (22, 'dep'), (26, 'cc'), (27, 'conj:and')], 51: [(49, 'amod'), (50, 'compound')], 20: [(12, 'nsubj'), (18, 'mark'), (19, 'cop')], 22: [(21, 'cc'), (23, 'ref'), (25, 'acl:relcl')], 25: [(22, 'dobj'), (24, 'nsubj')], 27: [(12, 'nsubj'), (28, 'dobj'), (47, 'nmod:with'), (51, 'nmod:with')], 28: [(32, 'nmod:for'), (42, 'amod'), (44, 'amod')]}
+
+DF-200-192400-625_7046.15
+{32: [(31, 'nmod:poss')], 1: [(5, 'acl')], 45: [(43, 'case'), (44, 'det')], 33: [(30, 'mark'), (32, 'nsubj'), (34, 'dobj'), (36, 'advcl')], 36: [(35, 'mark')], 5: [(2, 'mark'), (3, 'dobj'), (4, 'nsubj'), (7, 'xcomp')], 0: [(47, 'root')], 7: [(3, 'nsubj'), (6, 'mark'), (9, 'nmod:in'), (13, 'xcomp')], 40: [(1, 'nsubj'), (39, 'nmod:because'), (42, 'dobj')], 9: [(8, 'case')], 42: [(41, 'det'), (45, 'nmod:for')], 39: [(38, 'case')], 13: [(11, 'nsubj'), (12, 'dep'), (16, 'dep'), (23, 'dep')], 47: [(40, 'dep'), (46, 'nsubj'), (49, 'xcomp')], 16: [(14, 'dobj'), (15, 'nsubj'), (18, 'cc'), (23, 'conj:or')], 49: [(46, 'nsubj'), (48, 'mark')], 23: [(19, 'advmod'), (20, 'advmod'), (21, 'nsubj'), (22, 'cop'), (26, 'advcl'), (33, 'advcl')], 26: [(24, 'mark'), (25, 'nsubj'), (28, 'dobj')], 28: [(27, 'det')]}
+
+DF-200-192400-625_7046.12
+{0: [(2, 'root')], 2: [(1, 'amod')]}
+
+DF-199-194215-653_0484.32
+{0: [(1, 'root')], 1: [(3, 'dobj')], 3: [(2, 'nmod:poss'), (7, 'dep')], 6: [(5, 'det')], 7: [(4, 'mark'), (6, 'nsubj'), (9, 'xcomp')], 9: [(6, 'nsubj'), (8, 'mark'), (12, 'nmod:through')], 12: [(10, 'case'), (11, 'det')]}
+
+DF-199-194215-653_0484.31
+{8: [(5, 'advcl'), (10, 'dobj')], 0: [(8, 'root')], 10: [(9, 'amod')], 5: [(1, 'mark'), (2, 'nsubj'), (3, 'aux'), (4, 'neg'), (6, 'dobj')]}
+
+DF-199-194215-653_0484.30
+{0: [(1, 'root')], 1: [(3, 'dobj'), (4, 'cc'), (5, 'conj:and')], 3: [(2, 'det')], 5: [(7, 'dobj')], 7: [(6, 'det')]}
+
+DF-200-192400-625_7744.12
+{0: [(5, 'root')], 2: [(4, 'nmod:of')], 4: [(3, 'case')], 5: [(1, 'aux'), (2, 'nsubj'), (9, 'dobj')], 7: [(6, 'det'), (8, 'case')], 9: [(7, 'nmod:poss'), (10, 'dep')]}
+
+DF-200-192400-625_7744.17
+{0: [(4, 'root')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'aux'), (7, 'dobj'), (11, 'advcl')], 6: [(5, 'advmod')], 7: [(6, 'amod')], 11: [(8, 'mark'), (9, 'aux'), (10, 'neg'), (13, 'nmod:about')], 13: [(12, 'case')]}
+
+DF-200-192400-625_7046.18
+{0: [(1, 'root')], 1: [(3, 'ccomp')], 3: [(2, 'nsubj')]}
+
+DF-199-194215-653_0484.28
+{0: [(1, 'root')], 1: [(3, 'ccomp'), (5, 'ccomp')], 3: [(2, 'nsubj'), (4, 'cc'), (5, 'conj:or'), (6, 'dobj')], 5: [(2, 'nsubj')]}
+
+DF-199-194215-653_0484.29
+{0: [(1, 'root')], 1: [(3, 'dobj')], 3: [(2, 'det')]}
+
+DF-200-192400-625_7744.16
+{0: [(3, 'root')], 32: [(31, 'advmod'), (34, 'dobj'), (35, 'cc'), (37, 'conj:and')], 34: [(33, 'nmod:poss')], 3: [(1, 'nsubj'), (2, 'advmod'), (6, 'dobj'), (7, 'cc'), (8, 'conj:and'), (29, 'advcl')], 5: [(4, 'advmod')], 6: [(5, 'amod')], 49: [(48, 'mark'), (51, 'ccomp')], 8: [(1, 'nsubj'), (14, 'ccomp')], 41: [(38, 'nsubj'), (39, 'neg'), (40, 'mark'), (42, 'xcomp')], 42: [(46, 'xcomp')], 46: [(44, 'nsubj'), (45, 'advmod'), (47, 'ccomp')], 44: [(43, 'det')], 14: [(9, 'nsubj'), (10, 'cop'), (11, 'advmod'), (12, 'det'), (13, 'amod'), (17, 'dep'), (19, 'dep'), (24, 'nmod:out_of')], 47: [(49, 'advcl')], 17: [(15, 'advmod'), (16, 'advmod'), (18, 'cc'), (19, 'conj:and'), (20, 'dobj')], 51: [(50, 'nsubj'), (52, 'dobj')], 21: [(22, 'mwe')], 24: [(21, 'case'), (23, 'det')], 29: [(25, 'mark'), (26, 'nsubj'), (27, 'cop'), (28, 'advmod'), (32, 'parataxis'), (37, 'parataxis')], 37: [(36, 'advmod'), (38, 'dobj'), (41, 'xcomp')]}
+
+DF-200-192400-625_7744.19
+{0: [(10, 'root')], 32: [(31, 'nsubj')], 2: [(1, 'mark'), (3, 'xcomp'), (5, 'nmod:of')], 5: [(4, 'case')], 8: [(7, 'nummod')], 10: [(2, 'advcl'), (8, 'nsubj'), (9, 'aux'), (11, 'advmod'), (13, 'xcomp'), (20, 'advcl')], 13: [(8, 'nsubj'), (12, 'mark'), (16, 'dobj')], 16: [(14, 'det'), (15, 'amod')], 20: [(17, 'mark'), (18, 'aux'), (19, 'neg'), (22, 'xcomp')], 22: [(21, 'mark'), (26, 'ccomp')], 26: [(23, 'mark'), (24, 'nsubj'), (25, 'aux'), (27, 'dobj'), (30, 'dep')], 30: [(29, 'advmod'), (32, 'xcomp')]}
+
+DF-200-192400-625_7744.18
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'nmod:about'), (7, 'nmod:in')], 4: [(3, 'case')], 7: [(5, 'case'), (6, 'amod'), (9, 'dep')]}
+
+DF-199-194215-653_0484.20
+{0: [(1, 'root')], 1: [(4, 'ccomp')], 4: [(2, 'dobj'), (3, 'nsubj')]}
+
+DF-199-194215-653_0484.21
+{0: [(19, 'root')], 3: [(2, 'det')], 4: [(1, 'mark'), (3, 'nsubj'), (8, 'ccomp')], 8: [(6, 'nsubj'), (7, 'advmod'), (9, 'compound:prt'), (11, 'nmod:of')], 11: [(10, 'case'), (14, 'nmod:of')], 14: [(12, 'case'), (13, 'nmod:poss')], 19: [(4, 'advcl'), (16, 'nsubj'), (17, 'cop'), (18, 'advmod'), (20, 'dep'), (22, 'nmod:without')], 22: [(21, 'case')]}
+
+DF-199-194215-653_0484.22
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (7, 'dobj')], 7: [(5, 'nummod'), (6, 'amod'), (10, 'acl:relcl')], 10: [(8, 'nsubj'), (9, 'cop'), (13, 'nmod:of'), (16, 'ccomp'), (18, 'ccomp')], 13: [(11, 'case'), (12, 'nmod:poss')], 16: [(14, 'mark'), (15, 'nsubj'), (17, 'cc'), (18, 'conj:or')]}
+
+DF-199-194215-653_0484.23
+{0: [(4, 'root')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (5, 'dobj')]}
+
+DF-199-194215-653_0484.24
+{0: [(13, 'root')], 1: [(1, 'conj:but'), (5, 'nmod:because_of'), (7, 'cc'), (11, 'nmod:because')], 2: [(3, 'mwe')], 5: [(2, 'case'), (4, 'nmod:poss')], 11: [(8, 'case'), (9, 'nmod:poss'), (10, 'amod')], 13: [(1, 'csubj'), (12, 'cop'), (16, 'nmod:of')], 16: [(14, 'case'), (15, 'nmod:poss')]}
+
+DF-199-194215-653_0484.25
+{0: [(3, 'root')], 3: [(1, 'aux'), (2, 'nsubj'), (5, 'dobj')], 5: [(4, 'nmod:poss')]}
+
+DF-199-194215-653_0484.26
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'advmod'), (4, 'nmod')]}
+
+DF-199-194215-653_0484.27
+{0: [(6, 'root')], 1: [(2, 'acl')], 2: [(4, 'dobj')], 4: [(3, 'nmod:poss')], 6: [(1, 'nsubj'), (8, 'ccomp')], 8: [(7, 'nsubj'), (10, 'dobj')], 10: [(9, 'compound')]}
+
+DF-200-192400-625_7200.7
+{0: [(7, 'root')], 1: [(3, 'dobj')], 10: [(8, 'case'), (9, 'compound')], 3: [(2, 'det')], 7: [(1, 'csubj'), (4, 'aux'), (5, 'cop'), (6, 'det'), (10, 'nmod:of')]}
+
+DF-200-192400-625_7744.13
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (6, 'ccomp'), (8, 'cc'), (13, 'conj:but')], 6: [(4, 'nsubj'), (5, 'cop')], 13: [(9, 'nsubj'), (10, 'cop'), (11, 'advmod'), (12, 'advmod'), (15, 'xcomp')], 15: [(9, 'nsubj'), (14, 'mark'), (16, 'dobj'), (17, 'compound:prt'), (19, 'nmod:of')], 19: [(18, 'case')]}
+
+DF-200-192400-625_7200.16
+{0: [(1, 'root')], 1: [(2, 'ref'), (3, 'acl:relcl')], 3: [(1, 'nsubj'), (27, 'ccomp')], 4: [(5, 'compound'), (6, 'compound'), (7, 'compound'), (8, 'compound'), (9, 'conj'), (10, 'acl:relcl')], 10: [(12, 'ccomp')], 12: [(11, 'nsubj'), (14, 'nmod:into'), (18, 'nmod:to')], 14: [(13, 'case')], 18: [(16, 'case'), (17, 'det'), (21, 'acl:relcl')], 21: [(19, 'advmod'), (20, 'nsubj'), (24, 'xcomp')], 24: [(22, 'nsubj'), (23, 'advmod'), (25, 'advmod')], 27: [(4, 'nsubj'), (26, 'dep')]}
+
+DF-200-192400-625_7200.17
+{0: [(4, 'root')], 10: [(7, 'case'), (8, 'amod'), (13, 'nmod:like')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (6, 'advmod'), (10, 'nmod:into')], 13: [(12, 'case')], 6: [(5, 'advmod')]}
+
+DF-200-192400-625_7200.14
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (3, 'dobj')]}
+
+DF-200-192400-625_7200.15
+{0: [(5, 'root')], 9: [(8, 'amod')], 5: [(1, 'dep'), (2, 'advmod'), (3, 'nsubj'), (4, 'cop'), (6, 'cc'), (7, 'conj:or')], 7: [(3, 'nsubj'), (9, 'dobj')]}
+
+DF-200-192400-625_7200.12
+{0: [(6, 'root')], 6: [(1, 'cc'), (2, 'advmod'), (3, 'nsubj'), (4, 'aux'), (5, 'neg'), (9, 'dobj'), (10, 'cc'), (12, 'conj:and')], 9: [(7, 'det'), (8, 'amod')], 12: [(3, 'nsubj'), (11, 'advmod'), (17, 'ccomp')], 14: [(13, 'det')], 17: [(14, 'nsubj'), (15, 'aux'), (16, 'neg'), (19, 'ccomp')], 19: [(18, 'nsubj'), (22, 'dobj')], 22: [(20, 'det'), (21, 'amod')]}
+
+DF-200-192400-625_7200.13
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (5, 'nmod:on'), (8, 'advmod')], 5: [(3, 'case'), (4, 'nmod:poss')], 8: [(6, 'dep'), (7, 'advmod'), (10, 'nmod:since')], 10: [(9, 'case'), (13, 'acl')], 13: [(11, 'mark'), (12, 'auxpass'), (15, 'xcomp')], 15: [(14, 'neg')]}
+
+DF-200-192400-625_7200.10
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'xcomp'), (9, 'cc'), (11, 'conj:but')], 4: [(1, 'nsubj'), (3, 'mark'), (7, 'nmod:on')], 7: [(5, 'case'), (6, 'nmod:poss')], 11: [(10, 'nsubj'), (15, 'advcl')], 15: [(12, 'mark'), (13, 'nsubjpass'), (14, 'auxpass'), (18, 'nmod:with')], 18: [(16, 'case'), (17, 'amod'), (19, 'ref'), (20, 'acl:relcl'), (23, 'acl:relcl')], 20: [(18, 'nsubj'), (21, 'nmod'), (22, 'cc'), (23, 'conj:and')], 23: [(18, 'nsubj'), (26, 'xcomp')], 26: [(18, 'nsubjpass'), (24, 'mark'), (25, 'auxpass'), (28, 'nmod:with')], 28: [(27, 'case'), (31, 'advmod')], 30: [(29, 'nummod')], 31: [(30, 'nmod:npmod')]}
+
+DF-200-192400-625_7200.1
+{0: [(5, 'root')], 5: [(1, 'nsubj'), (2, 'cop'), (3, 'advmod'), (4, 'advmod'), (7, 'dep'), (13, 'cc'), (15, 'conj:but'), (21, 'cc'), (23, 'conj:but')], 7: [(8, 'ccomp')], 8: [(9, 'neg'), (10, 'dep')], 10: [(12, 'nmod:with')], 12: [(11, 'case')], 15: [(14, 'nsubj'), (18, 'ccomp')], 17: [(16, 'det')], 18: [(17, 'nsubj'), (19, 'dobj')], 23: [(22, 'nsubj'), (26, 'nmod:on'), (28, 'dobj')], 26: [(24, 'case'), (25, 'nmod:poss')], 28: [(27, 'advmod'), (31, 'nmod:of')], 31: [(29, 'case'), (30, 'det')]}
+
+DF-200-192400-625_6344.25
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'xcomp'), (18, 'advcl'), (21, 'cc'), (31, 'conj:and')], 4: [(1, 'nsubj'), (3, 'mark'), (7, 'nmod:with'), (10, 'nmod:from')], 37: [(32, 'mark'), (33, 'nsubj'), (34, 'cop'), (35, 'det'), (36, 'amod'), (38, 'dep')], 7: [(5, 'case'), (6, 'amod')], 10: [(8, 'case'), (9, 'nmod:poss'), (15, 'nmod:for')], 15: [(11, 'case'), (12, 'det'), (13, 'amod'), (14, 'nummod')], 18: [(16, 'mark'), (17, 'nsubj'), (20, 'xcomp')], 20: [(17, 'nsubj'), (19, 'mark')], 26: [(24, 'det'), (25, 'amod'), (29, 'acl:relcl')], 29: [(27, 'advmod'), (28, 'nsubj'), (30, 'advmod')], 31: [(22, 'advmod'), (26, 'nsubj'), (37, 'advcl')]}
+
+DF-200-192400-625_6344.24
+{8: [(6, 'case'), (7, 'nmod:poss')], 0: [(13, 'root')], 5: [(1, 'mark'), (2, 'nsubj'), (3, 'cop'), (4, 'neg'), (8, 'nmod:in')], 13: [(5, 'advcl'), (10, 'nsubj'), (11, 'cop'), (12, 'det')]}
+
+DF-200-192400-625_6344.27
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (6, 'advcl')], 6: [(3, 'mark'), (4, 'nsubj'), (5, 'aux'), (9, 'nmod:from'), (14, 'advcl')], 9: [(7, 'case'), (8, 'advmod')], 14: [(10, 'mark'), (11, 'nsubj'), (12, 'aux'), (13, 'neg'), (15, 'dobj'), (17, 'nmod:to'), (18, 'advmod')], 17: [(16, 'case')]}
+
+DF-200-192400-625_6344.26
+{0: [(1, 'root')], 1: [(2, 'xcomp'), (6, 'advcl')], 6: [(3, 'mark'), (4, 'nsubj'), (5, 'advmod'), (7, 'compound:prt')]}
+
+DF-200-192400-625_6344.21
+{0: [(4, 'root')], 9: [(7, 'case'), (8, 'amod'), (10, 'cc'), (12, 'conj:or')], 4: [(1, 'aux'), (2, 'nsubj'), (3, 'advmod'), (6, 'dobj')], 6: [(5, 'det'), (9, 'nmod:of'), (12, 'nmod:of')], 12: [(11, 'det')]}
+
+DF-200-192400-625_6344.20
+{0: [(4, 'root')], 8: [(7, 'case')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (6, 'dobj'), (8, 'nmod:for')], 6: [(5, 'nmod:poss')]}
+
+DF-200-192400-625_6344.23
+{0: [(2, 'root')], 8: [(7, 'case')], 2: [(1, 'nsubj'), (6, 'parataxis')], 11: [(9, 'det:predet'), (10, 'det')], 6: [(3, 'dep'), (4, 'dep'), (5, 'nsubj'), (8, 'nmod:at'), (11, 'dobj')]}
+
+DF-200-192400-625_6344.22
+{0: [(4, 'root')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (6, 'advcl:for'), (11, 'ccomp')], 6: [(5, 'case')], 11: [(7, 'mark'), (8, 'nsubj'), (9, 'aux'), (10, 'neg'), (15, 'ccomp')], 13: [(12, 'amod')], 15: [(13, 'nsubj'), (14, 'advmod'), (16, 'dobj'), (19, 'advcl')], 19: [(17, 'mark'), (18, 'nsubj')]}
+
+DF-200-192400-625_7200.3
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'ccomp')], 4: [(3, 'nsubj'), (5, 'dobj')], 5: [(10, 'appos')], 10: [(7, 'nsubj'), (8, 'cop'), (9, 'det'), (12, 'nmod:of'), (15, 'advcl'), (22, 'advcl')], 12: [(11, 'case')], 15: [(13, 'mark'), (14, 'nsubj'), (17, 'xcomp'), (18, 'cc'), (22, 'conj:and')], 17: [(16, 'advmod')], 22: [(14, 'nsubj'), (19, 'cop'), (20, 'neg'), (21, 'advmod')]}
+
+DF-200-192400-625_6344.29
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (6, 'nmod:to'), (9, 'cc'), (10, 'conj:and')], 6: [(4, 'case'), (5, 'det'), (8, 'nmod:on')], 8: [(7, 'case')], 10: [(1, 'nsubj'), (14, 'dobj')], 14: [(11, 'det'), (12, 'amod'), (13, 'nummod'), (16, 'acl')], 16: [(15, 'mark'), (17, 'advmod')]}
+
+DF-200-192400-625_6344.28
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (7, 'xcomp')], 4: [(5, 'cc'), (6, 'conj:or')], 7: [(4, 'nsubj'), (6, 'nsubj')]}
+
+DF-200-192400-625_7806.13
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (3, 'xcomp'), (11, 'advcl')], 3: [(5, 'nmod:to')], 5: [(4, 'case')], 11: [(7, 'advmod'), (8, 'nsubj'), (9, 'aux'), (10, 'advmod'), (14, 'xcomp')], 14: [(12, 'cop'), (13, 'advmod'), (14, 'conj:not'), (17, 'nmod:over'), (26, 'cc'), (30, 'nmod:as')], 17: [(15, 'case'), (16, 'amod'), (22, 'dep')], 22: [(19, 'mark'), (20, 'case'), (21, 'det'), (24, 'nmod:of')], 24: [(23, 'case')], 26: [(27, 'dep')], 30: [(28, 'advmod'), (29, 'case')]}
+
+DF-200-192400-625_6677.9
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (6, 'nmod:with'), (8, 'advmod'), (12, 'parataxis')], 12: [(9, 'cc'), (10, 'nsubj'), (11, 'cop')], 6: [(4, 'case')]}
+
+DF-200-192400-625_6677.8
+{0: [(1, 'root')], 1: [(2, 'dobj'), (3, 'advmod'), (8, 'advcl')], 12: [(9, 'nsubj'), (10, 'cop'), (11, 'advmod'), (13, 'nmod')], 8: [(4, 'mark'), (5, 'nsubj'), (6, 'cop'), (7, 'neg'), (12, 'acl:relcl')]}
+
+DF-200-192400-625_6677.5
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (4, 'dobj'), (11, 'nmod:in'), (12, 'cc'), (15, 'conj:and')], 4: [(6, 'nmod:of'), (8, 'nmod:of')], 6: [(5, 'case'), (7, 'cc'), (8, 'conj:and')], 11: [(9, 'case'), (10, 'nmod:poss')], 15: [(1, 'nsubj'), (13, 'aux'), (14, 'advmod'), (17, 'xcomp')], 17: [(1, 'nsubj'), (16, 'mark'), (19, 'dobj'), (21, 'nmod:in')], 19: [(18, 'nmod:poss')], 21: [(20, 'case')]}
+
+DF-200-192400-625_6677.4
+{0: [(4, 'root')], 2: [(1, 'compound')], 34: [(32, 'nsubj'), (33, 'aux'), (35, 'dobj'), (37, 'nmod:to')], 4: [(2, 'nsubj'), (3, 'aux'), (5, 'dobj'), (7, 'nmod:to'), (9, 'nmod:from'), (10, 'cc'), (13, 'conj:and'), (16, 'cc'), (22, 'conj:and')], 37: [(36, 'case')], 7: [(6, 'case')], 9: [(8, 'case')], 13: [(11, 'nsubj'), (12, 'aux'), (14, 'dobj')], 18: [(17, 'nummod'), (19, 'advmod')], 22: [(18, 'nsubj'), (20, 'nsubj'), (21, 'aux'), (24, 'xcomp'), (34, 'xcomp')], 24: [(23, 'nsubj'), (26, 'dobj'), (29, 'nmod:with'), (31, 'cc'), (34, 'conj:and')], 26: [(25, 'nmod:poss')], 29: [(27, 'case'), (28, 'det')]}
+
+DF-200-192400-625_6677.7
+{0: [(2, 'root')], 2: [(1, 'advmod'), (3, 'dobj')]}
+
+DF-200-192400-625_6677.6
+{0: [(3, 'root')], 3: [(1, 'aux'), (2, 'nsubj'), (5, 'dobj'), (7, 'advcl')], 5: [(4, 'det')], 7: [(6, 'mark'), (9, 'dobj')], 9: [(8, 'det'), (11, 'nmod:of'), (12, 'cc'), (15, 'acl')], 11: [(10, 'case')], 15: [(13, 'advmod'), (14, 'mark'), (17, 'advcl')], 17: [(16, 'mark'), (19, 'dobj'), (20, 'advmod')], 19: [(18, 'det')]}
+
+DF-200-192400-625_6677.1
+{0: [(2, 'root')], 33: [(32, 'case')], 2: [(1, 'nsubj'), (6, 'nmod:over'), (8, 'nmod:over'), (11, 'advcl'), (21, 'advcl')], 6: [(3, 'case'), (4, 'det'), (5, 'amod'), (7, 'cc'), (8, 'conj:or')], 11: [(9, 'nsubj'), (10, 'aux'), (15, 'xcomp'), (16, 'cc'), (21, 'conj:and')], 14: [(13, 'advmod')], 15: [(12, 'det'), (14, 'amod')], 19: [(18, 'det')], 21: [(17, 'mark'), (19, 'nsubj'), (20, 'aux'), (22, 'compound:prt'), (25, 'dobj'), (27, 'advcl'), (29, 'advcl')], 25: [(23, 'nmod:poss'), (24, 'compound')], 27: [(26, 'mark'), (28, 'cc'), (29, 'conj:and'), (31, 'dobj'), (33, 'nmod:at')], 31: [(30, 'det')]}
+
+DF-200-192400-625_6677.3
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (5, 'dobj')], 5: [(3, 'advmod'), (4, 'neg')]}
+
+DF-200-192400-625_6677.2
+{0: [(9, 'root')], 5: [(2, 'cop'), (3, 'advmod'), (4, 'advmod'), (7, 'nmod:to')], 7: [(6, 'case')], 9: [(1, 'cc'), (5, 'csubj'), (8, 'aux'), (10, 'dobj'), (12, 'xcomp')], 12: [(10, 'nsubj'), (11, 'mark'), (16, 'ccomp'), (18, 'ccomp')], 16: [(13, 'mark'), (14, 'nsubj'), (15, 'aux'), (17, 'cc'), (18, 'conj:or'), (19, 'dobj')], 18: [(14, 'nsubj')], 19: [(21, 'dep'), (23, 'acl:relcl')], 21: [(20, 'det')], 23: [(22, 'nsubj'), (25, 'nmod:to')], 25: [(24, 'case')]}
+
+DF-200-192400-625_7200.4
+{0: [(1, 'root')], 1: [(4, 'xcomp'), (16, 'xcomp')], 4: [(2, 'nsubj'), (3, 'aux'), (5, 'dobj'), (11, 'nmod:on'), (12, 'cc'), (16, 'conj:but')], 5: [(7, 'nmod:of')], 7: [(6, 'case')], 11: [(8, 'case'), (9, 'det'), (10, 'compound')], 16: [(13, 'nsubj'), (14, 'aux'), (15, 'neg'), (17, 'dobj'), (19, 'dobj')], 17: [(18, 'cc'), (19, 'conj:or')]}
+
+DF-200-192400-625_7200.5
+{0: [(3, 'root')], 2: [(1, 'dep')], 3: [(2, 'nsubj'), (6, 'ccomp')], 6: [(4, 'dobj'), (5, 'nsubj')]}
+
+DF-200-192400-625_6344.34
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'advmod'), (4, 'xcomp')], 4: [(5, 'compound:prt'), (6, 'dobj')]}
+
+DF-200-192400-625_6344.35
+{0: [(2, 'root')], 2: [(1, 'dep'), (3, 'compound:prt'), (7, 'dobj'), (12, 'nsubj')], 11: [(8, 'nsubj'), (9, 'cop'), (10, 'det')], 4: [(5, 'cc'), (6, 'conj:and')], 7: [(4, 'compound'), (6, 'compound'), (11, 'acl:relcl')]}
+
+DF-200-192400-625_6344.32
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (6, 'ccomp')], 6: [(3, 'dobj'), (4, 'nsubj'), (5, 'aux')]}
+
+DF-200-192400-625_6344.33
+{0: [(4, 'root')], 2: [(1, 'nmod:poss')], 4: [(2, 'nsubjpass'), (3, 'auxpass'), (5, 'compound:prt'), (7, 'nmod:of'), (8, 'advmod')], 7: [(6, 'case')]}
+
+DF-200-192400-625_6344.30
+{0: [(1, 'root')], 1: [(2, 'expl'), (4, 'nsubj')], 4: [(3, 'det'), (5, 'case'), (6, 'dep')], 6: [(9, 'acl:relcl')], 9: [(7, 'nsubj'), (8, 'aux'), (10, 'nmod'), (12, 'dep')], 12: [(15, 'dobj')], 15: [(13, 'det'), (14, 'compound')]}
+
+DF-200-192400-625_6344.31
+{0: [(3, 'root')], 3: [(1, 'dep'), (2, 'nsubj'), (6, 'dobj')], 6: [(4, 'nmod:poss'), (5, 'amod'), (10, 'acl:relcl'), (20, 'acl:relcl')], 10: [(7, 'nsubj'), (8, 'cop'), (9, 'det'), (13, 'nmod:of'), (17, 'cc'), (20, 'conj:and')], 13: [(11, 'case'), (12, 'det'), (16, 'nmod:in')], 16: [(14, 'case'), (15, 'det')], 20: [(18, 'nsubj'), (19, 'aux'), (23, 'dobj'), (25, 'nmod:on')], 23: [(21, 'det:predet'), (22, 'nmod:poss')], 25: [(24, 'case')]}
+
+DF-200-192400-625_7200.8
+{8: [(1, 'dep'), (4, 'nsubj'), (5, 'aux'), (6, 'cop'), (7, 'det'), (10, 'nmod:of')], 1: [(2, 'xcomp')], 10: [(9, 'case')], 4: [(3, 'det')], 0: [(8, 'root')]}
+
+DF-200-192400-625_7200.9
+{0: [(5, 'root')], 36: [(30, 'mark'), (31, 'advmod'), (32, 'nsubjpass'), (33, 'aux'), (34, 'advmod'), (35, 'auxpass')], 5: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (4, 'advmod'), (9, 'parataxis'), (27, 'ccomp')], 9: [(6, 'cc'), (7, 'mark'), (8, 'nsubj'), (12, 'nmod:in')], 12: [(10, 'case'), (11, 'det'), (15, 'nmod:of')], 15: [(13, 'case'), (14, 'compound'), (16, 'ref'), (20, 'acl:relcl')], 20: [(15, 'dobj'), (17, 'nsubj'), (18, 'advmod'), (19, 'aux'), (24, 'nmod:in')], 24: [(21, 'case'), (22, 'det'), (23, 'compound')], 27: [(25, 'nsubj'), (26, 'cop'), (28, 'xcomp'), (36, 'advcl')]}
+
+DF-200-192400-625_7557.3
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (4, 'xcomp'), (7, 'advcl')], 7: [(5, 'mark'), (6, 'nsubj'), (9, 'dobj'), (22, 'nmod:with')], 9: [(8, 'det'), (12, 'nmod:on')], 12: [(10, 'case'), (11, 'nmod:poss'), (15, 'nmod:as')], 15: [(13, 'case'), (14, 'amod'), (20, 'nmod:in')], 20: [(16, 'case'), (17, 'nmod:poss'), (18, 'amod'), (19, 'compound')], 22: [(21, 'case'), (27, 'acl:relcl')], 26: [(25, 'amod')], 27: [(24, 'mark'), (26, 'nsubj'), (28, 'xcomp')], 28: [(31, 'advcl')], 31: [(29, 'mark'), (30, 'nsubj')]}
+
+DF-200-192400-625_7557.2
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (6, 'advcl')], 6: [(3, 'advmod'), (4, 'nsubj'), (5, 'cop'), (9, 'advcl'), (22, 'advcl')], 9: [(7, 'mark'), (8, 'nsubj'), (12, 'dobj'), (14, 'nmod:with'), (16, 'cc'), (22, 'conj:and')], 12: [(10, 'det'), (11, 'compound')], 14: [(13, 'case')], 19: [(17, 'case'), (18, 'det')], 22: [(19, 'nmod:from'), (20, 'nsubj'), (21, 'neg')]}
+
+DF-200-192400-625_7557.1
+{0: [(9, 'root')], 8: [(6, 'compound'), (7, 'nmod:npmod')], 9: [(1, 'advmod'), (3, 'nsubj'), (4, 'cop'), (5, 'det'), (8, 'amod'), (11, 'nummod'), (15, 'advcl:in'), (18, 'ccomp')], 11: [(10, 'compound')], 14: [(13, 'nummod')], 15: [(12, 'case'), (14, 'nmod:npmod')], 18: [(16, 'nsubjpass'), (17, 'auxpass'), (21, 'nmod:to')], 21: [(19, 'case'), (20, 'compound')]}
+
+DF-200-192400-625_7557.7
+{0: [(2, 'root')], 2: [(1, 'mark'), (3, 'xcomp')], 3: [(8, 'ccomp')], 5: [(4, 'det')], 8: [(5, 'nsubjpass'), (6, 'auxpass'), (7, 'advmod'), (10, 'xcomp'), (14, 'xcomp')], 10: [(5, 'nsubj'), (9, 'mark'), (12, 'dobj'), (13, 'cc'), (14, 'conj:or')], 12: [(11, 'nmod:poss')], 14: [(5, 'nsubj'), (15, 'dobj')]}
+
+DF-200-192400-625_7557.6
+{0: [(10, 'root')], 3: [(2, 'compound')], 4: [(1, 'advmod'), (3, 'nsubj'), (5, 'dobj'), (7, 'advcl')], 7: [(6, 'mark'), (9, 'nmod:with')], 9: [(8, 'case')], 10: [(4, 'advcl'), (13, 'nmod:around'), (16, 'nmod:around'), (17, 'cc'), (19, 'conj:and')], 13: [(11, 'case'), (12, 'nummod'), (14, 'cc'), (16, 'conj:and')], 16: [(15, 'amod')], 19: [(18, 'nsubj'), (20, 'dobj'), (22, 'nmod:with'), (24, 'nmod:with')], 22: [(21, 'case'), (23, 'cc'), (24, 'conj:and')]}
+
+DF-200-192400-625_7557.5
+{0: [(6, 'root')], 2: [(1, 'compound')], 5: [(4, 'advmod')], 6: [(2, 'nsubj'), (5, 'nsubj'), (7, 'dobj'), (11, 'nmod:with'), (13, 'nmod:from'), (16, 'nmod:from')], 11: [(8, 'case'), (9, 'compound'), (10, 'compound')], 13: [(12, 'case'), (14, 'cc'), (16, 'conj:and')], 16: [(15, 'det')]}
+
+DF-200-192400-625_7557.4
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'dobj')], 4: [(3, 'amod'), (7, 'nmod:on')], 7: [(5, 'case'), (6, 'nmod:poss')]}
+
+DF-200-192400-625_7557.9
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'nmod:about'), (5, 'dobj')], 4: [(3, 'case')]}
+
+DF-200-192400-625_7200.11
+{0: [(25, 'root')], 32: [(34, 'nmod:with')], 2: [(1, 'nmod:poss')], 4: [(2, 'nsubj'), (3, 'cop'), (5, 'cc'), (9, 'conj:but'), (20, 'conj:but'), (23, 'conj:but')], 38: [(36, 'aux'), (37, 'neg'), (39, 'compound:prt'), (42, 'nmod:on'), (45, 'nsubj')], 9: [(6, 'nsubj'), (7, 'aux'), (8, 'neg'), (10, 'dobj'), (13, 'advmod'), (15, 'cc'), (20, 'conj:but'), (21, 'cc'), (23, 'conj:but')], 10: [(12, 'nmod:with')], 12: [(11, 'case')], 34: [(33, 'case')], 45: [(43, 'nummod'), (44, 'compound')], 17: [(16, 'det')], 20: [(17, 'nsubj'), (18, 'cop'), (19, 'advmod')], 23: [(22, 'dep')], 25: [(4, 'dep'), (9, 'dep'), (24, 'advmod'), (27, 'dobj'), (35, 'cc'), (38, 'conj:and'), (45, 'nsubj')], 27: [(26, 'amod'), (28, 'acl:relcl')], 28: [(31, 'advcl')], 42: [(40, 'case'), (41, 'amod')], 31: [(29, 'mark'), (30, 'nsubj'), (32, 'dobj')]}
+
+DF-200-192400-625_7557.31
+{0: [(6, 'root')], 2: [(1, 'nmod:poss'), (4, 'nmod:but')], 4: [(3, 'case')], 6: [(2, 'nsubj'), (5, 'aux'), (7, 'dobj')]}
+
+DF-200-192400-625_7557.30
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'cop'), (5, 'acl:relcl'), (19, 'acl:relcl')], 5: [(4, 'nsubj'), (7, 'dobj'), (9, 'nmod:tmod'), (12, 'advcl'), (16, 'cc'), (19, 'conj:but')], 7: [(6, 'compound')], 9: [(8, 'amod')], 12: [(11, 'advmod'), (14, 'dobj')], 14: [(13, 'nmod:poss')], 19: [(17, 'nsubj'), (18, 'aux'), (24, 'nmod:since')], 24: [(20, 'case'), (21, 'det'), (22, 'amod'), (23, 'amod')]}
+
+DF-200-192400-625_6304.8
+{0: [(3, 'root')], 33: [(32, 'case')], 3: [(2, 'nsubj'), (6, 'dobj'), (15, 'parataxis'), (26, 'parataxis'), (38, 'parataxis')], 38: [(35, 'advmod'), (36, 'nsubj'), (37, 'advmod'), (39, 'compound:prt')], 6: [(4, 'det'), (5, 'amod'), (10, 'nmod:to')], 10: [(7, 'case'), (8, 'det'), (9, 'amod')], 13: [(12, 'compound')], 15: [(13, 'nsubjpass'), (14, 'auxpass')], 17: [(21, 'nmod:to')], 21: [(18, 'case'), (19, 'nmod:poss'), (20, 'compound')], 26: [(17, 'advcl'), (23, 'nsubj'), (24, 'cop'), (25, 'advmod'), (29, 'ccomp')], 29: [(27, 'nsubj'), (28, 'cop'), (31, 'xcomp')], 31: [(27, 'nsubj'), (30, 'mark'), (33, 'nmod:with')]}
+
+DF-200-192400-625_6304.9
+{0: [(4, 'root')], 4: [(2, 'nsubjpass'), (3, 'auxpass'), (6, 'dobj'), (9, 'nmod:through'), (36, 'parataxis')], 38: [(37, 'case')], 6: [(5, 'det')], 9: [(7, 'case'), (8, 'det')], 12: [(11, 'aux'), (13, 'dobj'), (19, 'nmod:for'), (20, 'nsubj')], 19: [(14, 'case'), (15, 'advmod'), (16, 'amod'), (17, 'compound'), (18, 'compound')], 20: [(25, 'dep')], 25: [(22, 'mark'), (23, 'nsubj'), (24, 'cop'), (30, 'ccomp')], 36: [(12, 'dep'), (32, 'mark'), (33, 'nsubj'), (34, 'cop'), (35, 'neg'), (38, 'nmod:with')], 30: [(26, 'nsubj'), (27, 'aux'), (28, 'neg'), (29, 'advmod')]}
+
+DF-200-192400-625_7557.35
+{0: [(7, 'root')], 1: [(4, 'dobj')], 10: [(8, 'dobj'), (9, 'nsubj')], 4: [(2, 'nmod:poss'), (3, 'compound')], 7: [(1, 'csubj'), (5, 'aux'), (6, 'neg'), (10, 'ccomp')]}
+
+DF-200-192400-625_7557.34
+{0: [(4, 'root')], 9: [(6, 'cc'), (7, 'nsubj'), (8, 'aux'), (10, 'dobj')], 2: [(1, 'compound')], 4: [(2, 'nsubj'), (3, 'cop'), (9, 'ccomp')]}
+
+DF-200-192400-625_6344.8
+{0: [(5, 'root')], 8: [(7, 'case')], 4: [(3, 'nmod:poss')], 5: [(1, 'dep'), (2, 'advmod'), (4, 'nsubj'), (6, 'xcomp'), (8, 'nmod:at')]}
+
+DF-200-192400-625_6344.9
+{0: [(21, 'root')], 2: [(1, 'nummod')], 5: [(2, 'nsubj'), (3, 'nsubj'), (4, 'cop'), (7, 'cc'), (11, 'conj:and')], 11: [(8, 'nsubj'), (9, 'cop'), (10, 'mark'), (14, 'dobj')], 14: [(12, 'nmod:poss'), (13, 'amod'), (18, 'appos')], 18: [(16, 'advmod'), (17, 'det')], 21: [(5, 'ccomp'), (11, 'ccomp'), (20, 'nsubj'), (26, 'nmod:into')], 25: [(24, 'advmod')], 26: [(22, 'case'), (23, 'det'), (25, 'amod'), (27, 'amod')]}
+
+DF-200-192400-625_6344.6
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'cop'), (17, 'appos'), (24, 'cc'), (28, 'conj:and')], 6: [(10, 'dep')], 10: [(8, 'compound'), (9, 'amod'), (16, 'nmod:at')], 16: [(11, 'case'), (12, 'det'), (13, 'amod'), (14, 'compound'), (15, 'amod')], 17: [(5, 'det'), (6, 'amod'), (23, 'nmod:on')], 21: [(20, 'compound')], 23: [(18, 'case'), (19, 'det'), (21, 'amod'), (22, 'compound')], 28: [(25, 'nsubj'), (26, 'cop'), (27, 'mark'), (29, 'dobj')]}
+
+DF-200-192400-625_6304.3
+{0: [(5, 'root')], 3: [(1, 'det'), (2, 'amod')], 5: [(3, 'nmod:tmod'), (4, 'nsubj'), (6, 'advmod'), (10, 'conj:and'), (11, 'cc'), (13, 'conj:and'), (20, 'conj:and')], 10: [(8, 'dep'), (9, 'nmod:poss')], 13: [(12, 'nsubj'), (14, 'compound:prt'), (15, 'cc'), (20, 'conj:and')], 20: [(16, 'nsubj'), (17, 'cop'), (18, 'det'), (19, 'amod'), (25, 'acl:relcl')], 24: [(23, 'advmod')], 25: [(21, 'nsubj'), (22, 'aux'), (24, 'advmod'), (27, 'xcomp')], 27: [(21, 'nsubj'), (26, 'mark')]}
+
+DF-200-192400-625_6344.4
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'cop'), (5, 'nmod:to'), (7, 'advmod')], 5: [(4, 'case')]}
+
+DF-200-192400-625_6344.5
+{0: [(4, 'root')], 16: [(12, 'advmod'), (13, 'nsubj'), (14, 'cop'), (15, 'case')], 11: [(9, 'amod'), (10, 'amod')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (7, 'nmod:with'), (11, 'nmod:with'), (16, 'advcl:at')], 7: [(5, 'case'), (6, 'nmod:poss'), (8, 'cc'), (11, 'conj:and')]}
+
+DF-200-192400-625_6304.6
+{0: [(5, 'root')], 34: [(32, 'det'), (33, 'compound')], 36: [(35, 'advmod')], 5: [(2, 'nsubj'), (3, 'aux'), (4, 'neg'), (6, 'dobj'), (10, 'advcl'), (16, 'conj:and'), (27, 'cc'), (31, 'conj:and')], 10: [(7, 'aux'), (8, 'cop'), (9, 'advmod'), (11, 'cc'), (12, 'advmod')], 16: [(14, 'nsubjpass'), (15, 'auxpass'), (19, 'nmod:by'), (22, 'xcomp')], 19: [(17, 'case'), (18, 'det')], 22: [(21, 'neg'), (25, 'dobj')], 25: [(23, 'det'), (24, 'compound')], 31: [(28, 'nsubj'), (29, 'aux'), (30, 'neg'), (34, 'dobj'), (36, 'advmod')]}
+
+DF-200-192400-625_6344.3
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'cop'), (4, 'cc'), (7, 'conj:and')], 12: [(8, 'case'), (9, 'det'), (10, 'amod'), (11, 'compound')], 7: [(5, 'det'), (6, 'amod'), (12, 'nmod:with')]}
+
+DF-200-192400-625_6304.4
+{0: [(2, 'root')], 9: [(7, 'case'), (8, 'nmod:poss')], 2: [(1, 'mark'), (6, 'nmod:into'), (9, 'nmod:on'), (11, 'xcomp')], 6: [(3, 'case'), (4, 'det'), (5, 'compound')]}
+
+DF-200-192400-625_6344.1
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (4, 'advmod'), (6, 'xcomp'), (9, 'xcomp')], 6: [(1, 'nsubj'), (5, 'mark'), (7, 'xcomp'), (8, 'cc'), (9, 'conj:and')], 9: [(1, 'nsubj'), (10, 'xcomp')], 10: [(11, 'compound:prt'), (13, 'nmod:with')], 13: [(12, 'case')]}
+
+DF-200-192400-625_7806.1
+{0: [(5, 'root')], 5: [(1, 'advmod'), (2, 'nsubj'), (3, 'cop'), (4, 'advmod'), (7, 'nmod:about'), (8, 'cc'), (9, 'conj:and')], 7: [(6, 'case')], 9: [(2, 'nsubj'), (11, 'ccomp'), (19, 'ccomp')], 11: [(10, 'mark'), (12, 'dobj'), (15, 'advcl'), (16, 'cc'), (19, 'conj:and')], 15: [(13, 'mark'), (14, 'nsubj')], 19: [(17, 'neg'), (18, 'mark'), (21, 'advmod')], 21: [(20, 'advmod')]}
+
+DF-200-192400-625_7806.2
+{0: [(11, 'root')], 33: [(32, 'case')], 6: [(3, 'case'), (4, 'det'), (5, 'amod'), (7, 'cc'), (8, 'conj:or')], 11: [(1, 'advmod'), (6, 'nmod:over'), (8, 'nmod:over'), (9, 'nsubj'), (10, 'aux'), (13, 'dep'), (19, 'cc'), (23, 'conj:and')], 13: [(12, 'nsubj'), (15, 'xcomp'), (17, 'nmod:about')], 15: [(14, 'advmod')], 17: [(16, 'case')], 23: [(20, 'nsubj'), (21, 'aux'), (22, 'neg'), (31, 'nmod:out_of')], 27: [(28, 'mwe')], 31: [(24, 'case'), (25, 'det'), (26, 'amod'), (27, 'case'), (29, 'det'), (30, 'amod'), (33, 'nmod:of')]}
+
+DF-200-192400-625_7557.8
+{0: [(3, 'root')], 8: [(6, 'advmod'), (7, 'nummod')], 10: [(5, 'advmod'), (9, 'nsubj'), (11, 'advmod')], 3: [(1, 'nsubjpass'), (2, 'auxpass'), (10, 'advcl')], 5: [(8, 'dep')]}
+
+DF-200-192400-625_7806.4
+{0: [(4, 'root')], 32: [(28, 'mark'), (29, 'nsubj'), (30, 'cop'), (31, 'det'), (35, 'nmod:of')], 35: [(33, 'case'), (34, 'amod')], 4: [(1, 'nsubj'), (2, 'cop'), (3, 'neg'), (9, 'advcl'), (32, 'advcl'), (37, 'cc'), (40, 'conj:but')], 40: [(38, 'nsubj'), (39, 'aux'), (42, 'xcomp')], 9: [(5, 'mark'), (6, 'nsubj'), (7, 'cop'), (8, 'det'), (12, 'nmod:in'), (18, 'dep'), (27, 'cc'), (32, 'conj:or')], 42: [(38, 'nsubj'), (41, 'mark'), (43, 'dobj'), (47, 'advcl')], 12: [(10, 'case'), (11, 'compound'), (13, 'acl')], 13: [(15, 'nmod:from')], 15: [(14, 'case')], 49: [(48, 'nmod:poss'), (50, 'cc'), (51, 'conj:and')], 18: [(17, 'amod'), (22, 'nmod:to'), (23, 'ref'), (25, 'acl:relcl')], 22: [(19, 'case'), (20, 'amod'), (21, 'compound')], 25: [(18, 'nsubj'), (24, 'aux'), (26, 'dobj')], 47: [(44, 'mark'), (45, 'nsubj'), (46, 'aux'), (49, 'dobj'), (51, 'dobj')]}
+
+DF-200-192400-625_7806.5
+{0: [(3, 'root')], 32: [(29, 'mark'), (30, 'nsubj'), (31, 'aux'), (33, 'compound:prt'), (34, 'xcomp')], 34: [(35, 'dobj'), (39, 'advcl')], 3: [(1, 'nsubj'), (2, 'aux'), (7, 'nmod:to'), (10, 'advcl')], 7: [(4, 'case'), (5, 'det'), (6, 'amod')], 10: [(8, 'mark'), (9, 'nsubj'), (12, 'dobj'), (16, 'dep')], 39: [(36, 'mark'), (37, 'nsubj'), (38, 'cop'), (45, 'ccomp')], 12: [(11, 'nmod:poss')], 45: [(40, 'mark'), (41, 'nsubj'), (42, 'cop'), (43, 'det'), (44, 'amod')], 16: [(13, 'cc'), (14, 'nsubj'), (15, 'advmod'), (18, 'dobj'), (23, 'ccomp'), (32, 'ccomp')], 18: [(17, 'det')], 23: [(20, 'mark'), (21, 'nsubj'), (22, 'aux'), (27, 'nmod:through'), (28, 'cc'), (32, 'conj:and')], 27: [(24, 'case'), (25, 'det'), (26, 'amod')]}
+
+DF-200-192400-625_7806.6
+{0: [(3, 'root')], 8: [(4, 'nsubj'), (5, 'cop'), (6, 'det'), (7, 'amod'), (10, 'acl')], 10: [(9, 'mark')], 3: [(1, 'advmod'), (2, 'aux'), (8, 'dep')]}
+
+DF-200-192400-625_7806.7
+{0: [(1, 'root')], 1: [(4, 'nmod:to'), (7, 'cc'), (8, 'conj:and')], 4: [(2, 'case'), (3, 'det'), (6, 'nmod:about')], 6: [(5, 'case')], 8: [(9, 'advcl')], 9: [(15, 'dep')], 13: [(12, 'compound')], 15: [(10, 'dep'), (13, 'nsubj'), (14, 'aux'), (17, 'dobj'), (18, 'compound:prt'), (20, 'nmod:of')], 17: [(16, 'det')], 20: [(19, 'case')]}
+
+DF-200-192400-625_7806.8
+{0: [(1, 'root')], 1: [(5, 'advcl')], 5: [(2, 'mark'), (3, 'nsubj'), (4, 'aux'), (8, 'nmod:to')], 8: [(6, 'case'), (7, 'det')]}
+
+DF-200-192400-625_7806.9
+{0: [(4, 'root')], 4: [(1, 'cc'), (2, 'aux'), (3, 'nsubj'), (6, 'dobj'), (11, 'advcl:by'), (14, 'cc'), (16, 'conj:and')], 6: [(5, 'det')], 11: [(7, 'case'), (8, 'case'), (9, 'det'), (10, 'amod'), (13, 'nmod:around')], 13: [(12, 'case')], 16: [(3, 'nsubj'), (15, 'advmod'), (18, 'dobj'), (21, 'nmod:on'), (24, 'advcl')], 18: [(17, 'det')], 21: [(19, 'case'), (20, 'det')], 24: [(22, 'mark'), (23, 'nsubj'), (26, 'xcomp')], 26: [(25, 'det')]}
+
+DF-200-192400-625_7744.7
+{0: [(8, 'root')], 34: [(30, 'mark'), (31, 'nsubj'), (32, 'aux'), (33, 'neg'), (35, 'dobj'), (36, 'advmod')], 5: [(1, 'mark'), (2, 'nsubj'), (3, 'aux'), (4, 'neg')], 8: [(5, 'advcl'), (7, 'nsubj'), (11, 'xcomp'), (14, 'ccomp'), (23, 'cc'), (29, 'conj:but')], 11: [(9, 'advmod'), (10, 'advmod')], 14: [(13, 'nsubj'), (15, 'dobj')], 15: [(17, 'acl')], 17: [(16, 'mark'), (18, 'compound:prt'), (21, 'nmod:after')], 21: [(19, 'case'), (20, 'nummod')], 26: [(25, 'det')], 29: [(24, 'advmod'), (26, 'nsubj'), (27, 'cop'), (28, 'advmod'), (34, 'ccomp')]}
+
+DF-200-192400-625_7744.6
+{0: [(4, 'root')], 4: [(1, 'dobj'), (2, 'aux'), (3, 'nsubj'), (6, 'nmod:about')], 6: [(5, 'case')]}
+
+DF-200-192400-625_7744.24
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'ccomp')], 4: [(3, 'nsubj'), (7, 'xcomp')], 7: [(5, 'det'), (6, 'amod'), (11, 'acl:relcl')], 10: [(9, 'det')], 11: [(8, 'advmod'), (10, 'nsubj'), (14, 'xcomp')], 14: [(10, 'nsubj'), (12, 'mark'), (13, 'advmod'), (17, 'dobj')], 17: [(15, 'nmod:poss'), (16, 'amod')]}
+
+DF-200-192400-625_7744.25
+{0: [(5, 'root')], 5: [(1, 'nsubj'), (2, 'advmod'), (3, 'cop'), (4, 'neg'), (9, 'ccomp'), (10, 'cc'), (15, 'conj:and')], 9: [(6, 'mark'), (7, 'aux'), (8, 'neg')], 12: [(11, 'nmod:poss')], 15: [(12, 'nsubj'), (13, 'aux'), (14, 'aux'), (18, 'nmod:of')], 18: [(16, 'case'), (17, 'det'), (21, 'acl:relcl')], 21: [(19, 'nsubj'), (20, 'cop')]}
+
+DF-200-192400-625_7744.26
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (5, 'nmod:to'), (9, 'advmod'), (10, 'advmod'), (11, 'cc'), (14, 'conj:and')], 36: [(35, 'case')], 5: [(3, 'case'), (4, 'compound'), (8, 'nmod:for')], 38: [(39, 'compound:prt'), (41, 'dobj')], 8: [(6, 'case'), (7, 'amod')], 41: [(40, 'det')], 34: [(33, 'mark'), (36, 'nmod:to'), (37, 'cc'), (38, 'conj:and')], 14: [(12, 'nsubj'), (13, 'aux'), (15, 'dobj'), (17, 'xcomp')], 17: [(15, 'nsubj'), (16, 'mark'), (19, 'dobj'), (23, 'dep'), (34, 'dep')], 19: [(18, 'det'), (21, 'nmod:of')], 21: [(20, 'case')], 23: [(22, 'mark'), (25, 'advmod'), (30, 'ccomp'), (32, 'cc'), (34, 'conj:and'), (38, 'conj:and')], 28: [(29, 'mwe')], 30: [(26, 'mark'), (27, 'cop'), (28, 'advmod')]}
+
+DF-200-192400-625_7744.27
+{0: [(14, 'root')], 2: [(1, 'nsubj'), (5, 'ccomp')], 4: [(3, 'det')], 5: [(4, 'nsubj'), (7, 'xcomp')], 7: [(4, 'nsubj'), (6, 'mark'), (8, 'dobj')], 14: [(2, 'ccomp'), (10, 'nsubj'), (11, 'aux'), (12, 'advmod'), (18, 'dobj'), (23, 'dobj')], 18: [(16, 'mark'), (17, 'nsubj'), (20, 'dobj'), (21, 'cc'), (23, 'conj:or')], 20: [(19, 'compound')], 23: [(22, 'nummod')]}
+
+DF-200-192400-625_7744.20
+{0: [(23, 'root')], 5: [(3, 'nmod:poss'), (4, 'compound')], 7: [(1, 'advmod'), (2, 'mark'), (5, 'nsubj'), (6, 'aux'), (10, 'nmod:for')], 10: [(8, 'case'), (9, 'det')], 15: [(12, 'nsubj'), (13, 'aux'), (14, 'advmod'), (16, 'advmod'), (17, 'advmod')], 21: [(20, 'nmod:poss')], 23: [(7, 'advcl'), (15, 'parataxis'), (19, 'advmod'), (21, 'nsubj'), (22, 'aux'), (24, 'dobj')]}
+
+DF-200-192400-625_7744.21
+{0: [(5, 'root')], 2: [(1, 'case')], 5: [(2, 'nmod:to'), (3, 'nsubj'), (4, 'advmod'), (10, 'advcl')], 10: [(6, 'mark'), (7, 'nsubj'), (8, 'cop'), (9, 'advmod'), (12, 'advmod'), (13, 'dep')], 13: [(15, 'advcl')], 15: [(14, 'mark'), (18, 'dobj')], 18: [(16, 'advmod'), (17, 'amod')]}
+
+DF-200-192400-625_7744.22
+{0: [(4, 'root')], 4: [(1, 'nsubj'), (2, 'cop'), (3, 'advmod'), (7, 'nmod:to')], 7: [(5, 'case'), (6, 'det'), (10, 'acl:relcl')], 10: [(8, 'advmod'), (9, 'nsubj'), (11, 'compound:prt'), (13, 'dobj'), (17, 'advcl')], 13: [(12, 'compound'), (15, 'dep')], 15: [(14, 'det')], 17: [(16, 'mark'), (25, 'ccomp')], 19: [(18, 'det'), (22, 'nmod:in')], 22: [(20, 'case'), (21, 'nmod:poss')], 25: [(19, 'nsubjpass'), (23, 'auxpass'), (24, 'advmod'), (28, 'dobj')], 28: [(26, 'det'), (27, 'amod')]}
+
+DF-200-192400-625_7744.23
+{0: [(10, 'root')], 12: [(11, 'nsubj'), (13, 'neg')], 10: [(4, 'advcl'), (8, 'nsubjpass'), (9, 'auxpass'), (12, 'ccomp')], 4: [(1, 'advmod'), (2, 'mark'), (3, 'nsubj'), (7, 'ccomp')], 7: [(5, 'nsubjpass'), (6, 'auxpass')]}
+
+DF-200-192400-625_7744.28
+{0: [(11, 'root')], 2: [(1, 'case')], 7: [(6, 'det')], 8: [(2, 'advmod'), (3, 'nsubj'), (4, 'aux'), (5, 'cop'), (7, 'nmod:npmod')], 11: [(8, 'ccomp'), (10, 'nsubj'), (13, 'ccomp')], 13: [(12, 'expl'), (14, 'advmod'), (15, 'nsubj')], 15: [(17, 'nmod:of'), (20, 'ref'), (21, 'acl:relcl')], 17: [(16, 'case'), (19, 'nmod:for')], 19: [(18, 'case')], 21: [(15, 'nsubj'), (22, 'dobj')]}
+
+DF-200-192400-625_7557.22
+{0: [(1, 'root')], 1: [(2, 'nsubj'), (4, 'nmod:for')], 4: [(3, 'case')]}
+
+DF-200-192400-625_7557.23
+{0: [(5, 'root')], 9: [(8, 'det')], 4: [(3, 'case')], 5: [(1, 'aux'), (2, 'nsubj'), (4, 'advmod'), (6, 'cc'), (7, 'conj:or')], 7: [(2, 'nsubj'), (9, 'dobj')]}
+
+DF-200-192400-625_7557.20
+{0: [(10, 'root')], 3: [(1, 'mark'), (2, 'nsubj'), (5, 'xcomp')], 5: [(2, 'nsubj'), (4, 'mark'), (6, 'dobj')], 9: [(8, 'amod')], 10: [(3, 'advcl'), (9, 'nsubj'), (11, 'dobj'), (13, 'xcomp')], 13: [(11, 'nsubj'), (12, 'mark'), (14, 'dobj')]}
+
+DF-200-192400-625_7557.21
+{0: [(4, 'root')], 4: [(1, 'dobj'), (2, 'aux'), (3, 'nsubj')]}
+
+DF-200-192400-625_7557.26
+{0: [(3, 'root')], 3: [(1, 'mark'), (2, 'nsubj'), (4, 'dobj')], 4: [(7, 'acl:relcl')], 7: [(5, 'nsubj'), (6, 'aux'), (8, 'dobj')]}
+
+DF-200-192400-625_7557.27
+{0: [(10, 'root')], 10: [(3, 'advcl'), (8, 'nsubj'), (9, 'cop'), (13, 'xcomp')], 3: [(1, 'mark'), (2, 'nsubj'), (5, 'dep')], 5: [(4, 'nsubj'), (6, 'compound:prt'), (7, 'advmod')], 13: [(8, 'nsubj'), (11, 'mark'), (12, 'advmod'), (14, 'xcomp')]}
+
+DF-200-192400-625_7557.24
+{0: [(5, 'root')], 5: [(1, 'nsubj'), (2, 'aux'), (3, 'cop'), (4, 'det'), (7, 'acl'), (16, 'acl')], 7: [(6, 'mark'), (11, 'nmod:to'), (14, 'nmod:to'), (15, 'cc'), (16, 'conj:and')], 11: [(8, 'case'), (9, 'nmod:poss'), (10, 'compound'), (12, 'cc'), (14, 'conj:or')], 14: [(13, 'nmod:poss')], 16: [(17, 'dobj'), (20, 'ccomp')], 20: [(18, 'nsubj'), (19, 'aux'), (21, 'compound:prt')]}
+
+DF-200-192400-625_7557.25
+{0: [(3, 'root')], 3: [(1, 'advmod'), (2, 'expl'), (5, 'nsubj')], 5: [(4, 'det'), (7, 'nmod:at'), (8, 'ref'), (10, 'acl:relcl'), (13, 'acl:relcl')], 7: [(6, 'case')], 10: [(5, 'dobj'), (9, 'nsubj'), (11, 'cc'), (13, 'conj:and')], 13: [(9, 'nsubj'), (12, 'aux')]}
+
+DF-200-192400-625_7557.28
+{0: [(6, 'root')], 1: [(2, 'dep')], 6: [(1, 'nsubj'), (4, 'nsubj'), (5, 'cop'), (8, 'xcomp'), (17, 'xcomp')], 8: [(1, 'nsubj'), (4, 'nsubj'), (7, 'mark'), (10, 'dobj'), (12, 'advmod'), (15, 'cc'), (17, 'conj:negcc')], 10: [(9, 'det')], 12: [(11, 'advmod'), (14, 'advcl:as')], 14: [(13, 'case')], 15: [(16, 'mwe')], 17: [(1, 'nsubj'), (19, 'ccomp')], 19: [(18, 'nsubj'), (21, 'xcomp')], 21: [(20, 'advmod')]}
+
+DF-200-192400-625_7557.29
+{0: [(4, 'root')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (5, 'dobj')]}
+
+DF-200-192400-625_6344.18
+{0: [(1, 'root')], 1: [(3, 'nmod:for')], 3: [(2, 'case')]}
+
+DF-200-192400-625_6344.19
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'cop'), (5, 'xcomp')], 5: [(1, 'nsubj'), (4, 'mark')]}
+
+DF-200-192400-625_6344.14
+{8: [(1, 'cc'), (2, 'advmod'), (5, 'nsubjpass'), (6, 'auxpass'), (7, 'neg'), (12, 'xcomp')], 0: [(8, 'root')], 12: [(5, 'nsubj'), (9, 'mark'), (10, 'cop'), (11, 'case')], 5: [(4, 'nmod:poss')]}
+
+DF-200-192400-625_6344.15
+{0: [(3, 'root')], 8: [(4, 'mark'), (6, 'dep')], 3: [(1, 'nsubj'), (2, 'aux'), (8, 'advcl')], 6: [(5, 'advmod')]}
+
+DF-200-192400-625_6344.16
+{0: [(3, 'root')], 3: [(1, 'advmod'), (2, 'nsubj'), (7, 'advcl')], 4: [(5, 'mwe')], 7: [(4, 'mark'), (6, 'nsubj'), (9, 'dobj')], 9: [(8, 'neg'), (13, 'nmod:over')], 13: [(10, 'case'), (11, 'det'), (12, 'amod')]}
+
+DF-200-192400-625_6344.17
+{0: [(5, 'root')], 8: [(6, 'nsubj'), (7, 'mark')], 5: [(1, 'cc'), (2, 'nsubj'), (3, 'aux'), (4, 'neg'), (8, 'ccomp')]}
+
+DF-200-192400-625_6344.10
+{0: [(15, 'root')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (6, 'xcomp')], 6: [(1, 'nsubj'), (5, 'mark'), (10, 'dobj')], 10: [(7, 'nmod:poss'), (8, 'compound'), (9, 'nummod')], 15: [(4, 'ccomp'), (12, 'nsubj'), (13, 'aux'), (14, 'advmod'), (16, 'dobj'), (25, 'ccomp')], 20: [(19, 'det'), (23, 'nmod:of')], 23: [(21, 'case'), (22, 'nmod:poss')], 25: [(18, 'mark'), (20, 'nsubj'), (24, 'aux'), (27, 'xcomp')], 27: [(20, 'nsubj'), (26, 'mark'), (30, 'xcomp')], 30: [(28, 'nsubj'), (29, 'det')]}
+
+DF-200-192400-625_6344.11
+{0: [(14, 'root')], 32: [(29, 'nsubj'), (30, 'aux'), (31, 'neg'), (34, 'dobj')], 34: [(33, 'det')], 4: [(2, 'nsubj'), (3, 'aux'), (5, 'compound:prt'), (7, 'nmod:from')], 7: [(6, 'case'), (9, 'ref'), (10, 'acl:relcl')], 10: [(7, 'nsubj')], 14: [(1, 'advmod'), (4, 'dep'), (12, 'nsubj'), (13, 'aux'), (19, 'dobj'), (21, 'cc'), (26, 'conj:but'), (32, 'parataxis')], 17: [(16, 'advmod')], 19: [(15, 'det'), (17, 'amod'), (18, 'compound')], 26: [(22, 'nsubj'), (23, 'aux'), (24, 'neg'), (25, 'advmod'), (27, 'dobj')]}
+
+DF-200-192400-625_6344.12
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (5, 'ccomp'), (17, 'parataxis')], 5: [(3, 'nsubj'), (4, 'aux'), (6, 'dobj'), (7, 'compound:prt'), (10, 'nmod:of')], 10: [(8, 'case'), (9, 'nmod:poss')], 17: [(12, 'nsubj'), (13, 'aux'), (14, 'cop'), (15, 'advmod'), (16, 'advmod'), (19, 'nmod:without')], 19: [(18, 'case')]}
+
+DF-200-192400-625_6344.13
+{0: [(5, 'root')], 10: [(6, 'nsubjpass'), (7, 'aux'), (8, 'advmod'), (9, 'auxpass')], 5: [(1, 'cc'), (2, 'advmod'), (4, 'nsubj'), (10, 'ccomp')]}
+
+DF-200-192400-625_7557.17
+{0: [(23, 'root')], 2: [(1, 'amod')], 3: [(2, 'nsubj'), (11, 'ccomp')], 6: [(4, 'dobj'), (5, 'nsubj'), (8, 'nmod:to')], 8: [(7, 'case')], 11: [(6, 'advcl'), (10, 'nsubj'), (13, 'ccomp'), (19, 'ccomp')], 13: [(12, 'mark'), (14, 'dobj'), (15, 'advmod'), (16, 'cc'), (19, 'conj:and')], 19: [(17, 'advmod'), (18, 'mark'), (20, 'dobj')], 23: [(3, 'ccomp'), (22, 'nsubj'), (24, 'dobj')]}
+
+DF-200-192400-625_7557.16
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (5, 'ccomp')], 5: [(3, 'nsubj'), (4, 'mark')]}
+
+DF-200-192400-625_7557.15
+{0: [(4, 'root')], 10: [(9, 'nsubj'), (11, 'dobj')], 3: [(2, 'nmod:poss')], 4: [(1, 'advmod'), (3, 'nsubj'), (7, 'nmod:from'), (8, 'cc'), (10, 'conj:and')], 7: [(5, 'case'), (6, 'compound')]}
+
+DF-200-192400-625_7557.14
+{0: [(14, 'root')], 1: [(2, 'acl')], 2: [(4, 'dobj'), (7, 'nmod:with')], 4: [(3, 'det')], 7: [(5, 'case'), (6, 'det'), (8, 'ref'), (10, 'acl:relcl'), (12, 'acl:relcl')], 10: [(7, 'nsubj'), (9, 'cop'), (11, 'cc'), (12, 'conj:and')], 14: [(1, 'nsubjpass'), (13, 'auxpass'), (16, 'xcomp')], 16: [(1, 'nsubj'), (15, 'mark'), (18, 'nmod:to')], 18: [(17, 'case'), (22, 'nmod:because_of'), (26, 'nmod:because_of')], 19: [(20, 'mwe')], 22: [(19, 'case'), (21, 'det'), (23, 'cc'), (26, 'conj:and')], 26: [(24, 'det'), (25, 'compound')]}
+
+DF-200-192400-625_7557.13
+{0: [(4, 'root')], 8: [(5, 'advmod'), (6, 'nsubj'), (7, 'cop')], 3: [(1, 'nmod:poss'), (2, 'amod')], 4: [(3, 'nsubj'), (8, 'advcl')]}
+
+DF-200-192400-625_7557.12
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'advmod'), (8, 'nmod:about'), (10, 'nmod:about')], 8: [(4, 'case'), (5, 'nmod:poss'), (6, 'amod'), (7, 'amod'), (9, 'cc'), (10, 'conj:and')], 10: [(14, 'appos'), (19, 'acl:relcl')], 14: [(12, 'nmod:poss'), (13, 'amod')], 17: [(18, 'neg')], 19: [(16, 'advmod'), (17, 'nsubj')]}
+
+DF-200-192400-625_7557.11
+{0: [(6, 'root')], 2: [(1, 'dep'), (4, 'nmod:of')], 4: [(3, 'case')], 6: [(2, 'nsubj'), (5, 'cop'), (14, 'conj:and'), (16, 'cc'), (18, 'conj:and')], 11: [(8, 'advmod'), (9, 'nsubj'), (10, 'cop')], 13: [(12, 'nmod:poss')], 14: [(11, 'advcl'), (13, 'nsubj')], 18: [(17, 'nsubj'), (19, 'ccomp')], 19: [(21, 'xcomp')], 21: [(20, 'mark'), (22, 'dobj'), (23, 'advmod')]}
+
+DF-200-192400-625_7557.10
+{0: [(3, 'root')], 8: [(5, 'nsubj'), (6, 'cop'), (7, 'advmod'), (11, 'nmod:of')], 3: [(1, 'nsubj'), (2, 'cop'), (4, 'cc'), (8, 'conj:and')], 11: [(9, 'case'), (10, 'nmod:poss')]}
+
+DF-200-192400-625_7744.8
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (5, 'advcl'), (18, 'advcl')], 5: [(3, 'mark'), (4, 'nsubj'), (7, 'dobj'), (9, 'dobj'), (14, 'parataxis'), (15, 'cc'), (18, 'conj:or')], 7: [(6, 'nmod:poss'), (8, 'cc'), (9, 'conj:or')], 14: [(11, 'advmod'), (12, 'nsubjpass'), (13, 'auxpass')], 18: [(16, 'mark'), (17, 'nsubj')]}
+
+DF-200-192400-625_7557.19
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (3, 'xcomp')], 3: [(4, 'dobj'), (7, 'ccomp')], 7: [(5, 'cc'), (6, 'nsubj'), (8, 'compound:prt')]}
+
+DF-200-192400-625_7557.18
+{0: [(8, 'root')], 5: [(3, 'nmod:poss'), (4, 'amod')], 8: [(1, 'advmod'), (5, 'nsubj'), (7, 'advmod'), (14, 'dep'), (26, 'dep')], 14: [(9, 'nsubj'), (11, 'advmod'), (13, 'nsubj'), (16, 'dobj'), (18, 'nmod:to'), (19, 'cc'), (26, 'conj:and')], 16: [(15, 'det')], 18: [(17, 'case')], 22: [(20, 'mark'), (21, 'nsubj'), (23, 'dobj')], 26: [(22, 'advcl'), (24, 'advmod'), (25, 'nsubj')]}
+
+DF-200-192400-625_7744.5
+{0: [(2, 'root')], 32: [(30, 'case'), (31, 'det')], 2: [(1, 'nsubj'), (8, 'advcl'), (14, 'advcl'), (26, 'cc'), (29, 'conj:and')], 4: [(3, 'advmod')], 8: [(4, 'advmod'), (5, 'advmod'), (6, 'nsubj'), (7, 'aux'), (10, 'dobj'), (12, 'cc'), (14, 'conj:but')], 10: [(9, 'amod')], 14: [(13, 'nsubj'), (15, 'advmod'), (17, 'advmod'), (19, 'advmod'), (22, 'ccomp')], 15: [(16, 'cc'), (17, 'conj:and'), (18, 'dep')], 22: [(20, 'nsubj'), (21, 'aux'), (24, 'dobj')], 24: [(23, 'advmod')], 29: [(27, 'cop'), (28, 'det'), (32, 'nmod:to')]}
+
+DF-200-192400-625_7744.4
+{0: [(3, 'root')], 3: [(1, 'aux'), (2, 'nsubj'), (4, 'xcomp'), (6, 'xcomp')], 4: [(5, 'cc'), (6, 'conj:or')]}
+
+DF-200-192400-625_6304.21
+{0: [(11, 'root')], 1: [(4, 'nmod:on')], 4: [(2, 'case'), (3, 'nummod'), (6, 'nmod:of')], 6: [(5, 'case'), (10, 'nmod:at')], 10: [(7, 'case'), (8, 'det'), (9, 'compound')], 11: [(1, 'nsubj'), (17, 'xcomp')], 15: [(12, 'det'), (13, 'advmod'), (14, 'amod')], 17: [(15, 'nsubj'), (16, 'amod')]}
+
+DF-200-192400-625_6304.20
+{0: [(1, 'root')], 1: [(3, 'dobj'), (6, 'nmod:into')], 3: [(2, 'nmod:poss')], 6: [(4, 'case'), (5, 'amod')]}
+
+DF-200-192400-625_6304.23
+{0: [(3, 'root')], 9: [(8, 'nmod:poss')], 3: [(1, 'nsubj'), (2, 'aux'), (5, 'ccomp'), (7, 'ccomp')], 5: [(4, 'nsubj'), (6, 'cc'), (7, 'conj:and')], 7: [(4, 'nsubj'), (9, 'dobj'), (10, 'advmod')]}
+
+DF-200-192400-625_6304.22
+{0: [(3, 'root')], 3: [(1, 'aux'), (2, 'neg'), (4, 'dobj'), (5, 'compound:prt'), (8, 'nmod:from'), (10, 'cc'), (12, 'conj:and')], 8: [(6, 'case'), (7, 'nmod:poss')], 12: [(11, 'advmod'), (14, 'advcl')], 14: [(13, 'mark'), (22, 'ccomp')], 16: [(15, 'amod'), (20, 'nmod:from')], 20: [(17, 'case'), (18, 'det'), (19, 'amod')], 22: [(16, 'nsubj'), (21, 'advmod'), (24, 'nmod:at')], 24: [(23, 'case')]}
+
+DF-200-192400-625_6304.25
+{0: [(2, 'root')], 2: [(1, 'cc'), (3, 'cc'), (4, 'conj:and'), (5, 'dobj'), (6, 'dep'), (11, 'advcl')], 11: [(8, 'mark'), (9, 'nsubj'), (10, 'cop'), (14, 'ccomp')], 14: [(12, 'nsubj'), (13, 'cop'), (18, 'ccomp')], 16: [(15, 'nmod:poss')], 18: [(16, 'nsubj'), (17, 'aux'), (19, 'dobj')]}
+
+DF-200-192400-625_6304.24
+{0: [(19, 'root')], 8: [(1, 'mark'), (2, 'nsubj'), (3, 'aux'), (4, 'advmod'), (5, 'cop'), (6, 'det'), (7, 'amod'), (11, 'acl:relcl')], 11: [(9, 'nsubj'), (10, 'aux'), (13, 'advcl')], 13: [(12, 'mark'), (16, 'nmod:to')], 16: [(14, 'case'), (15, 'compound')], 18: [(17, 'nmod:poss')], 19: [(8, 'advcl'), (18, 'nsubj'), (20, 'dobj'), (23, 'nmod:on'), (25, 'nmod:for')], 23: [(21, 'case'), (22, 'det')], 25: [(24, 'case'), (27, 'advmod'), (31, 'dep')], 30: [(29, 'advmod')], 31: [(28, 'nmod:poss'), (30, 'amod')]}
+
+DF-200-192400-625_7744.2
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'advmod'), (5, 'xcomp')], 5: [(1, 'nsubj'), (4, 'mark'), (6, 'advmod'), (8, 'advmod'), (9, 'dep'), (20, 'advcl')], 8: [(7, 'case')], 14: [(13, 'nummod'), (19, 'nmod:for')], 19: [(15, 'case'), (16, 'det'), (17, 'compound'), (18, 'compound')], 20: [(11, 'advmod'), (12, 'mark'), (14, 'nsubj'), (21, 'xcomp')], 21: [(22, 'advmod')]}
+
+DF-200-192400-625_7557.32
+{0: [(2, 'root')], 32: [(29, 'mark'), (30, 'nsubj'), (31, 'aux'), (34, 'xcomp')], 2: [(1, 'nsubj'), (5, 'xcomp'), (7, 'cc'), (15, 'conj:but')], 5: [(3, 'advmod'), (4, 'advmod')], 39: [(38, 'case')], 8: [(10, 'dobj')], 10: [(9, 'det')], 34: [(30, 'nsubj'), (33, 'mark'), (37, 'dobj'), (39, 'nmod:to')], 15: [(8, 'csubj'), (11, 'cop'), (12, 'det:predet'), (13, 'det'), (14, 'amod'), (19, 'acl')], 19: [(16, 'mark'), (17, 'advmod'), (18, 'nsubj'), (22, 'nmod:at'), (28, 'ccomp')], 22: [(20, 'case'), (21, 'det')], 25: [(24, 'advmod')], 27: [(26, 'nmod:poss')], 28: [(25, 'dep'), (27, 'nsubj'), (32, 'ccomp')], 37: [(35, 'det:predet'), (36, 'det')]}
+
+DF-200-192400-625_7744.1
+{32: [(3, 'ccomp'), (29, 'nsubj'), (30, 'aux'), (31, 'advmod'), (34, 'dobj'), (36, 'advcl')], 0: [(32, 'root')], 34: [(33, 'nmod:poss')], 3: [(1, 'dep'), (2, 'nsubj'), (5, 'ccomp')], 36: [(35, 'mark'), (37, 'xcomp')], 5: [(4, 'nsubj'), (7, 'dobj'), (18, 'advcl')], 7: [(6, 'det'), (9, 'nmod:of')], 9: [(8, 'case')], 43: [(38, 'nsubj')], 14: [(11, 'case'), (12, 'det'), (13, 'amod')], 18: [(10, 'mark'), (14, 'nmod:for'), (16, 'nsubj'), (17, 'aux'), (20, 'ccomp')], 20: [(19, 'mark'), (22, 'ccomp'), (27, 'xcomp')], 22: [(21, 'nsubj'), (23, 'compound:prt')], 41: [(38, 'nsubj'), (39, 'aux'), (40, 'neg'), (42, 'cc'), (43, 'conj:or'), (44, 'dobj')], 27: [(25, 'advmod'), (26, 'mark')], 37: [(41, 'ccomp'), (43, 'ccomp')]}
+
+DF-200-192400-625_7744.15
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'xcomp'), (13, 'parataxis')], 4: [(1, 'nsubj'), (3, 'mark'), (5, 'dobj'), (10, 'nmod:to')], 5: [(8, 'nmod:on')], 8: [(6, 'case'), (7, 'nmod:poss')], 10: [(9, 'case')], 13: [(12, 'nsubj'), (15, 'dobj')], 15: [(14, 'det'), (17, 'nmod:of')], 17: [(16, 'case'), (19, 'acl:relcl')], 19: [(18, 'nsubj'), (21, 'ccomp'), (25, 'ccomp')], 21: [(20, 'nsubj'), (23, 'nmod:on'), (24, 'cc'), (25, 'conj:and')], 23: [(22, 'case')], 25: [(20, 'nsubj'), (27, 'xcomp')], 27: [(20, 'nsubj'), (26, 'mark'), (28, 'advmod'), (31, 'nmod:on')], 31: [(29, 'case'), (30, 'det')]}
+

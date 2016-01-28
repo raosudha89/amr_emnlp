@@ -1,0 +1,20 @@
+Starting Up!
+Learning..
+Time taken: 35892.308857
+Testing..
+
+Evaluation against aligned concepts
+& P & R & F
+& 0.796 & 0.788 & 0.792
+Micro avg F1 = 0.791161376251
+Time taken: 2993.36949992
+
+
+Traceback (most recent call last):
+  File "smatch_code/smatch.py", line 694, in <module>
+    main(args)
+  File "smatch_code/smatch.py", line 594, in main
+    amr1=amr.AMR.parse_AMR_line(cur_amr1)
+  File "/Users/sudharao/Documents/Research/SemEvalTask/amr_emnlp/scripts/smatch_code/amr.py", line 167, in parse_AMR_line
+    var_attr_dict1[stack[-2]].append((cur_attr_name, variable_name))
+IndexError: list index out of range

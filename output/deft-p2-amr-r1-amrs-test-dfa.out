@@ -1,0 +1,3653 @@
+# ::id DF-200-192400-625_6344.8
+(c3 / get-01
+		:time (c0 / then
+)		:ARG0 (c2 / teach-01
+)		:ARG0 (c1 / person
+	:ARG0-of c2
+))
+
+# ::id DF-200-192400-625_6344.9
+(c13 / turn-out-11
+		:ARG1 (c4 / lovely
+			:domain (c2 / minute
+				:quant (c0 / 1
+))			:ARG1 (c3 / she
+)			:op4 (c5 / and
+)			:domain (c7 / have-03
+				:ARG0 (c6 / it
+)				:ARG1 (c9 / back
+					:mod (c8 / mummy
+)					:ARG2 (c11 / next
+						:time (c10 / then
+)))))	:ARG1 c5
+	:ARG1 c7
+		:ARG0 (c12 / she
+)		:location (c16 / human
+			:mod (c15 / spiteful
+				:degree (c14 / most
+)))		:ARG1 (c1 / temporal-quantity
+	:unit c2
+))
+
+# ::id DF-199-194215-653_0484.1
+(c1 / 24
+		:ARG0 (c0 / i
+)		:consist-of (c2 / and
+)		:ARG2-of (c4 / mother
+			:mod (c9 / old
+				:domain (c8 / year
+					:frequency (c5 / 2
+						:op4 (c6 / and
+)))))		:ARG2-of (c7 / temporal-quantity
+	:unit c8
+)		:ARG0 (c3 / have-rel-role-91
+	:ARG2 c4
+))
+
+# ::id DF-200-192400-625_6344.6
+(c1 / 18
+		:ARG0 (c0 / i
+)		:prep-against (c10 / and
+			:op2 (c12 / break-01
+	:ARG1 c10
+				:ARG0 (c11 / i
+)				:ARG1 (c13 / point
+)))	:op1 c12
+		:ARG0 (c9 / bursary
+)		:ARG0-of (c8 / 95
+)		:mod (c2 / full
+			:time (c3 / former
+				:ARG1 (c7 / school
+					:ARG1-of (c4 / high
+)					:mod (c5 / pressure
+)					:mod (c6 / private-03
+)))))
+
+# ::id DF-199-194215-653_0484.3
+(c1 / want-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / start-01
+	:ARG0 c0
+			:ARG1 (c3 / date-02
+))		:ARG0 (c5 / and
+			:op2 (c10 / say-01
+	:ARG1 c5
+				:ARG0 (c9 / father
+)))	:ARG1 c10
+		:ARG1 (c8 / have-rel-role-91
+	:ARG2 c9
+)		:ARG0 (c13 / have-03
+			:ARG0 (c12 / he
+)			:ARG1 (c14 / nothing
+))		:ARG1 (c15 / have-rel-role-91
+			:ARG2 (c16 / son
+))		:ARG0 (c11 / i
+)		:ARG2 (c6 / have-rel-role-91
+			:ARG2 (c7 / son
+))		:ARG3 (c4 / other
+))
+
+# ::id DF-199-194215-653_0484.2
+(c5 / break-01
+		:ARG0 (c0 / and
+)		:ARG1 (c4 / father
+)		:time (c6 / since
+)		:ARG1 (c7 / 8
+	:time c6
+)		:ARG1 (c3 / have-rel-role-91
+	:ARG2 c4
+)		:ARG0 (c1 / have-rel-role-91
+			:ARG2 (c2 / son
+)))
+
+# ::id DF-199-194215-653_0484.5
+(c8 / think-01
+		:ARG0 (c7 / he
+)		:ARG1 (c11 / work-01
+			:ARG0 (c9 / we
+)			:ARG1-of (c10 / possible-01
+	:ARG1 c11
+				:ARG1 (c19 / love-02
+					:ARG0 (c18 / he
+)))	:ARG1 c19
+)		:time (c13 / tell-01
+			:ARG0 (c12 / i
+))		:ARG1 (c17 / and
+)		:ARG0 (c14 / several
+)		:ARG1 (c16 / love-01
+)		:ARG0 (c15 / i
+)		:ARG2 (c3 / life
+)		:quant (c2 / much
+			:degree (c1 / too
+))		:ARG3 (c0 / he
+)		:condition (c6 / and
+)		:ARG4 (c5 / now
+			:mod (c4 / right
+)))
+
+# ::id DF-199-194215-653_0484.4
+(c5 / contrast-01
+		:ARG2 (c3 / and
+			:op1 (c2 / possesive
+				:ARG1 (c0 / he
+)				:degree (c1 / very
+)	:ARG1 c3
+				:ARG2-of (c4 / control-01
+	:domain c0
+)))		:ARG0 (c9 / together
+			:domain (c8 / we
+))		:ARG1 (c7 / right
+			:polarity (c6 / -
+)))
+
+# ::id DF-199-194215-653_0484.7
+(c0 / contrast-01
+		:ARG2 (c4 / and
+			:op2 (c5 / have-03
+				:ARG0 (c1 / he
+)				:ARG1 (c6 / issue-02
+)))		:ARG0 (c2 / family
+			:op5 (c3 / and
+)))
+
+# ::id DF-199-194215-653_0484.6
+(c1 / want-01
+		:ARG0 (c0 / i
+)		:ARG1 (c4 / son
+			:destination (c2 / there
+)			:domain (c5 / need-01
+				:mod (c6 / too
+)))		:ARG1 (c3 / have-rel-role-91
+	:ARG2 c4
+))
+
+# ::id DF-199-194215-653_0484.9
+(c9 / try-01
+		:ARG1 (c8 / or
+)		:ARG0 (c3 / have-rel-role-91
+			:ARG2 (c4 / son
+				:destination (c2 / there
+)))		:concession (c1 / want-01
+	:ARG1 c4
+)		:ARG0 (c0 / i
+)		:ARG1 (c6 / have-rel-role-91
+			:ARG2 (c7 / father
+				:mod (c5 / good
+))))
+
+# ::id DF-199-194215-653_0484.8
+(c1 / want-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / miserable
+	:ARG1 c0
+			:degree (c3 / anymore
+))		:ARG1 (c4 / and
+)		:ARG0 (c8 / i
+)		:ARG1 (c7 / miserable
+			:degree (c6 / more
+))		:ARG0 (c5 / around
+))
+
+# ::id DF-200-192400-625_6344.5
+(c6 / remark-01
+		:mod (c4 / nasty
+)		:mod (c5 / hateful
+)		:mod (c1 / cope-01
+			:ARG0 (c0 / i
+)			:ARG1 (c2 / outburst
+				:op5 (c3 / and
+	:op1 c2
+))			:time (c8 / home
+				:ARG0 (c7 / i
+))))
+
+# ::id DF-200-192400-625_6677.11
+(c4 / say-01
+		:ARG2 (c2 / think-01
+			:ARG0 (c0 / mind
+)			:ARG0 (c1 / you
+))		:ARG1 (c5 / it
+)		:ARG0 (c3 / -
+))
+
+# ::id DF-200-192400-625_6677.10
+(c0 / go-02
+		:ARG1 (c1 / top
+			:ARG2 (c2 / it
+))		:prep-with (c5 / go-02
+			:ARG0 (c3 / lest
+	:ARG1 c5
+)			:ARG0 (c4 / you
+)			:path (c8 / direction
+				:mod (c6 / complete-02
+)				:mod (c7 / opposite-01
+))))
+
+# ::id DF-200-192400-625_6677.13
+(c11 / contrast-01
+		:ARG2 (c20 / fool-01
+)		:ARG0 (c13 / you
+)		:ARG1 (c14 / just
+)		:ARG1 (c19 / it
+)		:ARG2 (c15 / anything
+)		:ARG3 (c4 / attitude
+			:mod (c0 / well
+)			:ARG1 (c1 / this
+)			:mod (c2 / such
+)			:ARG1-of (c3 / bad-07
+)			:mod (c5 / really
+)			:ARG1 (c12 / point
+)))
+
+# ::id DF-200-192400-625_6677.12
+(c7 / start-01
+		:location-of (c1 / start-01
+			:ARG0 (c0 / they
+)			:ARG1 (c2 / realize-01
+	:ARG0 c0
+))		:ARG0 (c6 / they
+)		:ARG1 (c8 / respect-01
+			:degree (c10 / more
+				:ARG0 (c9 / you
+)))		:ARG1 (c4 / bend-01
+			:ARG0 (c3 / you
+)			:direction (c5 / backwards
+)))
+
+# ::id DF-200-192400-625_6344.2
+(c2 / get-01
+		:ARG0 (c1 / mum
+)		:ARG1 (c3 / divorce-01
+)		:ARG1 (c12 / find-01
+			:ARG0 (c9 / father
+				:ARG2 (c10 / and
+	:op2 c12
+)				:mod (c11 / new
+))	:ARG0 c10
+	:ARG0 c11
+			:ARG1 (c14 / send-01
+				:ARG1 (c13 / free-04
+)				:ARG1 (c15 / round
+)				:ARG1 (c16 / bend-01
+)))		:ARG0 (c8 / have-rel-role-91
+	:ARG2 c9
+)		:ARG1 (c0 / have-rel-role-91
+	:ARG2 c1
+)		:ARG2 (c6 / time
+			:mod (c5 / horrible
+)			:ARG2 (c7 / step-01
+))		:ARG0 (c4 / she
+))
+
+# ::id DF-200-192400-625_6344.3
+(c1 / epileptic
+		:domain (c0 / she
+)		:op4 (c2 / and
+)		:ARG0 (c3 / manic
+)		:ARG0-of (c4 / depressive
+			:ARG1 (c7 / problem
+				:mod (c5 / huge
+)				:mod (c6 / anger-01
+))))
+
+# ::id DF-199-194215-653_0484.11
+(c2 / think-01
+		:ARG1 (c0 / contrast-01
+)		:ARG0 (c1 / he
+)		:polarity (c3 / -
+)		:ARG1 (c4 / possible-01
+))
+
+# ::id DF-199-194215-653_0484.10
+(c4 / need-01
+		:ARG0 (c3 / child
+			:mod (c2 / every
+))		:ARG1 (c8 / weather
+			:mod (c7 / parent
+				:mod (c5 / both
+)))		:ARG0 (c10 / together
+			:domain (c11 / or
+))		:ARG0 (c9 / they
+)		:ARG1 (c6 / have-rel-role-91
+	:ARG2 c7
+)		:condition (c1 / believe-01
+)		:ARG1 (c0 / i
+))
+
+# ::id DF-199-194215-653_0484.13
+(c1 / threaten-01
+		:ARG0 (c0 / ex
+)		:degree (c3 / use-01
+			:ARG0 (c2 / you
+)			:ARG1 (c5 / son
+				:ARG1-of (c8 / bad-07
+					:ARG1 (c6 / bad-07
+)					:ARG1 (c7 / bad-07
+))))		:ARG0 (c4 / have-rel-role-91
+	:ARG2 c5
+))
+
+# ::id DF-199-194215-653_0484.12
+(c1 / move-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / life
+))
+
+# ::id DF-199-194215-653_0484.15
+(c1 / have-03
+		:ARG0 (c0 / you
+)		:ARG1 (c2 / right
+			:ARG2 (c3 / live-01
+				:ARG1 (c4 / life
+)				:ARG1 (c5 / and
+	:op1 c4
+)))		:ARG1 (c6 / cave
+			:ARG1 (c7 / threaten-01
+)))
+
+# ::id DF-199-194215-653_0484.14
+(c4 / just
+		:ARG0 (c5 / escalate-01
+			:ARG1 (c3 / it
+))		:ARG1 (c2 / or
+)		:ARG2 (c1 / that
+)		:ARG3 (c0 / you
+))
+
+# ::id DF-199-194215-653_0484.17
+(c1 / say-01
+		:ARG0 (c0 / other
+)		:ARG1 (c4 / kill-01
+			:ARG0 (c3 / i
+)			:ARG0-of (c6 / leave-11
+				:ARG0 (c5 / you
+)))		:domain (c2 / thing
+)		:ARG0 (c7 / it
+))
+
+# ::id DF-199-194215-653_0484.16
+(c5 / see-01
+		:condition (c1 / love-01
+			:mod (c0 / really
+)			:ARG1 (c3 / son
+))		:ARG0 (c4 / he
+)		:condition (c6 / contrast-01
+)		:ARG0 (c11 / method
+			:mod (c7 / this
+)			:mod (c8 / just
+)			:mod (c9 / typical-02
+)			:mod (c10 / control-01
+))		:ARG1 (c2 / have-rel-role-91
+	:ARG2 c3
+)		:ARG0 (c13 / use-01
+)		:ARG1 (c12 / that
+))
+
+# ::id DF-199-194215-653_0484.19
+(c0 / meet-02
+		:ARG1 (c2 / kind
+			:quant (c1 / all
+)))
+
+# ::id DF-199-194215-653_0484.18
+(c0 / date
+)
+
+# ::id DF-200-192400-625_6344.1
+(c1 / get-01
+		:ARG0 (c0 / it
+)		:ARG2 (c2 / hard-02
+)		:ARG1 (c3 / keep-02
+	:ARG1 c0
+			:ARG1 (c4 / strong-02
+)			:ARG1 (c5 / and
+				:op2 (c6 / keep-02
+	:ARG1 c0
+					:ARG1 (c7 / carry-01
+						:ARG2 (c8 / life
+))))	:op2 c6
+)	:ARG1 c5
+	:ARG1 c6
+)
+
+# ::id DF-200-192400-625_7046.13
+(c1 / think-01
+		:ARG0 (c0 / i
+)		:ARG2 (c3 / more
+			:quant (c2 / lot
+)			:ARG1 (c4 / feel-01
+				:ARG1 (c6 / way
+					:ARG1-of (c5 / same-01
+)))			:op2 (c8 / do-02
+				:ARG0 (c7 / you
+)				:ARG2 (c9 / contrast-01
+	:ARG2 c8
+)				:ARG1 (c10 / medicate-01
+	:ARG0 c7
+					:manner (c11 / use-01
+						:ARG1 (c13 / friend
+))))	:op1 c10
+)		:ARG1 (c16 / solution
+			:topic-of (c14 / it
+)			:mod (c15 / probable
+)			:mod (c17 / such
+				:mod (c20 / friend
+					:mod (c18 / around
+)					:op2 (c23 / good
+						:ARG1-of (c21 / depress-01
+)						:mod (c22 / definite
+)						:ARG1-of (c24 / alone
+							:ARG2 (c25 / and
+)							:op6 (c26 / depress-01
+))	:ARG1-of c26
+)))			:mod (c27 / either
+)			:ARG1 (c32 / feel-01
+				:frequency (c28 / way
+					:mod (c30 / fancy-01
+						:ARG1 (c29 / you
+)						:purpose (c31 / chat-01
+)))				:ARG1 (c33 / free-04
+)))		:ARG0 (c19 / have-rel-role-91
+	:ARG2 c20
+)		:ARG1 (c12 / have-rel-role-91
+	:ARG2 c13
+))
+
+# ::id DF-200-192392-456_1160.5
+(c1 / near-02
+		:ARG0 (c3 / i
+			:ARG1-of (c2 / possible-01
+))		:ARG1 (c0 / i
+)		:ARG2 (c7 / day
+			:mod (c6 / all
+))		:ARG2 (c5 / couting-01
+)		:ARG1 (c4 / woud
+))
+
+# ::id DF-200-192392-456_1160.4
+(c0 / get-01
+		:ARG1 (c1 / lazy
+))
+
+# ::id DF-200-192392-456_1160.7
+(c1 / -
+		:domain (c2 / pay-01
+			:ARG1 (c4 / amount
+				:mod (c3 / certain
+))			:ARG1-of (c5 / load
+				:consist-of (c6 / coin
+)))		:mod (c7 / such
+			:ARG2 (c11 / pay-01
+				:ARG0 (c8 / you
+)				:ARG1-of (c9 / possible-01
+	:ARG1 c11
+)				:mod (c10 / only
+)				:ARG1 (c12 / something
+)				:manner (c13 / 30pence
+)))		:ARG0 (c0 / law
+	:polarity c1
+)		:ARG0 (c14 / 1ps
+))
+
+# ::id DF-200-192392-456_1160.6
+(c5 / tell-01
+		:ARG0 (c3 / they
+)		:mod (c4 / just
+)		:ARG1 (c6 / you
+)		:ARG0 (c8 / hell
+)		:ARG1 (c1 / note
+			:quant (c0 / 20
+)			:ARG1 (c2 / bus
+))		:ARG0 (c7 / lazy
+))
+
+# ::id DF-200-192392-456_1160.1
+(c6 / want-01
+		:ARG1 (c3 / want-01
+			:ARG0 (c2 / drive-01
+				:ARG1 (c0 / bus
+))			:ARG1 (c5 / change-01
+				:mod (c4 / exact
+)))		:ARG1 (c8 / change-01
+			:mod (c7 / exact
+))		:ARG1 (c9 / deliver-01
+			:ARG1 (c11 / want-01
+				:ARG0 (c10 / food
+)				:ARG1 (c13 / change-01
+					:mod (c12 / exact
+))))		:ARG0 (c1 / person
+	:ARG0-of c2
+))
+
+# ::id DF-200-192400-625_7046.10
+(c2 / professional
+		:ARG1 (c0 / i
+)		:mod (c1 / health
+)		:concession-of (c3 / and
+)		:ARG1 (c7 / speak-01
+	:ARG1 c3
+			:ARG0 (c4 / i
+)			:ARG1 (c5 / possible-01
+	:ARG1 c7
+)			:mod (c6 / only
+)			:ARG1 (c9 / experience-01
+				:ARG1-of (c8 / personal-02
+)))		:ARG1-of (c20 / thing
+			:ARG1-of (c21 / worry-02
+))		:mod (c12 / suggest-01
+			:ARG0 (c10 / i
+)			:ARG1-of (c11 / strong-02
+)			:ARG1 (c14 / see-01
+				:ARG0 (c13 / you
+)				:ARG1 (c17 / professional
+					:ARG2-of (c15 / qualify-02
+)					:mod (c16 / health
+)					:ARG1 (c18 / feel-01
+						:op7 (c19 / and
+	:op1 c18
+	:op2 c21
+)	:time c21
+)	:mod c21
+)				:ARG1 (c22 / depression
+))))
+
+# ::id DF-200-192392-456_1160.3
+(c1 / somewhere
+		:mod (c2 / take-01
+			:ARG0 (c0 / someone
+)			:ARG1 (c3 / note
+)))
+
+# ::id DF-200-192392-456_1160.2
+(c1 / realize-01
+		:ARG0 (c0 / they
+)		:ARG1 (c3 / get-01
+			:ARG0 (c2 / you
+)			:ARG1 (c4 / pile
+				:mod (c5 / change-01
+))			:ARG1 (c6 / bank
+)))
+
+# ::id DF-200-192400-625_7046.11
+(c1 / feel-01
+		:ARG1 (c34 / temporal-quantity
+			:unit (c35 / minute
+))		:ARG0 (c43 / thing
+			:ARG1-of (c44 / experience-01
+))		:ARG0 (c56 / engage-01
+			:ARG0 (c55 / you
+)			:ARG1 (c57 / help-01
+				:op7 (c58 / and
+					:op2 (c59 / life
+))	:op2 c59
+)	:ARG2 c59
+			:time (c60 / general-02
+))		:ARG2-of (c63 / contrast-01
+			:ARG2 (c73 / and
+				:op2 (c61 / get-01
+	:ARG0 c55
+					:time (c62 / somewhere
+))				:op2 (c71 / feel-01
+					:ARG0 (c70 / lot
+)					:ARG1 (c72 / this
+))))		:time (c2 / unintelligent
+			:op4 (c3 / and
+)			:manner (c4 / awkward
+)			:domain (c22 / matter
+				:ARG1 (c6 / get-01
+					:ARG0 (c5 / they
+)					:op4 (c11 / contrast-01
+)					:ARG1 (c14 / recommend-01
+						:ARG0 (c12 / i
+)						:mod (c13 / really
+)						:ARG1 (c16 / get-01
+							:ARG0 (c15 / you
+)							:ARG1 (c17 / appointment-02
+								:ARG2 (c19 / service
+									:mod (c18 / counsel-01
+))))))	:ARG1 c14
+				:ARG1 (c20 / it
+)				:manner (c21 / really
+)				:ARG1 (c49 / helpful-04
+					:ARG1 (c45 / meditation
+						:ARG0 (c23 / anyone
+)						:ARG1 (c31 / have-03
+							:ARG1 (c24 / tell-01
+								:ARG1 (c25 / you
+)								:ARG1 (c27 / depress-01
+									:ARG1 (c26 / you
+)									:op2 (c28 / or
+)))							:ARG0 (c29 / you
+)							:mod (c30 / obvious-01
+)							:ARG1 (c33 / problem
+								:quant (c32 / some
+)	:compared-to c35
+)							:ARG1 (c36 / and
+	:op2 c33
+								:op2 (c41 / label-01
+									:mod (c42 / important
+	:compared-to c44
+)))							:ARG1 (c38 / use-01
+	:ARG0 c29
+								:ARG1-of (c37 / possible-01
+)								:ARG1 (c40 / support-01
+									:quant (c39 / some
+)))	:ARG0 c41
+							:ARG1 (c46 / and
+								:op2 (c47 / exercise-02
+)	:op2 c49
+))	:ARG1 c38
+	:ARG1 c46
+	:ARG1 c47
+)	:ARG1 c47
+					:mod (c48 / really
+)					:ARG1 (c52 / try-01
+						:degree (c50 / so
+)						:manner (c51 / definite
+))					:op4 (c53 / contrast-01
+	:ARG2 c47
+						:ARG2 (c64 / beat-03
+	:ARG0 c55
+							:ARG2 (c65 / feel-01
+								:ARG1 (c66 / unmotivated
+)))						:ARG2 (c76 / pass-03
+							:time (c74 / hope-01
+)							:ARG1 (c75 / it
+)							:ARG1 (c78 / begin-01
+								:ARG0 (c77 / you
+)								:ARG1 (c79 / feel-01
+	:ARG0 c77
+									:time (c80 / good
+)))))	:ARG1 c64
+	:ARG1 c76
+)	:ARG1 c52
+))		:mod (c81 / unkind
+)		:ARG1 (c82 / only
+)		:ARG2 (c84 / feel-01
+			:ARG0 (c83 / you
+)			:ARG2 (c85 / bad-07
+))		:ARG3 (c89 / help-01
+			:quant (c88 / some
+))		:ARG1-of (c10 / there
+			:mod (c9 / alone
+))		:ARG2 (c54 / yeah
+)		:manner (c8 / definite
+)		:ARG4 (c0 / most
+)		:ARG5 (c7 / you
+)		:location (c68 / temporal-quantity
+			:unit (c69 / minute
+))		:ARG6 (c67 / anything
+))
+
+# ::id DF-200-192400-625_7046.8
+(c16 / feel-01
+		:ARG1 (c0 / sorry-01
+			:ARG2 (c1 / anyone
+				:mod (c2 / read-01
+					:ARG1 (c5 / mess-up-02
+						:mod (c3 / this
+)						:mod (c4 / jumbled
+))					:ARG1 (c6 / and
+						:op2 (c8 / feel-01
+							:ARG0 (c7 / i
+)							:ARG1 (c9 / bit
+								:ARG1 (c10 / self
+))							:ARG1 (c11 / seek-01
+								:ARG1 (c12 / moaner
+)))						:op2 (c15 / do-02
+	:ARG0 c6
+							:ARG0 (c14 / i
+)))	:ARG1 c8
+					:ARG1 (c13 / contrast-01
+	:ARG2 c6
+)	:ARG1 c15
+)	:op5 c8
+	:op3 c15
+))		:ARG1 (c17 / desperate
+))
+
+# ::id DF-200-192400-625_7046.9
+(c10 / and
+		:op2 (c11 / feel-01
+			:ARG1 (c12 / pressure-01
+				:ARG1-of (c13 / socialise-01
+					:ARG1 (c14 / stranger
+)					:ARG1 (c15 / and
+	:op2 c13
+						:op2 (c16 / fit-06
+							:ARG1 (c18 / role
+								:mod (c17 / new
+))))	:op2 c16
+)	:op2 c16
+))		:op2 (c20 / person
+			:ARG0-of (c21 / study-01
+				:ARG1 (c19 / university
+)))		:op1 (c3 / feel-01
+			:ARG1 (c0 / it
+)			:mod (c1 / common
+)			:mod (c2 / exist-01
+)			:ARG1 (c4 / become-01
+				:ARG2 (c6 / intense-02
+					:degree (c5 / more
+))				:ARG2 (c9 / situation
+					:domain (c7 / they
+)					:mod (c8 / new
+))	:op2 c11
+)	:prep-in c11
+))
+
+# ::id DF-200-192400-625_7046.4
+(c1 / feel-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / moment
+)		:ARG1 (c5 / overwhelm-01
+			:ARG1 (c3 / problem
+)			:time (c4 / incredible
+)			:op4 (c6 / and
+))		:ARG0 (c16 / concentrate-01
+			:ARG1 (c17 / work-01
+)			:ARG1 (c19 / find-01
+				:ARG1-of (c18 / often
+)				:ARG1 (c20 / become-01
+					:ARG1 (c22 / quiet-04
+						:degree (c21 / very
+))					:time (c24 / occasion-02
+						:mod (c23 / society
+))))			:ARG0 (c25 / and
+	:op2 c19
+)			:ARG1 (c26 / doubt-01
+				:compared-to (c27 / anything
+					:op7 (c28 / and
+)					:op6 (c29 / everything
+))	:op6 c29
+))		:ARG1 (c13 / esteem-01
+			:ARG1 (c12 / self
+				:mod (c11 / low-04
+					:time (c10 / always
+))))		:ARG1 (c15 / -
+)		:ARG0 (c14 / i
+)		:time (c9 / doubt-01
+			:degree (c7 / ever
+)			:degree (c8 / more
+)))
+
+# ::id DF-200-192400-625_7046.5
+(c1 / diagnose-01
+		:ARG1 (c2 / depression
+)		:ARG0 (c3 / and
+			:op2 (c5 / suggest-01
+				:ARG0 (c4 / both
+)				:ARG1 (c7 / suffer-01
+					:ARG0 (c6 / i
+)					:ARG0 (c8 / it
+))))	:ARG0 c5
+		:ARG0 (c9 / contrast-01
+	:ARG2 c3
+	:ARG1 c5
+)		:ARG1 (c12 / worry-02
+			:domain (c10 / it
+)			:mod (c11 / huge
+)			:ARG1-of (c14 / cause-01
+				:ARG0 (c13 / depression
+)				:ARG1 (c17 / die-01
+					:ARG1 (c16 / dad
+)					:prep-on (c18 / suicide
+))))		:ARG1 (c15 / have-rel-role-91
+	:ARG2 c16
+)		:ARG2 (c0 / counsellers
+))
+
+# ::id DF-200-192400-625_7046.6
+(c1 / try-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / solve-01
+	:ARG0 c0
+			:ARG1 (c3 / problem
+)			:time (c4 / before
+)			:ARG1 (c5 / and
+				:op2 (c6 / find-01
+	:ARG0 c0
+					:ARG1 (c7 / exercise-02
+						:op7 (c8 / and
+	:op2 c6
+	:op1 c7
+)						:mod (c9 / meditation
+)						:mod (c11 / useful-05
+							:mod (c10 / particular
+)))	:ARG1 c9
+)				:op2 (c12 / and
+	:op2 c5
+	:op2 c6
+))	:ARG1 c6
+	:ARG1 c12
+			:ARG1 (c14 / try-01
+	:ARG0 c0
+				:mod (c13 / also
+)				:ARG1 (c15 / thing
+)))	:ARG1 c6
+	:ARG1 c14
+		:mod (c21 / contrast-01
+			:ARG2 (c36 / beat-01
+				:ARG0 (c35 / feel-01
+)))		:ARG1 (c24 / this
+			:ARG0 (c23 / feel-01
+				:ARG1-of (c22 / general-02
+))			:mod (c26 / chance-01
+				:ARG0 (c27 / existance
+))			:mod (c28 / chance-02
+				:ARG1 (c30 / man
+					:mod (c29 / young
+)))			:ARG1 (c32 / waste-01
+				:ARG0 (c31 / i
+)				:ARG1 (c33 / it
+)				:ARG1 (c34 / and
+	:op2 c36
+))	:prep-without c34
+	:op3 c36
+)	:ARG0 c36
+		:ARG0 (c16 / thing
+			:ARG1-of (c17 / help-01
+				:ARG1 (c18 / book
+					:degree (c19 / and
+	:op1 c18
+						:op2 (c20 / tape
+))	:ARG1 c20
+)	:ARG1 c20
+))		:ARG1 (c25 / life
+))
+
+# ::id DF-200-192400-625_7046.7
+(c2 / know-01
+		:ARG0 (c0 / i
+)		:time (c1 / simple
+)		:ARG1 (c5 / think-01
+			:ARG0 (c4 / i
+)			:ARG1 (c6 / thing
+)			:ARG1 (c7 / do-02
+	:ARG0 c4
+				:ARG1 (c9 / follow-02
+					:ARG0 (c8 / i
+)					:ARG2 (c10 / it
+))				:ARG1 (c14 / say-01
+					:ARG0 (c12 / friend
+)					:mod (c13 / often
+						:degree (c17 / and
+	:op2 c7
+	:op2 c14
+							:op2 (c19 / disagree-01
+								:ARG0 (c18 / i
+)								:ARG1 (c20 / lot
+									:ARG1 (c21 / time
+)))))					:ARG1 (c16 / lazy
+						:ARG0 (c15 / i
+))	:ARG1 c17
+	:ARG1 c19
+)	:ARG1 c19
+))		:op1 (c23 / feel-01
+			:ARG0 (c22 / i
+)			:ARG1 (c27 / do-02
+	:ARG0 c22
+				:ARG0 (c25 / anyone
+					:mod (c24 / everything
+))				:ARG1-of (c26 / possible-01
+	:ARG1 c27
+					:ARG1 (c28 / help-01
+	:ARG0 c25
+))	:ARG1 c28
+)			:ARG1 (c29 / try-01
+))		:ARG1 (c30 / and
+	:op1 c5
+	:op1 c23
+			:op2 (c36 / fail-01
+				:frequency (c31 / time
+					:op5 (c32 / and
+						:mod (c34 / again
+)	:op2 c36
+)					:time-of (c33 / time
+)	:mod c34
+)	:ARG2 c33
+				:ARG0 (c35 / i
+)))	:op1 c36
+		:ARG0 (c11 / have-rel-role-91
+	:ARG2 c12
+)		:ARG1 (c3 / and
+	:op1 c5
+))
+
+# ::id DF-200-192400-625_7046.1
+(c1 / know-01
+		:ARG0 (c0 / i
+)		:condition (c3 / read-01
+			:ARG0 (c2 / anyone
+)			:ARG1 (c4 / this
+))		:ARG1 (c5 / contrast-01
+)		:ARG1 (c8 / feel-01
+			:ARG0 (c6 / i
+)			:mod (c7 / just
+)			:ARG1 (c9 / desperate
+)			:ARG0 (c10 / and
+	:op2 c8
+				:op2 (c11 / feel-01
+	:ARG0 c6
+					:ARG1 (c12 / need-01
+)					:manner (c13 / tell-01
+						:ARG1 (c14 / someone
+))))	:frequency c11
+)	:ARG1 c11
+)
+
+# ::id DF-200-192400-625_7046.2
+(c28 / feel-01
+		:ARG1 (c3 / leave-11
+			:ARG0 (c2 / i
+				:source (c0 / this
+)				:mod (c1 / 9
+))			:ARG1 (c4 / home
+)			:ARG0 (c5 / and
+	:op2 c3
+				:op2 (c6 / start-01
+	:ARG0 c2
+					:prep-with (c7 / university
+						:ARG1-of (c10 / anxious
+							:ARG1 (c8 / i
+)							:mod (c9 / incredible
+)							:condition (c11 / do-02
+	:ARG0 c8
+								:ARG1 (c12 / this
+									:ARG2 (c15 / think-01
+										:ARG0 (c14 / delay-01
+)										:ARG0 (c16 / it
+)))	:ARG1 c15
+))))				:op2 (c23 / and
+	:op2 c3
+	:op2 c5
+	:op2 c6
+))	:op2 c6
+	:ARG0 c23
+			:time (c26 / week
+				:quant (c24 / 2
+)))	:ARG1 c6
+	:ARG1 c26
+		:ARG0 (c27 / i
+)		:ARG1 (c30 / overwhelm-01
+			:time (c29 / terrible
+)			:ARG1 (c31 / it
+				:quant (c32 / all
+))			:ARG1 (c33 / and
+)			:ARG1 (c34 / feel-01
+				:ARG1 (c35 / unintelligent
+					:op4 (c36 / and
+)					:manner (c38 / awkward
+						:mod (c37 / social
+)))	:ARG1 c38
+))	:ARG1 c34
+		:ARG1 (c25 / temporal-quantity
+	:unit c26
+)		:location (c19 / here
+)		:ARG0 (c18 / i
+)		:ARG2-of (c13 / contrast-01
+)		:time (c17 / until
+)		:ARG0 (c22 / here
+)		:ARG1 (c20 / now
+)		:ARG2 (c21 / i
+))
+
+# ::id DF-200-192400-625_7046.3
+(c23 / have-03
+		:ARG1 (c1 / struggle-02
+			:ARG0 (c0 / i
+)			:time (c2 / emotion
+				:ARG1 (c3 / majority
+					:ARG1 (c4 / life
+)))			:compared-to (c6 / move-01
+				:ARG1-of (c5 / since
+)				:ARG1-of (c8 / school
+					:mod (c7 / organization
+						:name (n0 / name :op1 "Secondary" 
+)))				:ARG1 (c10 / lose-02
+					:ARG0 (c9 / i
+)					:ARG1 (c12 / dad
+)					:ARG1 (c14 / age
+						:mod (c13 / around
+)						:quant (c15 / 9
+)))				:ARG1 (c16 / and
+	:op2 c6
+					:op1 (c18 / use-01
+	:ARG0 c0
+	:ARG0 c16
+						:time (c17 / always
+)						:ARG1 (c19 / blame-01
+	:ARG0 c0
+							:ARG1 (c20 / that
+								:ARG1 (c21 / feel-01
+))))))	:ARG0 c16
+	:ARG1-of c18
+)	:ARG1-of c18
+		:ARG0 (c22 / i
+)		:ARG0 (c11 / have-rel-role-91
+	:ARG2 c12
+)		:ARG1 (c25 / counsel-01
+			:ARG1 (c26 / life
+				:time (c29 / month
+					:time (c27 / roughly
+)					:quant (c28 / 15
+)					:mod (c30 / date-entity :year 2009 :month 12 
+)					:mod (c33 / 3
+						:time (c31 / until
+)						:mod (c32 / around
+))))			:time (c35 / year
+				:mod (c34 / this
+)))		:ARG1 (c24 / 2
+))
+
+# ::id DF-200-192400-625_7200.15
+(c1 / dyspraxic
+		:ARG1 (c0 / you
+)		:prep-as (c2 / or
+)		:domain (c3 / have-03
+	:ARG0 c0
+			:ARG1 (c5 / tendon
+				:mod (c4 / short
+))))
+
+# ::id DF-200-192400-625_7806.12
+(c0 / or
+		:op2 (c10 / laugh-01
+)		:ARG0 (c12 / work-09
+			:ARG1 (c11 / it
+)			:ARG1 (c13 / and
+)			:ARG1 (c15 / suffer-01
+	:ARG0 c13
+				:ARG0 (c14 / i
+)				:ARG1 (c19 / lol
+					:mod (c16 / random
+)					:op1 (c17 / panic-01
+)					:op1 (c18 / attack-01
+))))		:source-of (c9 / you
+)		:ARG1 (c7 / have-rel-role-91
+			:ARG2 (c8 / friend
+))		:op1 (c6 / one
+	:poss c8
+)		:ARG2 (c3 / start-01
+			:ARG0 (c2 / you
+)			:ARG1 (c4 / feel-01
+	:ARG0 c2
+				:ARG1 (c5 / panicky
+)))		:ARG3 (c1 / that
+))
+
+# ::id DF-200-192400-625_7806.13
+(c1 / start-01
+		:ARG0 (c0 / this
+)		:ARG1 (c4 / start-01
+			:ARG0 (c2 / i
+)			:mod (c3 / just
+)			:ARG1 (c6 / anxious
+				:mod (c5 / really
+)				:ARG1 (c8 / thing
+					:ARG1-of (c7 / tiny
+)					:ARG1-of (c9 / sound
+						:ARG1 (c10 / thing
+)))				:ARG1 (c12 / you
+					:mod (c11 / severe
+)))))
+
+# ::id DF-200-192400-625_7806.10
+(c8 / cause-01
+		:ARG0 (c9 / tense-03
+))
+
+# ::id DF-200-192400-625_7806.11
+(c2 / focus-01
+		:time (c1 / try-01
+			:ARG0 (c0 / i
+))		:ARG1 (c3 / something
+)		:ARG2 (c4 / garunteed-01
+			:ARG1 (c5 / make-01
+				:ARG1 (c7 / smile-01
+					:ARG0 (c6 / you
+))				:ARG1 (c8 / or
+	:op2 c7
+)				:ARG1 (c9 / feel-01
+					:ARG1 (c10 / happier
+)					:time (c11 / soon
+)					:condition (c13 / start-01
+						:ARG0 (c12 / you
+)						:ARG1 (c14 / feel-01
+	:ARG0 c12
+							:ARG1 (c16 / panicky
+								:mod (c15 / bit
+))							:ARG1 (c17 / anything
+)))))	:ARG1 c9
+))
+
+# ::id DF-200-192400-625_7806.16
+(c4 / go-02
+		:ARG1 (c3 / yes
+			:time (c2 / then
+))		:ARG4 (c5 / doctor
+)		:ARG0 (c1 / bad-07
+)		:ARG1 (c0 / it
+))
+
+# ::id DF-200-192400-625_7806.17
+(c1 / have-03
+		:ARG0 (c0 / i
+)		:ARG1 (c3 / friend
+			:ARG1-of (c4 / suffer-01
+	:ARG0 c3
+				:ARG2 (c6 / anxiety
+					:mod (c5 / severe
+)					:ARG3-of (c8 / prevent-01
+	:ARG1 c6
+						:ARG1-of (c7 / possible-01
+	:ARG1 c8
+)						:manner (c9 / leave-11
+							:ARG1 (c10 / house
+)							:ARG0 (c11 / and
+)							:op2 (c12 / do-02
+								:ARG1 (c13 / thing
+)))	:manner c12
+))))		:ARG1 (c17 / worry-01
+			:time (c14 / cause-01
+)			:ARG0 (c15 / she
+)			:degree (c16 / so
+)			:ARG1 (c19 / go-02
+				:ARG1-of (c18 / possible-01
+	:ARG1 c19
+)				:ARG4 (c20 / wrong
+)))		:ARG0 (c2 / have-rel-role-91
+	:ARG2 c3
+))
+
+# ::id DF-200-192400-625_7806.14
+(c4 / talk-01
+		:condition (c1 / find-02
+			:ARG0 (c0 / i
+)			:ARG1 (c2 / help-01
+))		:mod (c3 / just
+)		:ARG1-of (c5 / make-02
+			:ARG1 (c7 / anxious
+				:ARG1 (c6 / you
+)				:ARG2 (c8 / someone
+					:mod (c9 / else
+)))))
+
+# ::id DF-200-192400-625_7806.15
+(c18 / recommend-01
+		:ARG1 (c13 / react-01
+			:ARG1 (c14 / situation
+)			:ARG2 (c20 / react-01
+				:ARG0 (c17 / i
+)))		:ARG1 (c19 / thing
+	:ARG1-of c20
+)		:ARG2 (c9 / have-rel-role-91
+			:ARG2 (c10 / mum
+))		:ARG0 (c16 / way
+)		:ARG0 (c15 / calm-03
+)		:ARG1 (c21 / feel-01
+			:time (c22 / good
+)			:ARG1 (c23 / it
+)			:condition (c26 / know-01
+				:mod (c24 / cause-01
+)				:ARG0 (c25 / i
+)				:ARG1 (c29 / deal-01
+					:ARG2 (c27 / it
+)					:mod (c28 / big
+)))))
+
+# ::id DF-200-192400-625_7806.18
+(c1 / give-01
+		:ARG0 (c0 / doctor
+)		:ARG1 (c2 / medication
+)		:ARG0 (c3 / and
+	:op2 c0
+)		:ARG0 (c6 / good
+			:degree (c5 / much
+))		:ARG1 (c4 / it
+))
+
+# ::id DF-200-192400-625_7744.10
+(c4 / and
+		:op2 (c2 / know-01
+			:ARG1 (c3 / do-02
+))		:degree (c1 / really
+)		:op1 (c0 / i
+))
+
+# ::id DF-200-192400-625_6344.7
+(c3 / cause-01
+		:ARG0 (c2 / home
+)		:ARG0 (c1 / work-01
+)		:ARG1 (c0 / i
+)		:ARG2 (c5 / shout-01
+			:ARG0 (c4 / she
+)))
+
+# ::id DF-200-192400-625_6304.10
+(c1 / halfheartedly
+		:mod (c0 / only
+))
+
+# ::id DF-200-192400-625_6304.11
+(c5 / have-03
+		:ARG0 (c4 / i
+)		:ARG1 (c7 / deadline
+			:ARG1-of (c6 / major-02
+)			:ARG1-of (c8 / hit-01
+				:ARG2 (c10 / depress-01
+					:ARG1 (c9 / i
+))				:ARG1 (c12 / result-01
+					:ARG1 (c11 / anxiety
+)					:time (c13 / feel-01
+						:ARG1 (c14 / miserable
+)						:ARG1 (c16 / time
+							:quant (c15 / all
+))))))		:time (c0 / now
+			:ARG1 (c1 / work-01
+))		:ARG1 (c3 / neck
+)		:ARG0 (c2 / load
+))
+
+# ::id DF-200-192400-625_6304.12
+(c1 / have-03
+		:ARG1 (c2 / counselor
+)		:ARG0 (c11 / and
+)		:ARG1 (c13 / doubt-01
+			:ARG0 (c12 / i
+)			:ARG1 (c15 / help-01
+				:ARG0 (c14 / it
+)				:ARG1 (c18 / time
+					:mod (c16 / much
+)					:mod (c17 / this
+))				:time (c20 / already
+					:ARG2 (c19 / it
+))))		:ARG1 (c9 / session
+			:quant (c8 / many
+				:degree (c7 / so
+))			:ARG1 (c10 / time
+))		:ARG1-of (c3 / cause-01
+)		:polarity (c0 / -
+)		:mod (c6 / only
+)		:purpose (c5 / possible-01
+)		:ARG0 (c4 / you
+))
+
+# ::id DF-200-192400-625_6304.13
+(c1 / lack-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / motivate-01
+)		:ARG1 (c3 / feel-01
+	:ARG0 c0
+			:time (c4 / comfortable-02
+)			:ARG2 (c5 / any
+				:mod (c6 / lecturer
+)))		:ARG1 (c7 / feel-01
+	:ARG0 c0
+			:condition (c9 / want-01
+				:ARG0 (c8 / i
+)))		:ARG1 (c10 / bring-01
+	:ARG0 c0
+			:ARG1 (c11 / it
+))		:medium (c16 / and
+	:op2 c7
+			:op2 (c18 / aspire-01
+				:ARG0 (c17 / i
+)				:ARG1 (c19 / someone
+	:ARG0 c17
+)))	:ARG1 c18
+		:ARG0 (c13 / i
+)		:ARG1 (c15 / job
+			:mod (c14 / end-01
+))		:ARG0 (c12 / cause-01
+))
+
+# ::id DF-200-192400-625_6304.14
+(c1 / die-01
+		:ARG1 (c0 / i
+)		:ARG1 (c2 / educate-01
+	:ARG1 c0
+)		:instrument (c3 / and
+	:op1 c2
+			:op2 (c4 / live-01
+	:ARG0 c0
+				:ARG1 (c5 / life
+					:ARG1-of (c7 / want-01
+						:ARG0 (c6 / i
+)						:ARG1 (c8 / live-01
+	:ARG0 c6
+))))			:op2 (c9 / and
+	:op2 c2
+	:op2 c3
+	:op2 c4
+				:op2 (c11 / make-01
+					:ARG0 (c10 / drop-out-04
+)					:ARG1 (c12 / matter
+))))	:op2 c4
+	:manner c9
+	:ARG2 c11
+		:ARG1 (c13 / bad-07
+))
+
+# ::id DF-200-192400-625_6304.15
+(c1 / 21yrs
+		:ARG0 (c0 / i
+)		:ARG1 (c3 / turn-02
+			:mod (c2 / old
+))		:ARG0-of (c10 / leave-11
+			:op3 (c7 / have-03
+)			:degree (c8 / much
+				:domain (c9 / time
+))			:time (c11 / fail-01
+				:ARG1 (c12 / need-01
+)))		:ARG1 (c13 / something
+)		:ARG0 (c5 / temporal-quantity
+			:unit (c6 / year
+				:mod (c4 / this
+))))
+
+# ::id DF-200-192400-625_6304.16
+(c1 / fail-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / college
+)		:ARG0 (c11 / and
+			:op2 (c13 / fail-01
+	:ARG0 c0
+				:mod (c12 / consistent
+)))	:op1 c13
+		:ARG1 (c10 / and
+)		:ARG0 (c7 / want-01
+			:ARG1 (c8 / go-02
+				:ARG4 (c9 / system
+)))		:ARG1 (c3 / another
+))
+
+# ::id DF-200-192400-625_6304.17
+(c0 / possible-01
+		:ARG1 (c2 / give-01
+			:ARG1 (c4 / advise-01
+				:quant (c3 / some
+)))		:ARG0 (c1 / someone
+))
+
+# ::id DF-200-192400-625_6304.18
+(c9 / possible-01
+		:ARG1 (c10 / get-01
+			:ARG0 (c8 / you
+)			:ARG1 (c11 / deadline
+				:ARG1-of (c12 / extend-01
+					:ARG2 (c13 / try-01
+						:ARG0 (c14 / and
+	:op1 c13
+							:op2 (c15 / ease-02
+))	:time c15
+						:ARG1 (c16 / pressure-01
+							:mod (c17 / bit
+)))	:ARG1 c15
+)))		:ARG1 (c7 / way
+			:mod (c6 / any
+)	:ARG1-of c10
+))
+
+# ::id DF-200-192400-625_6304.19
+(c0 / send-01
+		:ARG1 (c2 / tutor-01
+			:ARG2 (c6 / worry-02
+				:ARG0 (c3 / email
+)				:ARG1 (c8 / see-01
+					:ARG0 (c7 / they
+)					:ARG1 (c9 / it
+)					:ARG1 (c10 / all
+						:time (c11 / before
+))	:time c11
+))			:op4 (c20 / know-01
+				:ARG0 (c19 / i
+)				:ARG1-of (c22 / use-01
+					:ARG0 (c21 / i
+)					:ARG1 (c23 / work-01
+	:ARG0 c21
+))				:ARG1 (c26 / and
+					:op2 (c28 / consider-02
+						:ARG0 (c27 / they
+)						:ARG1 (c29 / mitigate-01
+							:ARG1 (c30 / circumstance
+))))	:ARG1 c28
+)	:op2 c28
+)		:ARG1 (c1 / person
+	:ARG0-of c2
+)		:ARG2 (c17 / admission
+			:quant (c12 / some
+)			:mod (c18 / too
+))		:ARG0 (c15 / comfortable-02
+			:polarity (c16 / -
+				:degree (c13 / much
+)				:degree (c14 / more
+)))		:purpose (c5 / post
+)		:mod (c4 / this
+)		:time (c24 /organization
+			:name (n0 / name :op1 "Dept" 
+))		:condition (c25 / admin
+))
+
+# ::id DF-200-192400-625_7046.16
+(c16 / wil-01
+		:mod (c1 / way
+			:mod (c0 / either
+))		:ARG1 (c2 / sum
+			:op5 (c3 / and
+)			:ARG1 (c4 / work-01
+				:ARG1 (c5 / bottom
+)				:frequency (c6 / get-01
+					:ARG1 (c9 / grade
+						:mod (c8 / most
+)						:ARG1-of (c11 / possible-01
+	:ARG1 c6
+							:ARG0 (c10 / you
+))))))	:ARG1 c4
+		:ARG0 (c15 / you
+)		:ARG1 (c17 / have-03
+			:ARG1 (c18 / something
+				:ARG1-of (c21 / say-01
+					:ARG0 (c19 / you
+)					:ARG1 (c20 / possible-01
+	:ARG1 c21
+)					:ARG1 (c24 / fail-01
+						:ARG1 (c27 / work-01
+							:prep-from (c25 / it
+)							:ARG1-of (c26 / hard-02
+)							:op8 (c28 / and
+	:op2 c24
+	:op2 c26
+								:op2 (c30 / pass-01
+	:ARG1 c28
+									:ARG0 (c29 / i
+)))	:ARG1-of c30
+)	:ARG1 c30
+))))		:mod (c7 / good
+	:degree c8
+)		:ARG1 (c13 / get-01
+			:ARG0 (c12 / you
+)			:ARG1 (c14 / degree
+))		:ARG0 (c22 / they
+)		:poss (c23 / i
+))
+
+# ::id DF-200-192400-625_7046.17
+(m / multi-sentence
+)
+
+# ::id DF-200-192400-625_7046.14
+(c8 / contrast-01
+		:ARG2 (c12 / respect-01
+			:ARG0 (c13 / someone
+				:ARG0-of (c14 / come-01
+	:ARG1 c13
+					:ARG1 (c16 / background
+						:ARG1-of (c15 / bad-07
+))					:ARG1 (c17 / and
+	:op1 c14
+)))			:ARG1-of (c18 / succeed-01
+				:op5 (c19 / and
+)))		:ARG0 (c2 / focus-01
+			:ARG1 (c4 / someone
+				:mod (c3 / idol
+))			:time (c6 / aspire-01
+				:ARG0 (c5 / you
+)				:ARG1 (c7 / want-01
+	:ARG0 c5
+					:ARG1 (c9 / someone
+						:ARG2 (c10 / admire-01
+	:ARG1 c9
+))					:ARG1 (c11 / and
+	:op2 c6
+))))		:ARG1 (c1 / you
+)		:ARG0 (c0 / i
+)		:ARG2 (c22 / marry-01
+)		:ARG3 (c20 / family
+			:op5 (c21 / and
+)))
+
+# ::id DF-200-192400-625_7046.15
+(c27 / want-01
+		:ARG1 (c23 / need-01
+			:ARG1 (c0 / focus
+				:condition (c2 / want-01
+					:ARG0 (c1 / you
+)					:ARG1 (c3 / achieve-01
+						:manner (c4 / life
+)						:ARG1 (c7 / state-01
+							:ARG0 (c5 / you
+)							:ARG1 (c6 / havent-01
+)							:ARG2 (c8 / study-01
+								:ARG1 (c9 / or
+)								:ARG1 (c11 / it
+									:domain (c10 / indeed
+)									:ARG1-of (c14 / want-01
+										:ARG1 (c12 / cause-01
+	:ARG1 c14
+)										:ARG0 (c13 / you
+)										:ARG1 (c15 / experience-01
+))									:ARG1-of (c19 / want-01
+										:domain (c16 / cause-01
+)										:ARG0 (c18 / mum
+)										:ARG1 (c20 / yo
+)										:ARG1 (c21 / go-02
+))))	:ARG1 c11
+))))			:ARG1 (c24 / degree
+				:ARG1 (c25 / career
+)))		:ARG0 (c26 / you
+)		:ARG1 (c17 / have-rel-role-91
+	:ARG2 c18
+)		:ARG1-of (c22 / cause-01
+))
+
+# ::id DF-200-192400-625_7046.12
+(c1 / luck
+		:mod (c0 / good
+))
+
+# ::id DF-199-194215-653_0484.32
+(c0 / tell-01
+		:ARG1 (c1 / ex
+			:ARG1 (c5 / need-01
+				:ARG0 (c2 / that
+)				:ARG0 (c4 / communicate-01
+					:mod (c3 / all
+))))		:ARG1 (c6 / lawyer
+))
+
+# ::id DF-199-194215-653_0484.31
+(c2 / try-01
+		:degree (c1 / afford-01
+			:ARG0 (c0 / you
+))		:ARG1 (c4 / aid-01
+			:ARG1-of (c3 / legal-02
+)))
+
+# ::id DF-199-194215-653_0484.30
+(c0 / get-05
+		:ARG1 (c2 / lawyer
+)		:ARG2 (c3 / and
+)		:ARG2 (c1 / have-rel-role-91
+	:ARG2 c2
+)		:ARG1 (c4 / divorce-01
+))
+
+# ::id DF-199-194215-653_0484.22
+(c1 / agree-01
+		:ARG0 (c0 / i
+)		:ARG1 (c3 / thing
+			:mod (c2 / other
+))		:ARG0 (c5 / business
+)		:ARG1 (c4 / it
+))
+
+# ::id DF-200-192400-625_7046.18
+(c0 / hope-01
+		:ARG1 (c2 / help-01
+			:ARG1 (c1 / this
+)))
+
+# ::id DF-199-194215-653_0484.28
+(c0 / make-02
+		:ARG1 (c1 / email
+			:ARG1 (c2 / or
+)			:ARG1 (c3 / text
+)			:ARG1 (c4 / you
+))	:ARG1 c3
+)
+
+# ::id DF-199-194215-653_0484.29
+(c0 / keep-04
+		:ARG1 (c1 / record
+))
+
+# ::id DF-199-194215-653_0484.23
+(c1 / tell-01
+		:ARG0 (c0 / i
+))
+
+# ::id DF-200-192400-625_7744.19
+(c4 / possible-01
+		:ARG1 (c0 / get-01
+			:ARG1 (c1 / rid-01
+)			:ARG1 (c2 / it
+))		:ARG1 (c6 / avoid-01
+			:ARG0 (c3 / way
+)			:ARG1 (c8 / act-02
+				:ARG1-of (c7 / compulsive
+)))		:ARG1 (c9 / check-01
+			:ARG1 (c10 / see-01
+				:ARG1 (c12 / lose-02
+					:ARG0 (c11 / you
+)					:ARG1 (c13 / something
+)					:ARG1 (c15 / leave-11
+						:mod (c14 / just
+)))))		:mod (c5 / just
+))
+
+# ::id DF-200-192400-625_7744.18
+(c2 / today
+		:ARG0 (c1 / country
+			:name (n0 / name :op1 "OCD" 
+))		:ARG1 (c0 / i
+))
+
+# ::id DF-199-194215-653_0484.20
+(c1 / want-01
+		:ARG0 (c0 / you
+))
+
+# ::id DF-200-192400-625_7744.14
+(c3 / give-01
+		:ARG0 (c0 / advise-01
+)		:ARG1-of (c1 / possible-01
+)		:ARG0 (c2 / you
+))
+
+# ::id DF-200-192400-625_7744.17
+(c1 / see-01
+		:ARG0 (c0 / doctor
+)		:ARG1 (c4 / case-03
+			:ARG1-of (c3 / bad-07
+				:quant (c2 / much
+)))		:ARG2-of (c5 / worry-01
+			:ARG1 (c6 / that
+)))
+
+# ::id DF-200-192400-625_7744.16
+(c31 / say-01
+		:ARG1 (c32 / do-02
+			:ARG1 (c34 / know-01
+				:ARG0 (c33 / i
+)))		:ARG1 (c2 / have-03
+			:ARG0 (c0 / i
+)			:mod (c1 / now
+)			:ARG1 (c5 / anxiety
+				:mod (c4 / severe
+					:degree (c3 / more
+)))			:ARG0 (c6 / and
+)			:ARG1 (c7 / think-01
+	:ARG0 c0
+				:ARG1 (c11 / sign-02
+					:domain (c8 / this
+)					:mod (c9 / just
+)					:ARG1 (c10 / warn-01
+)					:ARG1-of (c14 / try-01
+						:mod (c12 / so
+)						:mod (c13 / just
+)						:ARG1 (c15 / and
+	:mod c13
+							:op2 (c16 / wean-01
+))	:frequency c16
+)	:ARG1-of c16
+					:mod (c17 / habit
+)))			:ARG1 (c20 / fresh-04
+				:ARG1 (c18 / it
+)				:degree (c19 / relative
+)				:domain (c22 / visit-01
+					:manner (c21 / definite
+)					:ARG1 (c23 / doctor
+)					:ARG2-of (c24 / contrast-01
+	:ARG2 c20
+						:ARG2 (c26 / tell-01
+							:mod (c25 / also
+)							:ARG2 (c27 / keep-02
+								:ARG1 (c28 / check-01
+									:ARG1 (c30 / easy-05
+										:ARG1 (c29 / thing
+))))))	:op1 c26
+)	:ARG1 c26
+)))
+
+# ::id DF-200-192400-625_7744.11
+(c2 / hear-01
+		:ARG0 (c0 / they
+)		:time (c1 / probable
+)		:ARG0 (c4 / compulsion
+			:quant (c3 / some
+)			:ARG2 (c5 / this
+				:prep-without (c6 / and
+)				:ARG0 (c7 / i
+))	:ARG0 c7
+)		:ARG1 (c9 / know-01
+			:mod (c8 / just
+)))
+
+# ::id DF-199-194215-653_0484.25
+(c0 / possible-01
+		:ARG1 (c2 / document
+			:ARG0 (c1 / you
+)			:ARG1 (c3 / threaten-01
+)))
+
+# ::id DF-199-194215-653_0484.26
+(c2 / need-01
+		:ARG0 (c0 / you
+)		:mod (c1 / really
+))
+
+# ::id DF-200-192400-625_7744.12
+(c1 / you
+		:mod (c0 / any
+))
+
+# ::id DF-200-192400-625_6344.35
+(c1 / grow-02
+		:mod (c0 / oh
+)		:ARG2 (c2 / tsr
+			:op7 (c3 / and
+				:op2 (c4 / stop-01
+))	:domain c4
+)		:ARG1 (c5 / joke-01
+))
+
+# ::id DF-200-192400-625_7744.13
+(c0 / think-01
+		:ARG1 (c1 / crazy-03
+)		:ARG1 (c2 / contrast-01
+)		:time (c6 / difficult
+			:domain (c3 / it
+)			:degree (c4 / very
+)			:degree (c5 / strangely
+))		:ARG1 (c7 / this
+))
+
+# ::id DF-200-192400-625_7200.16
+(c5 / drill-01
+		:ARG1 (c4 / it
+)		:ARG1 (c6 / point
+			:ARG1-of (c8 / find-01
+				:ARG0 (c7 / i
+)				:ARG1 (c11 / comfortable-02
+					:ARG1 (c9 / it
+)					:degree (c10 / more
+)					:time (c12 / now
+))))		:ARG3 (c0 / dance-01
+			:ARG2 (c1 / gymnastics
+)			:ARG1 (c2 / ballet
+)			:ARG2-of (c3 / have-org-role-91
+)))
+
+# ::id DF-200-192400-625_7200.17
+(c1 / read-01
+		:ARG0 (c0 / i
+)		:ARG1 (c4 / symptom
+			:mod (c3 / random
+)			:domain (c5 / that
+))		:ARG0 (c2 / too
+))
+
+# ::id DF-200-192400-625_7200.14
+(c1 / have-03
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / dyspraxia
+))
+
+# ::id DF-199-194215-653_0484.27
+(c0 / quit-01
+		:ARG1 (c1 / take-01
+			:ARG1 (c2 / call-02
+))		:ARG1 (c3 / leave-11
+)		:ARG0 (c4 / voice
+))
+
+# ::id DF-200-192400-625_7200.12
+(c0 / contrast-01
+		:ARG2 (c5 / diagnosis
+			:mod (c4 / proper
+))		:ARG2 (c6 / and
+)		:ARG2 (c10 / mean-01
+			:ARG1 (c9 / symptom
+				:quant (c8 / some
+))			:ARG1 (c12 / have-03
+				:ARG0 (c11 / you
+)				:ARG1 (c14 / condition
+					:mod (c13 / certain
+))))		:ARG1 (c3 / have-03
+			:time (c1 / then
+)			:ARG0 (c2 / i
+)	:ARG1 c5
+	:ARG1 c6
+)		:ARG0 (c7 / even
+))
+
+# ::id DF-200-192400-625_7200.13
+(c1 / walk-01
+		:ARG0 (c0 / i
+)		:manner (c2 / toe-01
+)		:ARG0 (c3 / much
+			:domain (c6 / year
+				:time (c4 / since
+)				:ARG1-of (c7 / tell-01
+)))		:ARG0 (c5 / temporal-quantity
+	:unit c6
+))
+
+# ::id DF-200-192400-625_7200.10
+(c1 / use-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / walk-01
+	:ARG0 c0
+			:ARG0 (c3 / toe-01
+))		:ARG2 (c4 / contrast-01
+)		:ARG1 (c8 / bear-02
+			:ARG1-of (c6 / cause-01
+)			:ARG1 (c7 / i
+)			:ARG1 (c10 / toe-01
+				:mod (c9 / strange
+)				:ARG1 (c11 / curl-01
+	:ARG0-of c10
+					:ARG1 (c12 / and
+))))		:ARG2 (c13 / straighten-01
+	:ARG0-of c10
+			:ARG2 (c14 / surgery-01
+))		:ARG0 (c16 / temporal-quantity
+			:unit (c17 / year
+				:quant (c15 / 2
+)))		:ARG0 (c5 / that
+))
+
+# ::id DF-200-192400-625_6344.33
+(c2 / spat-01
+		:ARG1 (c3 / hell
+)		:mod (c4 / too
+)		:ARG0-of (c0 / have-rel-role-91
+			:ARG2 (c1 / mum
+)))
+
+# ::id DF-200-192400-625_6344.25
+(c18 / cause-01
+		:ARG0 (c21 / way
+			:poss (c19 / it
+)			:mod (c20 / only
+))		:ARG1 (c17 / here
+)		:ARG2 (c16 / i
+)		:mod (c15 / only
+)		:ARG3 (c14 / honest
+)		:ARG0 (c8 / temporal-quantity
+			:unit (c9 / year
+				:ARG1-of (c6 / long-03
+)				:quant (c7 / 8
+)))		:ARG4 (c1 / deal-01
+			:ARG0 (c0 / i
+)			:ARG2 (c3 / abuse-01
+				:mod (c2 / verbal
+))			:ARG1 (c5 / dad
+))		:ARG1 (c4 / have-rel-role-91
+	:ARG2 c5
+))
+
+# ::id DF-200-192400-625_6344.24
+(c4 / outsider
+		:ARG1 (c1 / someone
+			:poss (c0 / it
+)			:prep-for (c2 / family
+))		:ARG1 (c3 / it
+))
+
+# ::id DF-200-192400-625_6344.27
+(c1 / sound-01
+		:mod (c0 / really
+)		:ARG1 (c4 / support-01
+			:ARG0 (c2 / you
+)			:concession (c3 / need-01
+)			:mod (c6 / else
+				:mod (c5 / somewhere
+)))		:ARG2 (c10 / consistent
+)		:ARG1 (c9 / you
+)		:ARG0 (c8 / it
+)		:mod (c7 / she
+))
+
+# ::id DF-200-192400-625_6344.26
+(c3 / want-01
+		:ARG0 (c1 / you
+)		:mod (c2 / really
+)		:ARG0 (c0 / hard-02
+))
+
+# ::id DF-200-192400-625_6344.21
+(c5 / or
+		:ARG0 (c2 / history
+			:consist-of (c4 / illness
+				:mod (c3 / mental
+)				:mod (c6 / diagnosis
+))	:poss c6
+)		:mod (c1 / even
+)		:op2 (c0 / she
+))
+
+# ::id DF-200-192400-625_6344.20
+(c1 / section-01
+		:mod (c2 / that
+)		:ARG0 (c0 / you
+))
+
+# ::id DF-200-192400-625_6344.23
+(c1 / throw-01
+		:ARG0 (c0 / life
+)		:ARG1 (c4 / time
+			:mod (c3 / all
+))		:ARG0 (c2 / you
+))
+
+# ::id DF-200-192400-625_6344.22
+(c1 / know-01
+		:ARG0 (c0 / you
+)		:location (c2 / sure-02
+)		:ARG1 (c4 / get-01
+			:ARG0 (c3 / you
+)			:ARG1 (c7 / accept-01
+				:ARG0 (c6 / grade
+					:mod (c5 / good
+))				:ARG1 (c8 / place
+)				:ARG1-of (c10 / possible-01
+	:ARG1 c4
+	:ARG1 c7
+					:ARG0 (c9 / you
+)))))
+
+# ::id DF-200-192400-625_7200.3
+(c7 / seem-01
+		:time (c5 / since
+)		:ARG0 (c6 / it
+)		:ARG1 (c9 / random
+			:degree (c8 / so
+))		:ARG1 (c10 / and
+	:op2 c5
+	:op1 c9
+)		:ARG1 (c12 / indicative
+	:ARG1 c6
+			:time (c11 / always
+))		:ARG0 (c0 / decide-01
+			:ARG1 (c1 / toe
+				:op2 (c3 / sign-02
+					:ARG1 (c2 / walk-01
+)					:ARG1 (c4 / autism
+)	:ARG1-of c12
+))))
+
+# ::id DF-200-192400-625_6344.29
+(c1 / possible-01
+		:ARG1 (c2 / go-02
+			:ARG0 (c0 / you
+)			:ARG4 (c3 / library
+)			:ARG4 (c5 / do-02
+	:ARG0 c0
+				:ARG1 (c9 / hour
+					:mod (c6 / good
+)					:quant (c7 / 8
+)					:ARG2 (c10 / study-01
+						:ARG1-of (c11 / there
+)))))	:ARG1 c5
+		:ARG1 (c8 / temporal-quantity
+	:unit c9
+)		:mod (c4 / saturday
+))
+
+# ::id DF-200-192400-625_6344.28
+(c2 / call-01
+		:ARG0 (c0 / you
+)		:ARG1-of (c1 / possible-01
+)		:ARG2 (c3 / childline
+			:manner (c4 / or
+)			:op2 (c5 / something
+)))
+
+# ::id DF-200-192400-625_6304.9
+(c1 / assign-01
+		:ARG1 (c0 / i
+)		:ARG1 (c2 / counselor
+)		:ARG1 (c3 / university
+)		:ARG1 (c15 / open-09
+			:ARG0 (c4 / see-01
+				:prep-with (c7 / session
+					:mod (c5 / 5-6weeks
+)					:mod (c6 / block-01
+)))			:time (c13 / cause-01
+)			:ARG0 (c14 / i
+))		:ARG1 (c9 / honest
+			:ARG0 (c8 / i
+)			:ARG1 (c12 / work-01
+				:ARG0 (c10 / it
+)				:mod (c11 / really
+))))
+
+# ::id DF-200-192400-625_6677.9
+(c2 / start-01
+		:ARG0 (c0 / you
+)		:time (c1 / possible-01
+)		:ARG2-of (c3 / sorry-01
+)		:ARG1 (c6 / busy
+			:domain (c4 / contrast-01
+	:ARG2 c6
+)			:ARG0 (c5 / i
+)))
+
+# ::id DF-200-192400-625_6677.8
+(c6 / comfortable-02
+		:ARG1 (c4 / you
+)		:mod (c5 / particular
+)		:ARG1 (c3 / something
+			:ARG2 (c2 / it
+))		:ARG0 (c1 / gradual
+)		:polarity (c0 / it
+))
+
+# ::id DF-200-192400-625_6677.5
+(c1 / cause-01
+		:ARG0 (c0 / it
+)		:ARG1 (c5 / life
+)		:ARG1 (c6 / and
+	:op1 c5
+)		:ARG1 (c8 / start-01
+	:ARG0 c0
+			:mod (c7 / really
+))		:ARG0 (c9 / concentrate-02
+))
+
+# ::id DF-200-192400-625_6677.4
+(c1 / say-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / hello
+)		:ARG1 (c3 / someone
+)		:ARG1 (c4 / and
+)		:ARG1 (c6 / ignore-01
+			:ARG0 (c5 / they
+))		:ARG1 (c7 / contrast-01
+	:ARG2 c4
+)		:ARG1 (c12 / decide-01
+			:ARG0 (c10 / minute
+				:quant (c8 / 30
+)				:time (c11 / late
+))			:ARG1 (c13 / want-01
+				:ARG1 (c14 / help-01
+)				:ARG1 (c16 / work-01
+					:quant (c15 / some
+))				:ARG0 (c17 / and
+					:op2 (c19 / give-01
+						:ARG0 (c18 / i
+)						:ARG1 (c20 / it
+)))	:ARG1 c19
+)	:ARG1 c17
+	:ARG1 c19
+)		:ARG1 (c9 / temporal-quantity
+	:unit c10
+))
+
+# ::id DF-200-192400-625_6677.7
+(c1 / say-01
+		:mod (c0 / just
+))
+
+# ::id DF-200-192400-625_6677.6
+(c6 / or
+		:op2 (c7 / go-02
+			:ARG4 (c8 / gain-02
+				:ARG1 (c10 / respect-01
+					:quant (c9 / some
+))				:mod (c11 / again
+)))		:ARG0 (c2 / handle-01
+			:ARG1 (c4 / sort
+				:mod (c3 / this
+)				:ARG1 (c5 / thing
+)	:ARG1-of c7
+))		:op1 (c1 / experience-01
+)		:op2 (c0 / anyone
+))
+
+# ::id DF-200-192400-625_6677.1
+(c1 / think-01
+		:ARG0 (c0 / i
+)		:ARG2 (c3 / year
+			:mod (c2 / last
+)			:mod (c4 / or
+)			:mod (c5 / 2
+))	:mod c5
+		:ARG1 (c7 / become-01
+			:ARG0 (c6 / i
+)			:ARG1 (c10 / person
+				:mod (c9 / weak-02
+					:quant (c8 / much
+)))			:ARG2 (c11 / and
+				:op2 (c13 / dull-01
+					:ARG0 (c12 / way
+)					:ARG1 (c15 / inorder
+						:ARG1 (c14 / personality
+))					:manner (c16 / try-01
+						:ARG0 (c17 / and
+	:op2 c13
+)						:ARG1 (c20 / friend
+							:quant (c18 / some
+)))))	:ARG1 c13
+)	:ARG1 c13
+		:ARG0 (c19 / have-rel-role-91
+	:ARG2 c20
+))
+
+# ::id DF-200-192400-625_6677.3
+(c1 / show-01
+		:ARG0 (c0 / they
+)		:ARG1 (c4 / respect-01
+			:mod (c2 / absolute
+)			:polarity (c3 / -
+)))
+
+# ::id DF-200-192400-625_6677.2
+(c0 / contrast-01
+		:ARG2 (c3 / lead-03
+			:ARG0 (c2 / nice-01
+				:degree (c1 / over
+))			:ARG1 (c4 / believe-01
+				:ARG1 (c6 / say-01
+					:ARG1 (c5 / possible-01
+						:ARG1 (c7 / or
+	:op2 c5
+))	:ARG1 c7
+)))		:ARG2 (c10 / want-01
+			:ARG0 (c9 / they
+))		:ARG0 (c8 / hell
+))
+
+# ::id DF-200-192400-625_7200.4
+(c6 / contrast-01
+		:mod (c0 / well
+			:ARG1 (c2 / have-03
+				:ARG0 (c1 / i
+)				:ARG1 (c3 / sign
+					:mod (c4 / something
+))				:ARG1 (c5 / spectrum
+)				:time (c7 / have-03
+					:ARG1 (c9 / 2
+)))	:ARG1 c7
+)		:ARG2 (c8 / or
+))
+
+# ::id DF-200-192400-625_7200.5
+(c2 / know-01
+		:ARG0 (c1 / guy
+			:ARG0 (c0 / you
+))		:ARG1 (c4 / mean-01
+			:ARG0 (c3 / i
+)))
+
+# ::id DF-200-192400-625_7200.6
+(c3 / symptom
+		:ARG1 (c0 / walk-01
+			:ARG0 (c1 / toe-01
+))		:ARG1-of (c2 / possible-01
+)		:mod (c4 / autism
+))
+
+# ::id DF-200-192400-625_7200.7
+(c3 / symptom
+		:domain (c0 / have-03
+			:ARG1 (c1 / headache
+))		:ARG1-of (c2 / possible-01
+)		:example (c5 / tumour
+			:ARG0 (c4 / brain
+)))
+
+# ::id DF-200-192400-625_6344.32
+(c1 / know-01
+		:ARG0 (c0 / i
+)		:ARG1 (c3 / feel-01
+			:ARG0 (c2 / you
+)))
+
+# ::id DF-200-192400-625_7200.1
+(c6 / contrast-01
+		:ARG2 (c8 / think-01
+			:ARG0 (c7 / i
+)			:ARG1 (c10 / misdiagnosed-01
+				:ARG0 (c9 / doctor
+)))		:ARG2 (c11 / contrast-01
+	:ARG2 c8
+)		:ARG2 (c13 / walk-01
+			:ARG0 (c12 / i
+)			:manner (c14 / toe-01
+)			:ARG1 (c16 / all
+				:mod (c15 / nearly
+)				:op1 (c17 / time
+)))		:ARG2 (c3 / autistic
+)		:ARG0 (c2 / much
+)		:ARG1 (c1 / pretty
+)		:ARG0 (c0 / i
+)		:ARG1 (c4 / diagnose-01
+			:ARG2 (c5 / dyspraxia
+)))
+
+# ::id DF-200-192400-625_7200.2
+(c2 / comfortable-02
+		:ARG1 (c0 / it
+)		:degree (c1 / more
+))
+
+# ::id DF-200-192400-625_6344.31
+(c1 / want-01
+		:ARG0 (c0 / you
+)		:ARG0 (c4 / bit
+			:domain (c3 / she
+)			:ARG1 (c5 / pain-01
+				:ARG2 (c6 / arse
+))			:op5 (c7 / and
+				:op2 (c9 / blame-01
+					:ARG0 (c8 / you
+)					:ARG1 (c11 / problem
+						:quant (c10 / all
+))))	:ARG1 c9
+)		:ARG1 (c2 / sectioned
+))
+
+# ::id DF-200-192400-625_7200.8
+(c4 / symptom
+		:ARG1 (c0 / feel-01
+			:ARG1 (c1 / tire-01
+))		:ARG0 (c2 / lot
+)		:ARG1-of (c3 / possible-01
+)		:mod (c5 / leukaemia
+))
+
+# ::id DF-200-192400-625_7200.9
+(c3 / contrast-01
+		:ARG2 (c5 / lot
+)		:ARG1 (c10 / this
+)		:ARG0 (c2 / apply-01
+			:ARG1 (c0 / symptom
+)			:time (c1 / always
+)			:ARG1 (c12 / worth
+				:ARG1 (c11 / it
+)				:ARG1 (c13 / note-01
+)				:domain (c17 / diagnose-01
+					:mod (c14 / otherwise
+)					:ARG1 (c15 / nothing
+)					:time (c16 / ever
+))))		:ARG2 (c9 / do-02
+			:ARG0 (c7 / it
+)			:mod (c8 / clear-06
+))		:ARG1 (c6 / case-03
+)		:ARG2 (c4 / they
+))
+
+# ::id DF-200-192400-625_7557.3
+(c10 / name
+		:op1 (c8 / ex
+)		:ARG1 (c9 / boyfriend
+)		:op1 (c3 / have-03
+			:ARG0 (c2 / i
+)			:ARG1 (c4 / scar-01
+				:ARG2 (c5 / leg
+					:quant (c7 / slit-01
+						:ARG0 (c6 / i
+))))			:ARG1 (c11 / stable
+				:ARG1 (c13 / stop-01
+					:ARG1 (c14 / cut-02
+						:ARG1 (c16 / bleed-01
+							:ARG0 (c15 / i
+))))))		:poss (c1 / bad-07
+)		:ARG0 (c12 / i
+)		:ARG1 (c0 / it
+))
+
+# ::id DF-200-192400-625_7557.2
+(c1 / start-01
+		:ARG0 (c0 / i
+)		:li (c3 / 7
+			:ARG0 (c2 / i
+)			:op1 (c5 / slit-01
+				:ARG0 (c4 / i
+)				:ARG1 (c8 / indevidually
+					:mod (c6 / each
+))				:ARG0 (c9 / sissors
+)				:manner (c10 / and
+					:op1 (c13 / stop-01
+						:ARG1 (c11 / day
+)						:ARG0 (c12 / i
+)))	:op1 c13
+)	:domain c13
+)		:ARG1 (c7 / firnger
+))
+
+# ::id DF-200-192400-625_7557.1
+(c6 / girl
+		:mod (c0 / hello
+)		:ARG0 (c1 / i
+)		:mod (c5 / old
+			:mod (c2 / 12
+)			:domain (c4 / year
+))		:ARG0-of (c7 / 13
+)		:ARG1 (c11 / addict-01
+			:ARG1 (c12 / harm-01
+))		:mod (c9 / temporal-quantity
+			:unit (c10 / day
+				:quant (c8 / 2
+)))		:ARG1-of (c3 / temporal-quantity
+	:unit c4
+))
+
+# ::id DF-200-192400-625_7557.7
+(c4 / tempt-01
+		:ARG1 (c2 / i
+			:mod (c1 / this
+))		:mod (c3 / really
+)		:ARG1 (c7 / burn-01
+	:ARG0 c2
+			:ARG1 (c8 / myslef
+))		:ARG0 (c6 / or
+	:op2 c7
+)		:ARG1 (c0 / write-01
+)		:ARG3 (c5 / arm
+))
+
+# ::id DF-200-192400-625_7557.6
+(c4 / take-01
+		:mod (c1 / find-01
+			:ARG1 (c2 / anything
+))		:ARG1 (c7 / paracetmols
+			:mod (c5 / around
+)			:quant (c6 / 5
+)			:op4 (c8 / and
+	:op1 c7
+				:op2 (c10 / drug
+					:mod (c9 / other
+)))	:op1 c10
+)	:ARG1 c10
+		:ARG1 (c11 / and
+	:op2 c1
+)		:op1 (c13 / take-01
+			:ARG0 (c12 / i
+)			:ARG2 (c14 / large
+				:poss (c15 / and
+)				:domain (c16 / vodka
+))	:ARG0 c16
+)		:ARG0 (c3 / i
+)		:ARG1 (c0 / i
+))
+
+# ::id DF-200-192400-625_7557.5
+(c8 / and
+		:op3 (c7 / school
+			:mod (c9 / razor
+))		:op1 (c3 / i
+			:time (c2 / then
+))		:ARG0 (c1 / heal-01
+			:ARG1 (c0 / they
+))		:ARG1 (c6 / rob-01
+			:ARG1 (c4 / staple
+)			:ARG1 (c5 / i
+)))
+
+# ::id DF-200-192400-625_7557.4
+(c1 / have-03
+		:ARG0 (c0 / i
+)		:ARG1 (c3 / slit
+			:mod (c2 / sevral
+)			:ARG1 (c4 / arm
+)))
+
+# ::id DF-200-192400-625_7557.9
+(c1 / think-01
+		:ARG1 (c0 / it
+)		:ARG1 (c2 / it
+)		:ARG1 (c4 / everyday
+)		:ARG0 (c3 / person
+	:ARG0-of c4
+))
+
+# ::id DF-200-192400-625_7200.11
+(c15 / have-03
+		:ARG1 (c2 / autistic
+			:op4 (c3 / contrast-01
+				:ARG2 (c5 / notice-01
+					:ARG0 (c4 / i
+)					:ARG1 (c6 / this
+)					:time (c7 / either
+)					:ARG2 (c8 / contrast-01
+						:ARG2 (c12 / and
+	:op2 c5
+))					:time (c11 / broad-02
+						:mod (c9 / spectrum
+)						:degree (c10 / so
+))	:medium c12
+))	:ARG1 c5
+	:op1 c11
+)	:ARG1 c5
+	:ARG0 c12
+		:mod (c14 / probable
+)		:ARG1 (c17 / asperger 's
+			:mod (c16 / mild
+)			:ARG1-of (c20 / have-03
+				:ARG1 (c18 / cause-01
+)				:ARG0 (c19 / i
+)				:ARG1 (c21 / problem
+					:topic (c22 / communicate-01
+))))		:ARG0 (c23 / and
+	:op2 c5
+)		:ARG1 (c24 / pick-01
+			:ARG1 (c26 / react-01
+				:mod (c25 / society
+))			:ARG1 (c28 / language
+				:ARG1 (c27 / body
+)))	:ARG1 c28
+		:ARG0 (c13 / i
+)		:ARG0 (c0 / have-rel-role-91
+			:ARG2 (c1 / brother-in-law
+)))
+
+# ::id DF-200-192400-625_6344.30
+(c4 / possible-01
+		:ARG1 (c5 / go-02
+			:ARG0 (c3 / you
+)			:ARG4 (c6 / form
+				:ARG1 (c8 / group
+					:mod (c7 / study
+))))		:ARG0 (c0 / have-rel-role-91
+			:ARG2 (c1 / friend
+				:ARG1 (c2 / house
+	:ARG1 c5
+))))
+
+# ::id DF-200-192400-625_7557.31
+(c4 / do-02
+		:ARG0 (c0 / hard-02
+			:ARG1 (c2 / you
+				:mod (c1 / contrast-01
+)))		:ARG1-of (c3 / possible-01
+)		:ARG1 (c5 / it
+))
+
+# ::id DF-200-192400-625_7557.30
+(c1 / 17
+		:ARG0 (c0 / i
+)		:ARG1 (c3 / start-01
+			:ARG0 (c2 / i
+)			:ARG1 (c4 / harm-01
+)			:time (c6 / year
+				:mod (c5 / last
+))			:ARG1 (c8 / cut-02
+				:mod (c7 / main
+)				:ARG1 (c9 / arm
+))			:ARG1 (c10 / contrast-01
+				:ARG1 (c12 / stop-01
+					:ARG0 (c11 / i
+)					:time (c16 / month
+						:time (c13 / since
+)						:mod (c14 / last
+)						:mod (c15 / few
+))))	:ARG1 c12
+)	:ARG1 c12
+)
+
+# ::id DF-200-192400-625_7557.33
+(c5 / do-02
+		:ARG0 (c0 / and
+			:op2 (c4 / possible-01
+	:ARG1 c0
+)			:op2 (c8 / find-01
+				:ARG0 (c7 / i
+)				:ARG1 (c9 / salvation
+)				:ARG1 (c10 / poetry
+)				:ARG1 (c11 / write-01
+					:op5 (c12 / and
+	:op2 c8
+						:op2 (c13 / keep-02
+))	:domain c13
+					:ARG1 (c14 / journal
+))	:ARG1 c13
+))		:ARG0 (c2 / strength
+			:mod (c1 / also
+))		:ARG0 (c3 / you
+)	:ARG1-of c4
+		:ARG1 (c6 / it
+)	:ARG1 c8
+)
+
+# ::id DF-200-192400-625_7557.32
+(c1 / feel-01
+		:ARG0 (c0 / i
+)		:ARG1 (c4 / happier
+			:degree (c2 / so
+)			:quant (c3 / much
+))		:ARG0 (c5 / contrast-01
+			:ARG2 (c10 / remind-01
+				:domain (c6 / see-01
+					:ARG1 (c7 / scar
+))				:mod (c8 / both
+)				:mod (c9 / pain-01
+)				:ARG1-of (c12 / feel-01
+					:ARG0 (c11 / i
+)					:ARG1 (c14 / time
+						:mod (c13 / that
+)))))	:ARG1 c10
+		:ARG1 (c18 / want-01
+			:ARG0 (c17 / i
+))		:ARG0 (c19 / thing
+)		:ARG1 (c16 / feel-01
+)		:ARG2 (c15 / strong-02
+))
+
+# ::id DF-200-192400-625_7557.35
+(c2 / define-01
+		:ARG1 (c0 / remember-01
+			:ARG1 (c1 / harm-01
+))		:ARG0 (c3 / you
+))
+
+# ::id DF-200-192400-625_7557.34
+(c2 / contrast-01
+		:ARG2 (c1 / addictive-02
+			:ARG0 (c0 / harm-01
+)			:ARG1 (c5 / overcome-01
+				:ARG0 (c3 / you
+)				:ARG1-of (c4 / possible-01
+	:ARG1 c5
+)				:ARG1 (c6 / it
+))))
+
+# ::id DF-200-192400-625_7744.3
+(c0 / this
+)
+
+# ::id DF-200-192400-625_7557.36
+(c2 / overcome-01
+		:ARG0 (c0 / you
+)		:ARG1-of (c1 / possible-01
+)		:ARG1 (c3 / it
+))
+
+# ::id DF-200-192400-625_6304.2
+(c1 / know-01
+		:ARG0 (c0 / i
+)		:ARG1 (c3 / take-01
+			:ARG1 (c2 / it
+)			:ARG1 (c5 / time
+				:quant (c4 / some
+))			:ARG2 (c6 / adjust-01
+)			:condition (c11 / introverted
+				:topic (c7 / cause-01
+					:ARG0 (c12 / and
+	:op2 c7
+))				:ARG0 (c8 / i
+)				:time (c9 / always
+)				:degree (c10 / very
+)	:topic c12
+				:ARG1 (c15 / anxious
+	:ARG0 c8
+					:op4 (c13 / and
+						:op2 (c16 / and
+	:op2 c13
+	:op1 c15
+))					:degree (c14 / especially
+)	:op4 c16
+					:op2 (c18 / rest
+						:quant (c17 / all
+)						:poss (c19 / it
+)))	:domain c18
+)	:degree c15
+))
+
+# ::id DF-200-192400-625_6304.3
+(c5 / and
+		:op2 (c7 / go-02
+			:ARG0 (c6 / i
+)			:ARG0 (c8 / and
+	:op1 c7
+				:op2 (c12 / thing
+					:domain (c9 / it
+)					:ARG1-of (c11 / most
+)))	:ARG2 c12
+)	:op2 c12
+		:op3 (c10 / hard-02
+	:degree c11
+)		:ARG0 (c15 / ever
+			:time (c14 / ever
+))		:op1 (c16 / do-02
+			:ARG0 (c13 / i
+))		:op2 (c1 / i
+)		:op4 (c4 / housemate
+			:quant (c3 / all
+))		:location (c2 / here
+)		:ARG1 (c0 / night
+))
+
+# ::id DF-200-192400-625_6344.4
+(c1 / horrible
+		:ARG1 (c0 / she
+)		:manner (c2 / constant
+))
+
+# ::id DF-200-192400-625_6304.1
+(c2 / start-01
+		:mod (c0 / hello
+)		:ARG0 (c1 / i
+)		:ARG1 (c3 / university
+)		:location (c4 / 9
+)		:ARG0 (c9 / most
+)		:ARG1 (c6 / gel
+			:time (c5 / immediate
+)			:ARG1 (c7 / it
+)			:ARG1-of (c8 / obvious-01
+)))
+
+# ::id DF-200-192400-625_7744.9
+(c2 / wish-01
+		:ARG0 (c0 / i
+)		:mod (c1 / just
+)		:ARG1 (c5 / worry-01
+			:ARG1 (c8 / leave-11
+				:ARG0 (c7 / i
+)				:ARG2 (c9 / or
+	:op1 c8
+					:op2 (c10 / lose-02
+	:ARG0 c7
+	:ARG0 c9
+))	:time c10
+				:ARG1 (c11 / something
+))	:ARG1 c10
+)		:ARG0 (c3 / i
+)		:mod (c6 / 2
+)		:ARG0 (c4 / possible-01
+))
+
+# ::id DF-200-192400-625_6304.7
+(c5 / seem-01
+		:ARG1 (c4 / it
+)		:ARG0 (c3 / good
+			:domain (c1 / it
+)			:degree (c2 / much
+))		:ARG1 (c0 / university
+))
+
+# ::id DF-200-192400-625_6304.4
+(c0 / go-02
+		:ARG4 (c2 / bar
+			:ARG1-of (c1 / country
+				:name (n0 / name :op1 "SU" 
+)))		:ARG4 (c3 / sober-01
+))
+
+# ::id DF-200-192400-625_6304.5
+(c1 / more
+		:mod (c0 / anyway
+)		:extent (c2 / point
+			:mod (c4 / fact
+				:domain (c3 / here
+))))
+
+# ::id DF-200-192400-625_7806.1
+(c3 / calm-03
+		:ARG1 (c0 / usually
+)		:ARG1 (c1 / i
+)		:degree (c2 / pretty
+)		:ARG1 (c4 / thing
+)		:ARG1 (c5 / and
+	:op2 c4
+)		:ARG1 (c6 / take-01
+			:ARG1 (c7 / thing
+)			:condition (c8 / come-01
+)			:ARG1 (c9 / and
+	:op1 c8
+)			:ARG1 (c10 / worry-01
+				:time (c12 / much
+					:degree (c11 / too
+)))))
+
+# ::id DF-200-192400-625_7806.2
+(c6 / find-01
+		:ARG0 (c2 / month
+			:mod (c0 / last
+)			:location (c3 / or
+)			:mod (c4 / 2
+))	:value c4
+		:ARG0 (c5 / i
+)		:ARG1 (c7 / become-01
+			:ARG2 (c9 / anxious
+				:mod (c8 / really
+))			:ARG1 (c10 / thing
+))		:ARG1 (c11 / and
+)		:op1 (c13 / talk-01
+	:ARG1 c11
+			:ARG0 (c12 / i
+)			:ARG1 (c16 / feel-01
+				:mod (c14 / mere
+)				:mod (c15 / blue
+)				:ARG1 (c17 / nervousness
+)))		:ARG1 (c1 / temporal-quantity
+	:unit c2
+))
+
+# ::id DF-200-192400-625_7806.3
+(c1 / begin-01
+		:ARG1 (c0 / i
+)		:ARG1 (c2 / feel-01
+	:ARG0 c0
+			:ARG1 (c3 / irrationally
+)			:ARG1 (c5 / variety
+				:ARG1 (c6 / thing
+					:ARG1-of (c8 / worry-01
+	:ARG0 c6
+						:time (c7 / beforehand
+)						:ARG2 (c10 / much
+							:degree (c9 / too
+))						:ARG1 (c11 / or
+							:op2 (c13 / cross-02
+	:ARG1 c6
+								:mod (c12 / even
+)								:ARG1 (c14 / mind
+)								:ARG1 (c15 / something
+)								:op4 (c16 / cause-01
+									:ARG1 (c18 / bell
+										:mod (c17 / alarm-01
+))									:ARG1 (c19 / ring
+										:ARG1 (c20 / head
+)))))	:ARG1 c13
+)	:ARG1-of c13
+)))		:ARG1 (c4 / panicky
+))
+
+# ::id DF-200-192400-625_7806.4
+(c1 / sure-02
+		:ARG0 (c0 / i
+)		:mod (c3 / change-01
+			:ARG1 (c2 / it
+)			:ARG1 (c8 / study-01
+				:ARG1-of (c6 / free-03
+)				:ARG0-of (c12 / cause-01
+	:ARG1 c8
+					:ARG1 (c13 / this
+)))			:ARG1 (c14 / or
+)			:ARG1 (c16 / sign-02
+				:domain (c15 / it
+)				:ARG1 (c18 / issue-02
+					:mod (c17 / other
+))))	:condition c16
+		:op4 (c19 / contrast-01
+			:ARG2 (c21 / begin-01
+				:ARG0 (c20 / it
+)				:ARG1 (c22 / bug
+	:ARG1 c20
+					:ARG2 (c24 / affect-01
+						:ARG0 (c23 / it
+)						:ARG1 (c25 / confident-01
+							:ARG2 (c26 / and
+								:op2 (c27 / happiness
+))	:ARG1 c27
+)	:ARG1 c27
+))))	:ARG2 c21
+		:ARG0 (c7 / person
+	:ARG0-of c8
+)		:ARG0 (c11 / graduate-01
+)		:ARG1 (c9 / person
+			:ARG0-of (c10 / employ-01
+))		:ARG2 (c5 / care-01
+)		:ARG1 (c4 / lifestyle
+))
+
+# ::id DF-200-192400-625_7806.5
+(c1 / speak-01
+		:ARG0 (c0 / i
+)		:ARG0 (c13 / phase
+			:mod (c12 / random
+))		:ARG0 (c11 / i
+)		:ARG1 (c10 / that
+)		:time (c3 / have-rel-role-91
+			:ARG2 (c4 / parent
+))		:ARG1 (c2 / few
+))
+
+# ::id DF-200-192400-625_7806.6
+(c0 / wonder-01
+		:ARG1 (c3 / thing
+			:ARG1-of (c2 / most
+)			:ARG1-of (c4 / do-02
+))		:ARG0 (c1 / good
+	:degree c2
+))
+
+# ::id DF-200-192400-625_7806.7
+(c0 / speak-01
+		:ARG4 (c1 / doctor
+)		:ARG1 (c2 / and
+			:op2 (c3 / see-01
+))	:ARG1 c3
+)
+
+# ::id DF-200-192400-625_7806.8
+(c0 / see-01
+		:ARG1 (c3 / speak-01
+			:ARG0 (c1 / i
+)			:ARG1 (c2 / possible-01
+	:ARG1 c3
+)			:ARG1 (c5 / counsellor
+))		:ARG0 (c4 / have-org-role-91
+	:ARG2 c5
+))
+
+# ::id DF-200-192400-625_7806.9
+(c1 / recommend-01
+		:ARG1 (c3 / take-01
+			:ARG1 (c0 / or
+				:op2 (c8 / and
+))			:ARG0 (c2 / i
+)			:ARG1 (c4 / advise-01
+)	:ARG1 c8
+			:domain (c10 / keep-02
+	:ARG0 c2
+				:mod (c9 / just
+)				:ARG1 (c11 / eye
+)				:ARG1 (c12 / anxiety
+)				:time (c13 / until
+)				:condition (c15 / become-01
+	:time c13
+					:ARG1 (c14 / it
+)					:ARG1 (c16 / problem
+))))	:ARG1 c10
+		:ARG0 (c7 / around
+)		:ARG1 (c6 / close
+)		:ARG1 (c5 / give-01
+))
+
+# ::id DF-200-192400-625_7744.7
+(c3 / get-01
+		:ARG1-of (c1 / check-01
+			:ARG0 (c0 / i
+))		:ARG0 (c2 / i
+)		:ARG1 (c6 / anxious
+			:degree (c4 / very
+)			:degree (c5 / very
+))		:ARG0 (c12 / contrast-01
+			:ARG2 (c16 / much
+				:degree (c13 / often
+)				:degree (c14 / anxiety
+)				:degree (c15 / so
+)				:ARG1 (c18 / wait-01
+					:ARG0 (c17 / i
+)					:ARG1 (c19 / that
+)					:ARG1-of (c20 / long-03
+))))	:ARG1 c16
+		:time (c10 / after
+)		:ARG1 (c11 / 15-30
+)		:ARG0 (c7 / sort
+			:ARG1-of (c8 / go-02
+				:ARG4 (c9 / away
+))))
+
+# ::id DF-199-194215-653_0484.24
+(c0 / cause-01
+		:ARG0 (c4 / life
+			:op4 (c2 / cause-01
+)			:ARG1-of (c3 / personal-02
+))		:ARG0 (c1 / threaten-01
+)		:ARG1 (c5 / none
+			:ARG1 (c6 / business
+)))
+
+# ::id DF-200-192400-625_7557.8
+(c1 / addict-01
+		:ARG1 (c0 / i
+)		:ARG2 (c3 / heals
+			:quant (c2 / one
+))		:ARG1 (c5 / again
+)		:concession (c4 / i
+))
+
+# ::id DF-200-192400-625_6304.23
+(c1 / reccomend-01
+		:ARG0 (c0 / i
+)		:ARG1 (c3 / go-02
+			:ARG0 (c2 / you
+)			:ARG4 (c4 / and
+	:op1 c3
+				:op2 (c5 / see-01
+	:ARG0 c2
+					:ARG1 (c6 / doctor
+)					:manner (c7 / too
+)))	:ARG4 c5
+)	:ARG1 c5
+)
+
+# ::id DF-200-192400-625_7744.24
+(c1 / think-01
+		:ARG0 (c0 / i
+)		:ARG1 (c3 / become-01
+			:ARG1 (c2 / it
+)			:ARG1 (c5 / problem
+				:mod (c4 / real
+)				:location-of (c7 / start-01
+					:ARG0 (c6 / obsess-01
+)					:ARG1 (c9 / interrupt-01
+	:ARG1 c6
+						:mod (c8 / really
+)						:ARG1 (c12 / routine
+							:mod (c11 / everyday
+))))))		:ARG0 (c10 / person
+	:ARG0-of c11
+))
+
+# ::id DF-200-192400-625_7744.25
+(c2 / crazy-03
+		:ARG0 (c0 / you
+)		:mod (c1 / definite
+)		:ARG1 (c3 / worry-02
+)		:op4 (c4 / and
+)		:domain (c5 / understand-01
+	:ARG1 c4
+			:ARG1 (c6 / issue-02
+				:ARG1-of (c8 / sure-02
+					:ARG0 (c7 / i
+)))))
+
+# ::id DF-200-192400-625_7744.26
+(c12 / obvious-01
+		:ARG0 (c1 / go-02
+			:ARG0 (c0 / i
+)			:mod (c5 / also
+)			:ARG4 (c6 / and
+)			:ARG1 (c8 / encourage-01
+				:ARG1 (c7 / they
+)				:ARG2 (c9 / pick-01
+					:ARG1 (c10 / number
+)					:ARG1 (c11 / check-01
+						:ARG1 (c15 / 20
+							:domain (c13 / that
+)							:ARG2 (c14 / less-than
+))						:op4 (c16 / and
+							:op2 (c17 / stick-01
+								:ARG1 (c18 / it
+)								:ARG1 (c19 / and
+	:op2 c17
+)))	:ARG1 c17
+)	:ARG1 c17
+)))		:ARG1 (c4 / reason
+			:mod (c3 / other
+))		:ARG1 (c2 / therapy
+)		:ARG2 (c21 / way
+			:mod (c20 / that
+)))
+
+# ::id DF-200-192400-625_7744.27
+(c6 / okay-04
+		:ARG1 (c1 / think-01
+			:ARG0 (c0 / i
+))		:ARG1 (c4 / i
+)		:mod (c5 / still
+)		:ARG1 (c8 / check-01
+			:ARG0 (c7 / i
+)			:ARG4 (c10 / or
+	:op1 c8
+))		:ARG1 (c9 / 5
+)		:condition (c3 / teach-01
+			:ARG0 (c2 / idea
+))		:extent (c11 / 20
+))
+
+# ::id DF-200-192400-625_7744.20
+(c12 / disappear-01
+		:ARG1 (c3 / increase-01
+			:time (c0 / even
+)			:ARG0 (c2 / level
+				:mod (c1 / anxiety
+))			:ARG1 (c4 / duration
+))		:ARG1 (c7 / decrease-01
+			:ARG0 (c5 / they
+)			:mod (c6 / gradualy
+)			:time (c8 / so
+)			:manner (c9 / hope-01
+))		:mod (c10 / overtime
+)		:ARG1 (c11 / ocd
+))
+
+# ::id DF-200-192400-625_7744.21
+(c2 / sound-01
+		:ARG1 (c0 / that
+)		:mod (c1 / just
+)		:ARG2 (c5 / anxious
+			:ARG0 (c3 / you
+)			:mod (c4 / over
+)			:ARG1-of (c6 / oppose-01
+))		:ARG2 (c9 / country
+			:mod (c7 / really
+)			:ARG1-of (c8 / bad-07
+)			:name (n0 / name :op1 "OCD" 
+)))
+
+# ::id DF-200-192400-625_7744.22
+(c2 / obsessional
+		:ARG1 (c0 / i
+)		:degree (c1 / very
+)		:ARG1 (c3 / point
+)		:ARG1 (c7 / check-01
+			:ARG1 (c11 / lock-01
+				:ARG1 (c8 / lock
+					:mod (c9 / house
+))				:ARG1-of (c10 / all
+)				:ARG1 (c13 / way
+					:mod (c12 / particular
+))))		:time (c6 / night
+)		:op1 (c5 / 20
+)		:ARG0 (c4 / i
+))
+
+# ::id DF-200-192400-625_7744.23
+(c6 / convince-01
+		:op4 (c2 / know-01
+			:mod (c0 / sometimes
+)			:ARG0 (c1 / i
+)			:ARG1 (c4 / lock-01
+				:ARG1 (c3 / they
+)))		:ARG1 (c5 / i
+)		:ARG1 (c7 / they
+))
+
+# ::id DF-200-192400-625_7744.28
+(c4 / think-01
+		:ARG1 (c2 / good
+			:ARG0 (c0 / i
+)			:ARG1-of (c1 / lot
+))		:ARG0 (c3 / i
+)		:manner (c5 / definite
+))
+
+# ::id DF-200-192400-625_7557.22
+(c0 / thank-01
+		:ARG1 (c1 / you
+)		:ARG2 (c2 / read-01
+))
+
+# ::id DF-200-192400-625_7557.23
+(c3 / or
+		:op2 (c4 / get-01
+			:ARG0 (c0 / you
+)			:ARG1 (c6 / therapy
+				:mod (c5 / any
+)))		:op2 (c2 / drug
+	:ARG0 c0
+			:mod (c1 / any
+)	:op2 c4
+))
+
+# ::id DF-200-192400-625_7557.20
+(c4 / want-01
+		:topic (c1 / want-01
+			:ARG0 (c0 / i
+)			:ARG1 (c2 / hurt-01
+))		:ARG1 (c5 / hurt-01
+)		:ARG0 (c3 / i
+))
+
+# ::id DF-200-192400-625_7557.21
+(c1 / do-02
+		:ARG0 (c0 / i
+))
+
+# ::id DF-200-192400-625_7557.26
+(c1 / tell-01
+		:ARG0 (c0 / you
+))
+
+# ::id DF-200-192400-625_7557.27
+(c6 / likely-01
+		:op2 (c1 / keep-02
+			:ARG0 (c0 / you
+)			:ARG1 (c3 / bottle-01
+				:ARG0 (c2 / it
+)				:ARG1 (c4 / inside
+)))		:ARG1 (c5 / it
+)		:ARG0 (c8 / bad-07
+)		:ARG1 (c7 / only
+))
+
+# ::id DF-200-192400-625_7557.24
+(c1 / idea
+		:ARG1 (c0 / it
+)		:ARG2-of (c2 / talk-01
+			:ARG1 (c5 / nurse
+				:mod (c3 / school
+)				:ARG2 (c6 / or
+))			:ARG1 (c7 / and
+)			:op1 (c8 / tell-01
+))	:op1 c8
+		:mod (c4 / have-org-role-91
+	:ARG2 c5
+))
+
+# ::id DF-200-192400-625_7557.25
+(c5 / possible-01
+		:ARG1 (c6 / tell-01
+			:ARG0 (c2 / you
+)))
+
+# ::id DF-200-192400-625_7557.28
+(c1 / good
+		:domain (c0 / it
+)		:compared-to (c2 / get-01
+	:ARG0 c0
+			:ARG1 (c3 / thing
+)			:time (c4 / early
+				:compared-to (c5 / possible-01
+)))		:ARG0 (c6 / get-01
+			:ARG1 (c8 / bad-07
+				:mod (c7 / even
+))))
+
+# ::id DF-200-192400-625_7557.29
+(c0 / do-02
+		:ARG1 (c1 / this
+))
+
+# ::id DF-200-192400-625_6304.6
+(c1 / enjoy-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / university
+)		:ARG1 (c4 / 5months
+			:domain (c3 / here
+)			:prep-as (c5 / or
+))	:ARG1 c5
+		:ARG1-of (c8 / disillusion-01
+			:ARG1 (c7 / i
+)			:ARG1 (c9 / enjoy-01
+))		:ARG1 (c11 / and
+)		:ARG0 (c10 / project
+)		:ARG1 (c13 / deliver-01
+)		:degree (c14 / much
+)		:ARG0 (c12 / i
+)		:ARG1 (c6 / and
+))
+
+# ::id DF-200-192400-625_6344.18
+(c0 / thank-01
+		:ARG2 (c1 / read-01
+))
+
+# ::id DF-200-192400-625_6344.19
+(c0 / nice-01
+		:ARG1 (c1 / vent-00
+))
+
+# ::id DF-200-192400-625_6344.14
+(c0 / contrast-01
+		:ARG2 (c3 / mean-02
+			:ARG1 (c1 / sure-02
+)			:ARG1 (c2 / life
+)			:ARG1 (c4 / this
+	:ARG0 c2
+)))
+
+# ::id DF-200-192400-625_6344.15
+(c1 / recommend-01
+		:ARG1 (c4 / good
+			:domain (c3 / much
+))		:condition (c2 / so
+)		:ARG0 (c0 / it
+))
+
+# ::id DF-200-192400-625_6344.16
+(c1 / feel-01
+		:ARG0 (c0 / i
+)		:ARG1 (c4 / control-01
+			:polarity (c3 / -
+)			:ARG1 (c7 / spiral-01
+				:mod (c5 / this
+)				:direction (c6 / downhill
+)))		:ARG0 (c2 / i
+))
+
+# ::id DF-200-192400-625_6344.17
+(c2 / know-01
+		:ARG1 (c0 / and
+			:op2 (c3 / do-02
+))		:ARG0 (c1 / i
+)	:ARG1 c3
+)
+
+# ::id DF-200-192400-625_6344.10
+(c6 / accept-01
+		:ARG0 (c4 / i
+)		:time (c5 / already
+)		:ARG1 (c7 / defeat-01
+)		:ARG1 (c10 / temporal-quantity
+			:unit (c11 / year
+				:mod (c9 / this
+)				:ARG1 (c12 / life
+)))		:ARG0 (c13 / make-01
+	:time c11
+			:ARG1 (c14 / fail-01
+))		:ARG0 (c8 / that
+)		:ARG1-of (c1 / pass-03
+			:ARG0 (c0 / i
+)			:ARG1 (c3 / exam
+				:quant (c2 / 2
+))))
+
+# ::id DF-200-192400-625_6344.11
+(c7 / get-02
+		:ARG1 (c2 / come-01
+			:ARG0 (c0 / i
+)			:ARG1 (c1 / possible-01
+	:ARG1 c2
+)			:direction (c3 / back
+)			:ARG1 (c4 / this
+				:ARG2 (c5 / know-01
+	:ARG1 c4
+)))		:ARG0 (c6 / i
+)		:ARG1 (c11 / offer-01
+			:ARG1-of (c9 / amaze-01
+				:degree (c8 / most
+))			:ARG1 (c10 / university
+))		:ARG0 (c12 / contrast-01
+)		:ARG1 (c15 / accept-01
+			:ARG0 (c13 / i
+)			:mod (c14 / even
+))		:ARG2 (c17 / make-01
+			:ARG0 (c16 / i
+)			:ARG1 (c18 / grade
+)))
+
+# ::id DF-200-192400-625_6344.12
+(c1 / wish-01
+		:ARG0 (c0 / i
+)		:ARG1 (c4 / wipe-out-02
+			:ARG0 (c2 / i
+)			:ARG1-of (c3 / possible-01
+	:ARG1 c4
+)			:ARG1 (c5 / life
+))		:ARG1 (c9 / good
+			:ARG1-of (c6 / thing
+)			:degree (c7 / so
+)			:domain (c8 / much
+	:degree c7
+)			:compared-to (c10 / hurt-01
+)))
+
+# ::id DF-200-192400-625_6344.13
+(c3 / think-01
+		:ARG1 (c0 / contrast-01
+)		:time (c1 / then
+)		:ARG0 (c2 / i
+)		:ARG1 (c5 / selfish
+			:mod (c4 / just
+)))
+
+# ::id DF-200-192400-625_6344.34
+(c2 / recommend-01
+		:ARG0 (c0 / i
+)		:mod (c1 / high
+)		:ARG1 (c3 / take-01
+			:ARG1 (c4 / smoke-02
+)))
+
+# ::id DF-200-192400-625_7557.17
+(c13 / hate-01
+		:ARG1 (c1 / care-01
+			:ARG1 (c5 / want-01
+				:ARG1 (c3 / do-02
+					:ARG0 (c2 / i
+))				:ARG0 (c4 / i
+)				:ARG1 (c10 / tourture
+					:mod (c9 / again
+))))		:ARG0 (c12 / i
+)		:ARG0 (c8 / and
+)		:ARG1 (c11 / myslef
+)		:ARG0 (c0 / i
+)		:mod (c7 / again
+)		:ARG1 (c6 / it
+))
+
+# ::id DF-200-192400-625_7557.16
+(c0 / i
+		:ARG0 (c1 / stop-01
+))
+
+# ::id DF-200-192400-625_7557.15
+(c3 / suffer-01
+		:mod (c0 / also
+)		:ARG0 (c2 / mum
+)		:duration (c4 / bi polar
+)		:duration (c5 / and
+)		:op5 (c7 / have-03
+	:ARG0 c5
+			:ARG0 (c6 / i
+)			:ARG1 (c8 / depression
+))		:ARG1 (c1 / have-rel-role-91
+	:ARG2 c2
+))
+
+# ::id DF-200-192400-625_7557.14
+(c6 / forbid-01
+		:ARG1 (c0 / i
+			:op6 (c1 / have-03
+				:ARG1 (c2 / reltionship
+)				:ARG1 (c3 / boy
+					:ARG2 (c4 / 16
+	:op1 c3
+						:consist-of (c5 / and
+)))))		:ARG1 (c7 / speak-01
+	:ARG0 c0
+)		:ARG1 (c9 / happend
+			:op4 (c8 / cause-01
+				:ARG0 (c10 / and
+))	:op5 c10
+)		:ARG0 (c12 / diffrience
+			:ARG1 (c11 / age-01
+)))
+
+# ::id DF-200-192400-625_7557.13
+(c3 / die-01
+		:ARG1 (c2 / mate
+			:ARG0-of (c1 / most
+))		:prep-on (c5 / 10
+			:ARG0 (c4 / i
+))		:ARG0 (c0 / good
+	:degree c1
+))
+
+# ::id DF-200-192400-625_7557.12
+(c1 / care-01
+		:mod (c0 / just
+)		:ARG0 (c4 / girl
+			:mod (c2 / new
+)			:mod (c3 / little
+)			:op7 (c5 / and
+				:op2 (c6 / wife
+					:mod (c8 / life
+						:mod (c7 / new
+))					:ARG0-of (c9 / want-01
+)))	:domain c6
+)	:ARG1 c6
+)
+
+# ::id DF-200-192400-625_7557.11
+(c2 / that
+		:op1 (c0 / source
+			:ARG1 (c1 / this
+))		:op2 (c7 / leave-11
+			:mod (c4 / 7
+				:ARG0 (c3 / i
+))			:ARG0 (c6 / dad
+))		:accompanier (c8 / and
+	:op2 c7
+)		:ARG0 (c9 / want-01
+			:ARG1 (c10 / know-01
+				:time (c11 / anymore
+)))		:ARG1 (c5 / have-rel-role-91
+	:ARG2 c6
+))
+
+# ::id DF-200-192400-625_7557.10
+(c1 / 12
+		:ARG0 (c0 / i
+)		:op4 (c2 / and
+)		:op2 (c4 / sick-05
+			:time (c3 / already
+)			:ARG1 (c5 / life
+)))
+
+# ::id DF-200-192400-625_7744.8
+(c1 / feel-01
+		:ARG0 (c0 / i
+)		:time (c3 / lose-02
+			:ARG0 (c2 / i
+)			:ARG1 (c4 / wallet
+				:ARG2 (c5 / or
+	:op2 c3
+)				:ARG1 (c6 / phone
+))	:ARG1 c6
+			:ARG1 (c9 / doom-01
+				:time (c7 / then
+)				:ARG1 (c8 / i
+)				:ARG1 (c10 / or
+	:op2 c3
+))	:ARG1 c10
+			:ARG1 (c12 / feel-01
+				:ARG0 (c11 / i
+)))	:ARG1 c12
+)
+
+# ::id DF-200-192400-625_7557.19
+(c2 / contrast-01
+		:ARG2 (c1 / tell-01
+			:ARG1 (c4 / find-01
+				:ARG0 (c3 / he
+)))		:ARG0 (c0 / i
+))
+
+# ::id DF-200-192400-625_7557.18
+(c4 / love-02
+		:ARG0 (c2 / mate
+			:ARG0-of (c1 / most
+))		:ARG0 (c3 / i
+)		:ARG1-of (c7 / mean-01
+			:quant (c5 / load
+)			:ARG0 (c6 / he
+)			:ARG1 (c8 / world
+)			:ARG1 (c9 / and
+))		:ARG0 (c10 / i
+)		:ARG1 (c13 / he
+)		:time (c0 / good
+	:degree c1
+)		:ARG0 (c12 / then
+)		:ARG1 (c11 / anything
+))
+
+# ::id DF-200-192400-625_7744.5
+(c16 / and
+		:op2 (c18 / country
+			:mod (c17 / this
+)			:ARG2 (c20 / extent
+				:mod (c19 / any
+))			:name (n0 / name :op1 "OCD" 
+))		:op1 (c14 / check-01
+			:ARG0 (c13 / i
+))		:ARG0 (c9 / rare-02
+			:op4 (c10 / and
+)			:mod (c11 / even
+)			:mod (c12 / still
+))		:quant (c15 / many
+)		:op3 (c8 / that
+)		:domain (c0 / it
+))
+
+# ::id DF-200-192400-625_7744.4
+(c2 / or
+		:ARG0 (c1 / crazy-03
+			:ARG1 (c3 / something
+))		:domain (c0 / i
+))
+
+# ::id DF-200-192400-625_6304.21
+(c4 / obvs-01
+		:domain (c0 / concentrate-01
+			:ARG0 (c1 / bit
+				:ARG1 (c2 / work-01
+)))		:time (c3 / time
+)		:ARG1 (c7 / assign-01
+			:degree (c5 / most
+)			:ARG1-of (c6 / urgent
+)))
+
+# ::id DF-200-192400-625_6304.20
+(c0 / break-up-08
+		:ARG1 (c1 / work-01
+)		:ARG1 (c3 / chunk
+			:mod (c2 / manageable
+)))
+
+# ::id DF-199-194215-653_0484.21
+(c7 / good
+		:ARG0 (c5 / you
+)		:degree (c6 / probable
+)		:degree (c2 / walk-01
+			:manner (c1 / volunteer-01
+)			:ARG1 (c3 / both
+				:ARG1 (c4 / life
+)))		:ARG0 (c0 / price-01
+))
+
+# ::id DF-200-192400-625_6304.22
+(c0 / shut-down-05
+		:ARG1 (c1 / housemate
+)		:ARG0 (c2 / and
+			:op2 (c3 / do-02
+				:ARG1 (c4 / try-01
+					:ARG1 (c10 / keep-01
+						:ARG0 (c6 / thing
+							:ARG1-of (c5 / new
+)							:ARG1-of (c8 / begin-01
+	:ARG1 c6
+								:mod (c7 / very
+)))						:time (c9 / now
+)						:ARG1 (c11 / it
+)))))	:ARG1 c3
+)
+
+# ::id DF-200-192400-625_6304.25
+(c1 / try-01
+		:ARG0 (c0 / and
+			:op2 (c2 / and
+	:op2 c0
+				:op2 (c3 / get-01
+))	:op2 c3
+)	:ARG0 c2
+	:op2 c3
+		:ARG1 (c4 / deadline
+)		:op2 (c5 / extend-01
+)		:manner (c7 / honest
+			:ARG0 (c6 / you
+)			:ARG1 (c9 / sure-02
+				:ARG0 (c8 / i
+)				:ARG1 (c10 / allow-01
+					:ARG1 (c11 / it
+)))))
+
+# ::id DF-200-192400-625_6304.24
+(c0 / you
+		:mod (c10 / therapy
+)		:ARG0 (c15 / normal-02
+			:mod (c14 / really
+))		:quant (c12 / anxiety
+			:degree (c13 / so
+))		:ARG1 (c8 / have-rel-role-91
+			:ARG2 (c9 / friend
+))		:ARG2 (c3 / person
+			:mod (c1 / always
+)			:mod (c2 / anxious
+)			:ARG1-of (c5 / benefit-01
+				:ARG0 (c4 / you
+)				:ARG2 (c6 / speak-01
+)))		:ARG3 (c11 / government-organization
+			:name (n0 / name :op1 "NHS" 
+))		:ARG4 (c7 / someone
+))
+
+# ::id DF-200-192400-625_6304.8
+(c19 / pile-01
+		:ARG0 (c17 / it
+)		:quant (c18 / all
+)		:ARG1 (c12 / worry-01
+			:degree (c7 / add-02
+				:ARG1 (c9 / level
+					:mod (c8 / stress-02
+)))			:ARG0 (c10 / i
+)			:degree (c11 / so
+))		:ARG2 (c14 / progress-01
+			:ARG0 (c13 / i
+)			:ARG1 (c15 / work-01
+))		:ARG0 (c16 / conclusively
+)		:poss (c3 / person
+			:ARG0-of (c4 / study-01
+))		:op2 (c6 / delay-01
+			:ARG1 (c5 / finance-01
+	:mod c4
+))		:op1 (c2 / start-01
+			:ARG1-of (c1 / bad-07
+))		:domain (c0 / i
+))
+
+# ::id DF-200-192400-625_7744.2
+(c2 / have-03
+		:ARG0 (c0 / i
+)		:mod (c1 / often
+)		:ARG1 (c3 / check-01
+	:ARG0 c0
+			:ARG1 (c4 / go-01
+)			:time (c6 / after
+				:op1 (c13 / check-01
+	:time c6
+					:mod (c14 / again
+)))			:ARG1 (c12 / resist-01
+				:time (c5 / then
+)	:time c6
+				:ARG0 (c9 / second
+					:op1 (c7 / 30
+))	:ARG1 c13
+))		:ARG0 (c10 / some
+)		:ARG1 (c8 / temporal-quantity
+	:unit c9
+)		:accompanier (c11 / i
+))
+
+# ::id DF-200-192400-625_7744.6
+(c0 / possible-01
+		:ARG0 (c2 / this
+)		:ARG1 (c1 / i
+))
+
+# ::id DF-200-192400-625_7744.1
+(c17 / check-01
+		:ARG1 (c1 / think-01
+			:ARG0 (c0 / i
+)			:ARG1 (c2 / get-02
+				:ARG1 (c3 / form
+					:ARG1-of (c4 / country
+						:name (n0 / name :op1 "OCD" 
+)))				:condition (c9 / find-01
+					:time (c5 / cause-01
+)					:ARG0 (c7 / year
+						:mod (c6 / past
+))					:ARG0 (c8 / i
+)					:ARG1 (c11 / everytime
+						:domain (c10 / that
+)						:ARG1 (c13 / go-06
+							:ARG0 (c12 / i
+))))))		:ARG0 (c15 / i
+)		:time (c16 / always
+)		:ARG1 (c19 / belong-01
+)		:ARG1 (c20 / make-01
+			:ARG1 (c21 / sure-02
+				:ARG1-of (c23 / lose-02
+					:ARG0 (c22 / i
+)					:ARG1 (c24 / or
+	:op1 c23
+						:op2 (c25 / leave-11
+	:ARG0 c22
+))	:polarity c25
+					:ARG1 (c26 / anything
+))	:ARG1 c25
+))		:ARG1 (c18 / thing
+	:ARG1-of c19
+)		:ARG0 (c14 / especially
+))
+
+# ::id DF-200-192400-625_7744.15
+(c1 / use-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / do-02
+	:ARG0 c0
+			:ARG1 (c3 / this
+				:mod (c4 / way
+))			:ARG0 (c5 / college
+))		:ARG0 (c7 / list-01
+			:mod (c8 / item
+				:ARG1 (c10 / know-01
+					:ARG0 (c9 / i
+)					:ARG1 (c13 / use-01
+						:ARG0 (c11 / i
+)						:ARG2 (c14 / check-01
+	:ARG0 c11
+							:ARG0-of (c15 / compulsively
+)							:ARG1 (c16 / bus
+))))))		:ARG1 (c12 / and
+)		:ARG0 (c6 / i
+))
+

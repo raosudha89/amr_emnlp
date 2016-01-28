@@ -1,0 +1,1603 @@
+# ::id lpp_1943.188
+(c4 / pass-01
+		:time (c3 / already
+)		:op2 (c8 / go-02
+			:direction (c5 / since
+)			:ARG0 (c7 / friend
+)			:ARG4 (c10 / sheep
+))		:ARG1 (c6 / have-rel-role-91
+	:ARG2 c7
+)		:direction (c9 / away
+)		:ARG0 (c1 / temporal-quantity
+			:unit (c2 / year
+))		:ARG0-of (c0 / six
+))
+
+# ::id lpp_1943.181
+(c2 / show-01
+		:ARG0 (c0 / child
+)		:time (c1 / always
+)		:ARG1 (c4 / forbearance
+			:mod (c3 / great
+))		:ARG2 (c6 / grown-up
+			:direction (c5 / toward
+)))
+
+# ::id lpp_1943.180
+(c1 / obligate-01
+		:ARG2 (c2 / hold-01
+			:ARG0 (c0 / one
+)			:ARG1 (c3 / it
+)))
+
+# ::id lpp_1943.183
+(c1 / like-02
+		:ARG1 (c0 / i
+)		:ARG1 (c2 / begin-01
+	:ARG0 c0
+			:ARG1 (c4 / story
+				:mod (c3 / this
+)				:mod (c5 / fashion-01
+)				:mod (c7 / tale
+)))		:ARG0 (c6 / fairy
+))
+
+# ::id lpp_1943.182
+(c0 / contrast-01
+		:ARG0 (c4 / matter
+			:mod (c1 / certain
+)			:domain (c3 / figure
+)			:domain (c5 / indifference
+))		:ARG2 (c2 / understand-01
+))
+
+# ::id lpp_1943.185
+(c2 / give-01
+		:ARG1 (c1 / that
+)		:ARG1 (c5 / air
+			:mod (c4 / greater
+				:degree (c3 / much
+))			:domain (c6 / truth
+))		:ARG1 (c7 / story
+)		:ARG1 (c0 / understand-01
+))
+
+# ::id lpp_1943.184
+(c1 / resemble-01
+		:ARG1 (c0 / i
+)		:ARG1 (c2 / say-01
+	:ARG0 c0
+)		:ARG1 (c13 / need-01
+			:poss (c14 / sheep
+))		:ARG2 (c3 / time
+))
+
+# ::id lpp_1943.187
+(c1 / suffer-01
+		:ARG1 (c0 / i
+)		:ARG1 (c4 / grieve-01
+			:degree (c2 / too
+)			:mod (c3 / much
+))		:ARG1 (c5 / set-01
+			:ARG1 (c6 / memory
+)))
+
+# ::id lpp_1943.186
+(c2 / want-01
+		:ARG1 (c0 / opine-01
+)		:ARG0 (c1 / i
+)		:ARG0 (c3 / any
+)		:ARG0 (c6 / carelessly
+)		:ARG1 (c4 / read-01
+			:ARG1 (c5 / book
+)))
+
+# ::id lpp_1943.189
+(c1 / try-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / describe-01
+	:ARG0 c0
+			:location (c3 / here
+))		:ARG1 (c7 / forget-01
+			:ARG0 (c6 / i
+))		:ARG0 (c5 / sure
+)		:time (c4 / it
+))
+
+# ::id lpp_1943.261
+(c0 / contrast-01
+		:ARG2 (c3 / successful
+			:domain (c1 / other
+)			:domain (c2 / i
+)))
+
+# ::id lpp_1943.262
+(c4 / carry-01
+		:ARG1 (c3 / i
+)		:ARG1 (c7 / force-01
+			:degree (c6 / inspiring
+)			:ARG1 (c9 / necessity
+))		:ARG1 (c8 / urgent
+)		:ARG0 (c1 / drawing
+			:ARG2 (c2 / baobab
+))		:ARG3 (c0 / i
+)		:extent (c5 / beyond
+))
+
+# ::id lpp_1943.263
+(c0 / chapter
+		:mod (c1 / 6
+))
+
+# ::id lpp_1943.264
+(c2 / prince
+		:mod (c0 / oh
+)		:mod (c1 / little
+))
+
+# ::id lpp_1943.265
+(c0 / bit
+		:degree (c1 / bit
+			:ARG2 (c3 / come-01
+				:ARG1 (c2 / i
+)				:ARG1 (c4 / understand-01
+	:ARG0 c2
+					:ARG1 (c5 / secret
+))))		:ARG0 (c7 / little
+)		:ARG1 (c6 / sad
+))
+
+# ::id lpp_1943.266
+(c9 / look-01
+		:ARG1 (c10 / sunset
+))
+
+# ::id lpp_1943.267
+(c1 / learn-01
+		:ARG0 (c0 / i
+)		:ARG1 (c3 / detail-01
+			:mod (c2 / new
+))		:ARG1 (c4 / morning
+			:time (c5 / day
+))		:ARG1 (c7 / say-01
+			:ARG0 (c6 / you
+)			:ARG1 (c10 / fond
+				:domain (c8 / i
+)				:degree (c9 / very
+)				:ARG1 (c11 / sunset
+))))
+
+# ::id lpp_1943.279
+(c1 / know-01
+		:ARG0 (c0 / everybody
+)		:ARG1 (c5 / set-01
+			:ARG1 (c2 / noon
+)			:ARG0 (c4 / sun
+)			:ARG1 (c6 / country
+				:name (n1 / name :op1 "France" 
+)))		:ARG0 (c3 / country
+			:name (n0 / name :op1 "United" :op2 "States" 
+)))
+
+# ::id lpp_1943.278
+(c0 / just
+		:degree (c1 / so
+))
+
+# ::id lpp_1943.273
+(c0 / sunset
+)
+
+# ::id lpp_1943.272
+(m / multi-sentence
+)
+
+# ::id lpp_1943.271
+(c0 / wait-01
+)
+
+# ::id lpp_1943.270
+(c1 / say-01
+		:ARG0 (c0 / i
+))
+
+# ::id lpp_1943.277
+(c1 / say-01
+		:ARG0 (c0 / you
+)		:ARG1 (c4 / think-01
+			:ARG0 (c2 / i
+)			:time (c3 / always
+)			:ARG1 (c7 / home
+				:domain (c5 / that
+)				:ARG0 (c6 / i
+))))
+
+# ::id lpp_1943.276
+(c0 / and
+		:op2 (c3 / laugh-01
+			:mod (c1 / then
+)			:ARG0 (c2 / you
+)))
+
+# ::id lpp_1943.275
+(c1 / seem-01
+		:ARG0 (c0 / you
+)		:ARG1 (c4 / surprise-01
+	:ARG0 c0
+			:degree (c2 / very
+)			:degree (c3 / much
+)))
+
+# ::id lpp_1943.274
+(c1 / wait-01
+		:ARG0 (c0 / we
+)		:duration (c4 / time
+			:ARG1-of (c2 / until
+)			:domain (c3 / it
+)))
+
+# ::id lpp_1943.268
+(c0 / come-01
+		:ARG1 (c1 / let-01
+			:ARG1 (c2 / go-02
+				:ARG1 (c3 / look-01
+					:ARG1 (c4 / sunset
+)					:time (c5 / now
+)))))
+
+# ::id lpp_1943.260
+(c1 / try-01
+		:ARG1 (c0 / i
+))
+
+# ::id lpp_1943.269
+(c0 / contrast-01
+		:ARG2 (c2 / wait-01
+			:ARG0 (c1 / we
+)))
+
+# ::id lpp_1943.178
+(c0 / contrast-01
+		:ARG2 (c2 / say-01
+			:ARG0 (c1 / you
+)			:ARG1 (c6 / asteroid b
+				:ARG0 (c3 / planet
+					:ARG2 (c5 / come-01
+						:ARG1 (c4 / he
+)))))		:ARG2 (c9 / convince-01
+	:ARG1 c2
+			:time (c8 / then
+)			:ARG1 (c10 / and
+	:op1 c2
+)			:ARG1 (c11 / leave-01
+				:ARG1 (c12 / you
+)				:ARG1 (c13 / question-01
+))	:ARG1 c12
+)		:ARG2 (c7 / 612
+))
+
+# ::id lpp_1943.179
+(c1 / resemble-01
+		:ARG2 (c2 / that
+			:domain (c0 / they
+)))
+
+# ::id lpp_1943.174
+(c19 / look-01
+		:ARG0 (c17 / that
+)		:ARG0 (c18 / he
+)		:ARG0 (c20 / sheep
+)		:ARG0 (c6 / proof
+			:ARG1 (c10 / exist-01
+				:ARG1 (c7 / that
+)				:ARG0 (c9 / prince
+					:mod (c8 / little
+))))		:ARG1 (c13 / charm-01
+			:domain (c11 / that
+)			:domain (c12 / he
+)			:ARG1 (c15 / laugh-01
+				:ARG0 (c14 / he
+)				:ARG1 (c16 / and
+	:op2 c15
+)))		:manner (c4 / thing
+			:ARG1-of (c5 / say-01
+				:degree (c1 / so
+					:mod (c0 / just
+))				:ARG0 (c2 / you
+)				:ARG1 (c3 / possible
+	:domain c5
+))))
+
+# ::id lpp_1943.175
+(c4 / proof
+		:ARG1 (c1 / want-01
+			:ARG0 (c0 / anybody
+)			:ARG1 (c2 / sheep
+))		:domain (c3 / that
+)		:ARG1 (c6 / exist-01
+			:ARG0 (c5 / he
+)))
+
+# ::id lpp_1943.176
+(c0 / and
+		:op2 (c2 / tell-01
+			:ARG1 (c3 / that
+))		:ARG0 (c1 / good
+))
+
+# ::id lpp_1943.177
+(c3 / and
+		:op2 (c1 / shrug-01
+			:ARG0 (c0 / they
+)			:ARG1 (c2 / shoulder
+)			:ARG1 (c4 / treat
+	:ARG0 c0
+				:ARG1 (c5 / you
+)				:mod (c6 / child
+))))
+
+# ::id lpp_1943.170
+(c3 / learn-01
+		:ARG1 (c4 / anything
+)		:ARG0 (c2 / think-01
+)		:ARG1 (c0 / only
+			:ARG1 (c1 / figure
+)))
+
+# ::id lpp_1943.171
+(c14 / possible
+		:ARG1 (c4 / see-01
+			:ARG0 (c3 / i
+))		:domain (c9 / geranium
+			:ARG1 (c10 / window
+				:ARG1 (c11 / and
+)				:poss (c12 / dove
+)				:poss (c13 / roof-01
+)))		:condition (c16 / idea
+			:mod (c15 / any
+)			:poss (c18 / house
+				:mod (c17 / that
+)				:mod (c19 / all
+)))		:mod (c8 / brick-01
+)		:ARG0 (c2 / grown-up
+)		:ARG1 (c1 / say-01
+			:ARG0 (c0 / you
+))		:polarity (c7 / rosy
+)		:ARG2 (c6 / house
+			:mod (c5 / beautiful
+)))
+
+# ::id lpp_1943.172
+(c1 / have-03
+		:ARG0 (c0 / you
+)		:ARG1 (c2 / say-01
+	:ARG0 c0
+)		:ARG1 (c4 / see-01
+			:ARG0 (c3 / i
+)			:ARG1 (c5 / house
+				:ARG1 (c6 / that
+)				:mod (c7 / cost-01
+	:ARG2 c5
+)))		:ARG1 (c9 /money
+			:name (n0 / name :op1 "20,000" 
+))		:ARG0 (c8 / money
+			:name (n1 / name :op1 "$" 
+)))
+
+# ::id lpp_1943.173
+(c1 / exclaim-01
+		:time (c0 / then
+)		:time (c4 / house
+			:mod (c3 / pretty
+))		:ARG0 (c2 / oh
+)		:ARG1 (c5 / that
+))
+
+# ::id lpp_1943.246
+(c2 / useful
+		:domain (c0 / that
+)		:degree (c1 / very
+)		:domain (c4 / travel-01
+			:ARG0 (c3 / they
+)			:ARG1 (c6 / day
+				:mod (c5 / some
+))))
+
+# ::id lpp_1943.247
+(c8 / until
+		:op1 (c4 / harm-01
+			:polarity (c3 / -
+)			:ARG1 (c5 / put-01
+				:ARG1 (c6 / piece
+					:ARG0 (c7 / work-01
+))				:ARG1 (c10 / day
+					:mod (c9 / another
+))))		:ARG0 (c2 / add-01
+			:ARG0 (c1 / he
+))		:ARG1 (c0 / sometimes
+))
+
+# ::id lpp_1943.244
+(c7 / contrast-01
+		:ARG2 (c6 / add-01
+			:ARG1 (c3 / work-01
+				:domain (c0 / it
+)				:mod (c2 / tedious
+					:degree (c1 / very
+)))			:ARG0 (c5 / prince
+				:mod (c4 / little
+))			:ARG1 (c9 / easy
+				:degree (c8 / very
+))))
+
+# ::id lpp_1943.245
+(c3 / say-01
+		:ARG1 (c0 / and
+)		:ARG0 (c1 / day
+)		:ARG0 (c2 / he
+)		:ARG1 (c5 / recommend-01
+	:ARG1 c0
+			:ARG0 (c4 / you
+)			:domain (c14 / see-01
+				:degree (c8 / so
+					:ARG1 (c9 / that
+))				:ARG0 (c10 / child
+					:location (c12 / live-01
+						:ARG0 (c11 / you
+)))				:ARG0 (c13 / possible
+	:domain c14
+)))		:ARG0 (c17 / this
+			:quant (c16 / all
+))		:ARG1 (c15 / exact
+)		:ARG0 (c7 / drawing
+			:mod (c6 / beautiful
+)))
+
+# ::id lpp_1943.242
+(c8 / time
+		:poss (c2 / finish-01
+			:ARG0 (c0 / you
+)			:ARG1 (c4 / toilet
+				:ARG1 (c3 / own-01
+))			:ARG1 (c5 / morning
+))		:domain (c7 / it
+			:time (c6 / then
+))		:duration-of (c9 / attend-01
+			:degree (c13 / so
+				:mod (c12 / just
+))			:manner (c16 / care-01
+))		:mod (c10 / toilet
+			:ARG1 (c11 / planet
+))		:purpose (c14 / great
+			:degree (c15 / most
+))		:ARG1-of (c1 / 've-01
+	:ARG0 c0
+))
+
+# ::id lpp_1943.243
+(c10 / possible
+		:domain (c1 / see-01
+			:ARG0 (c0 / you
+)			:ARG1 (c3 / pull-01
+				:ARG0 (c2 / you
+)				:direction (c5 / regularly
+					:direction (c4 / up
+))				:ARG1 (c7 / baobab
+					:quant (c6 / all
+))				:ARG1 (c9 / moment
+					:ARG1-of (c11 / distinguish-01
+))))		:condition (c13 / resemble-01
+	:ARG1 c9
+	:ARG1 c11
+			:ARG1 (c12 / rosebush
+)			:mod (c15 / close
+				:degree (c14 / so
+))			:ARG1 (c17 / youth
+))		:mod (c16 / earliest
+)		:ARG0 (c8 / very
+))
+
+# ::id lpp_1943.240
+(c0 / and
+		:op2 (c3 / small
+			:domain (c1 / planet
+)			:degree (c2 / too
+)			:ARG1 (c4 / and
+				:op2 (c8 / split-01
+	:mod c3
+					:quant (c7 / many
+						:domain (c5 / baobab
+)						:degree (c6 / too
+))))	:degree c7
+)	:op2 c8
+		:op2 (c9 / piece
+))
+
+# ::id lpp_1943.241
+(c5 / say-01
+		:ARG1 (c1 / question
+			:domain (c0 / it
+)			:mod (c2 / discipline
+))		:ARG0 (c4 / prince
+			:mod (c3 / little
+))		:ARG1 (c6 / late
+))
+
+# ::id lpp_1943.248
+(c6 / mean-01
+		:ARG1 (c0 / contrast-01
+)		:ARG0 (c2 / matter
+			:domain (c1 / it
+)			:ARG2 (c3 / baobab
+))		:ARG0 (c4 / that
+)		:time (c5 / always
+)		:ARG1 (c7 / catastrophe
+))
+
+# ::id lpp_1943.249
+(c1 / know-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / planet
+			:mod (c3 / inhabit-01
+	:ARG1 c2
+				:ARG0 (c5 / man
+					:mod (c4 / lazy
+)))))
+
+# ::id lpp_1943.169
+(c2 / father
+		:ARG0 (c1 / money
+			:mod (c0 / much
+)))
+
+# ::id lpp_1943.168
+(c2 / weigh-01
+		:ARG1 (c0 / much
+)		:ARG0 (c1 / he
+))
+
+# ::id lpp_1943.167
+(c1 / brother
+		:quant (c0 / many
+)		:ARG0 (c2 / he
+))
+
+# ::id lpp_1943.166
+(c1 / demand-01
+		:ARG1 (c0 / instead
+)		:ARG0 (c3 / he
+)		:ARG1 (c2 / old
+))
+
+# ::id lpp_1943.165
+(c2 / collect-01
+		:ARG1 (c0 / do-01
+)		:ARG0 (c1 / he
+)		:ARG2 (c3 / butterfly
+))
+
+# ::id lpp_1943.164
+(c2 / love-01
+		:ARG1 (c0 / game
+)		:ARG0 (c1 / he
+)		:ARG1 (c4 / most
+)		:ARG0 (c3 / good
+	:degree c4
+))
+
+# ::id lpp_1943.163
+(c1 / say-01
+		:ARG0 (c0 / they
+)		:ARG0 (c2 / you
+)		:ARG1 (c4 / sound-02
+			:mod (c3 / voice
+)))
+
+# ::id lpp_1943.162
+(c8 / ask-02
+		:ARG1 (c0 / when
+			:ARG1 (c2 / tell-01
+				:ARG0 (c1 / you
+)				:ARG1 (c4 / make-01
+					:ARG1 (c3 / you
+)					:ARG1 (c7 / friend
+						:mod (c5 / new
+)))))		:ARG0 (c9 / you
+)		:ARG1 (c11 / question
+	:ARG0 c9
+			:mod (c10 / any
+)			:topic (c13 / matter
+				:mod (c12 / essential
+)))		:ARG0 (c6 / have-rel-role-91
+	:ARG2 c7
+))
+
+# ::id lpp_1943.161
+(c9 / account
+		:ARG1 (c1 / tell-01
+			:ARG0 (c0 / i
+)			:ARG1 (c3 / detail
+				:ARG0 (c2 / you
+)				:op6 (c4 / asteroid
+))			:ARG1 (c5 / and
+	:op1 c1
+))		:domain (c8 / it
+)		:domain (c10 / grown-up
+)		:ARG1 (c12 / way
+)		:polarity (c11 / and
+)		:ARG0 (c7 / you
+)		:ARG1 (c6 / note-02
+))
+
+# ::id lpp_1943.160
+(c0 / and
+		:op2 (c4 / accept-01
+			:ARG1 (c5 / report-01
+))		:op2 (c3 / everybody
+			:mod (c1 / this
+)			:duration (c2 / time
+)))
+
+# ::id lpp_1943.251
+(c2 / describe-01
+		:ARG0 (c1 / prince
+			:mod (c0 / little
+))		:ARG0 (c3 / i
+)		:ARG1 (c4 / drawing
+			:domain (c6 / planet
+				:mod (c5 / that
+))))
+
+# ::id lpp_1943.250
+(c1 / neglect-01
+		:ARG0 (c0 / he
+)		:ARG1 (c4 / bush
+			:quant (c2 / 3
+)			:mod (c3 / little
+)))
+
+# ::id lpp_1943.253
+(c0 / contrast-01
+		:ARG2 (c17 / reserve-01
+)		:ARG1 (c1 / baobab
+)		:ARG0 (c7 / considerable
+))
+
+# ::id lpp_1943.252
+(c2 / resemble-01
+		:ARG1 (c0 / i
+)		:degree (c1 / much
+)		:ARG1 (c3 / tone
+)		:ARG2 (c4 / moralist
+))
+
+# ::id lpp_1943.255
+(c1 / say-01
+		:ARG0 (c0 / i
+)		:mod (c2 / plainly
+)		:ARG1 (c3 / watch-01
+			:ARG2 (c4 / baobab
+)))
+
+# ::id lpp_1943.254
+(c0 / child
+)
+
+# ::id lpp_1943.257
+(c2 / pass-03
+		:ARG1 (c0 / lesson
+)		:ARG0 (c1 / i
+)		:ARG2 (c4 / mean-01
+			:mod (c3 / this
+))		:ARG1 (c7 / trouble
+			:mod (c6 / all
+)			:domain (c8 / cost-01
+))		:time (c5 / worth
+))
+
+# ::id lpp_1943.256
+(c3 / skirt-01
+		:ARG1-of (c8 / know-01
+			:degree (c7 / ever
+)			:ARG1 (c9 / it
+))		:ARG1 (c11 / and
+)		:ARG1 (c10 / and
+)		:domain (c13 / it
+)		:ARG0 (c15 / work-01
+			:ARG0 (c14 / i
+)			:mod (c17 / hard
+				:degree (c16 / so
+))			:ARG0 (c19 / drawing
+				:mod (c18 / this
+)))		:degree (c12 / so
+)		:ARG0 (c1 / have-rel-role-91
+			:ARG2 (c2 / friend
+))		:ARG0-of (c0 / arrange-01
+)		:duration (c6 / time
+			:mod (c5 / long
+))		:mod (c4 / this
+))
+
+# ::id lpp_1943.259
+(c1 / simple
+		:domain (c0 / reply-01
+))
+
+# ::id lpp_1943.258
+(c0 / possible
+		:domain (c2 / ask-02
+			:ARG0 (c1 / you
+))		:domain (c6 / drawing
+			:location (c3 / there
+)			:polarity (c4 / -
+)			:mod (c5 / other
+	:polarity c4
+)			:ARG2 (c8 / book
+				:mod (c7 / this
+))			:mod (c9 / magnificent
+				:ARG1 (c10 / and
+)				:domain (c11 / impressive
+)				:domain (c13 / drawing
+					:mod (c12 / this
+)					:ARG2 (c14 / baobab
+)))))
+
+# ::id lpp_1943.158
+(c3 / asteroid b
+		:op2 (c12 / change-01
+			:ARG1 (c8 / subject
+)			:ARG1 (c10 / pain-01
+				:location (c9 / under
+)				:domain (c11 / die-01
+))			:ARG1 (c14 / costume
+				:mod (c13 / european
+)))		:ARG1 (c1 / contrast-01
+)		:ARG0 (c2 / reputation
+)		:ARG0 (c0 / fortunately
+)		:ARG0-of (c7 / law
+)		:ARG1-of (c6 / dictator
+)		:ARG2 (c5 / turkish
+)		:ARG2-of (c4 / 612
+))
+
+# ::id lpp_1943.159
+(c9 / and
+		:op1 (c6 / dress-01
+)		:op2 (c10 / elegance
+)		:ARG0 (c2 / give-01
+			:ARG1 (c0 / date-entity :year 1920 
+)			:ARG0 (c1 / astronomer
+)			:ARG1 (c3 / demonstration
+)			:mod (c5 / again
+				:mod (c4 / all
+))	:ARG1 c6
+)		:op1 (c8 / style-01
+)		:op3 (c7 / impressive
+))
+
+# ::id lpp_1943.152
+(c1 / have-03
+		:ARG0 (c0 / i
+)		:ARG1 (c3 / reason-01
+			:mod (c2 / serious
+)			:ARG1 (c4 / believe-01
+				:ARG1 (c10 / asteroid
+					:domain (c5 / that
+)					:domain (c6 / planet
+						:ARG1 (c9 / come-01
+	:ARG1 c6
+							:ARG1 (c8 / prince
+								:mod (c7 / little
+))))					:ARG1 (c11 / know-01
+						:ARG1 (c12 / b
+))					:name (c13 / 612
+)))))
+
+# ::id lpp_1943.153
+(c3 / see-01
+		:ARG1 (c1 / asteroid
+			:mod (c0 / this
+))		:ARG1 (c4 / telescope
+)		:ARG0 (c2 / only
+))
+
+# ::id lpp_1943.150
+(c5 / contrast-01
+		:ARG0 (c3 / it
+)		:ARG1 (c2 / he
+)		:ARG2 (c1 / discover-01
+			:ARG0 (c0 / astronomer
+))		:ARG1 (c4 / name-01
+			:mod (c6 / only
+)))
+
+# ::id lpp_1943.151
+(c2 / call-03
+		:ARG0 (c0 / he
+)		:ARG0 (c1 / possible
+)		:ARG1 (c3 / it
+)		:ARG0 (c4 / asteroid 325
+))
+
+# ::id lpp_1943.156
+(c0 / contrast-01
+		:ARG2 (c3 / costume
+			:ARG0 (c1 / he
+)			:ARG1 (c4 / and
+)			:ARG1 (c5 / so
+)			:ARG1 (c7 / believe-01
+				:ARG1 (c6 / nobody
+)				:ARG1 (c9 / say-01
+					:ARG0 (c8 / he
+))))		:ARG1 (c2 / turkish
+))
+
+# ::id lpp_1943.157
+(c1 / that
+		:mod (c0 / grow-01
+))
+
+# ::id lpp_1943.154
+(c2 / astronomer
+		:domain (c0 / that
+)		:ARG0 (c3 / date-entity :year 1909 
+)		:ARG0-of (c1 / turkish
+))
+
+# ::id lpp_1943.218
+(c0 / contrast-01
+		:ARG2 (c3 / add-01
+			:ARG0 (c2 / prince
+				:mod (c1 / little
+))			:ARG1 (c6 / follow-01
+				:time (c4 / then
+)				:ARG0 (c5 / it
+)				:ARG1 (c8 / eat-01
+					:mod (c7 / also
+)					:ARG1 (c9 / baobab
+))))	:ARG2 c6
+)
+
+# ::id lpp_1943.224
+(c1 / say-01
+		:ARG0 (c0 / i
+))
+
+# ::id lpp_1943.225
+(c0 / contrast-01
+		:ARG2 (c2 / want-01
+			:ARG0 (c1 / you
+)			:ARG1 (c3 / sheep
+)			:ARG1 (c4 / eat-01
+	:ARG0 c3
+				:ARG1 (c6 / baobab
+					:mod (c5 / little
+)))))
+
+# ::id lpp_1943.226
+(c1 / answer-01
+		:ARG0 (c0 / he
+)		:ARG1 (c3 / come-01
+			:ARG1 (c2 / oh
+)			:ARG1 (c4 / come-01
+))		:ARG1 (c6 / speak-01
+			:ARG0 (c5 / he
+)			:ARG1 (c7 / something
+				:mod (c8 / self
+	:ARG0 c7
+)))		:ARG0 (c9 / evident
+))
+
+# ::id lpp_1943.227
+(c0 / and
+		:op2 (c2 / oblige-02
+			:ARG1 (c1 / i
+))		:op2 (c5 / solve-01
+			:ARG1 (c7 / problem
+				:mod (c6 / this
+))			:ARG0 (c9 / assistance
+				:mod (c8 / any
+)))		:ARG0 (c3 / great
+)		:op1 (c4 / mental
+))
+
+# ::id lpp_1943.220
+(c1 / herd-01
+		:ARG1 (c5 / laugh-01
+			:mod (c3 / little
+)			:ARG0 (c4 / prince
+))		:ARG0 (c2 / elephant
+)		:ARG4 (c0 / idea
+))
+
+# ::id lpp_1943.221
+(c6 / say-01
+		:ARG1 (c1 / have-03
+			:ARG0 (c0 / we
+)			:ARG1 (c2 / put-01
+	:ARG0 c0
+))		:ARG0 (c5 / he
+)		:ARG1 (c3 / top
+			:mod (c4 / other
+)))
+
+# ::id lpp_1943.222
+(c0 / contrast-01
+		:ARG2 (c10 / start-01
+			:ARG1 (c6 / grow-01
+				:ARG0 (c4 / before
+)				:ARG0 (c5 / they
+)				:ARG1 (c8 / big
+					:degree (c7 / so
+)))			:ARG1 (c9 / baobab
+)			:mod (c11 / little
+))		:ARG0 (c1 / he
+)		:ARG2 (c3 / comment-01
+			:mod (c2 / wise
+)))
+
+# ::id lpp_1943.223
+(c2 / correct-01
+		:domain (c0 / that
+)		:ARG0 (c1 / strictly
+))
+
+# ::id lpp_1943.228
+(c11 / and
+		:op2 (c6 / live-01
+			:ARG0 (c5 / prince
+				:mod (c4 / little
+))			:location (c10 / plant
+				:domain (c8 / planet
+					:mod (c7 / all
+))				:mod (c9 / good
+)))		:op1 (c3 / planet
+	:mod c6
+			:mod (c13 / plant
+				:mod (c12 / bad
+)))		:op2 (c2 / learn-01
+			:ARG0 (c1 / i
+))		:op3 (c0 / indeed
+))
+
+# ::id lpp_1943.229
+(c5 / and
+		:ARG0 (c2 / seed
+			:mod (c1 / good
+)			:domain (c4 / plant
+				:mod (c3 / good
+))			:time-of (c7 / seed
+				:mod (c6 / bad
+)				:domain (c9 / plant
+					:mod (c8 / bad
+))))		:ARG1 (c0 / consequence
+))
+
+# ::id lpp_1943.147
+(c2 / learn-01
+		:ARG1 (c0 / i
+)		:time (c1 / thus
+)		:ARG0 (c12 / large
+			:domain (c6 / planet
+				:ARG1 (c9 / come-01
+					:ARG1 (c8 / prince
+						:mod (c7 / little
+))))			:degree (c10 / scarce
+)			:mod (c11 / any
+)			:ARG2 (c13 / house
+))		:ARG1 (c4 / important
+			:mod (c3 / great
+))		:ARG0 (c5 / this
+))
+
+# ::id lpp_1943.146
+(c0 / chapter
+		:mod (c1 / 4
+))
+
+# ::id lpp_1943.213
+(c0 / opine-01
+		:ARG1 (c8 / true
+			:domain (c2 / prince
+				:mod (c1 / little
+)				:ARG0-of (c3 / ask-01
+))			:domain (c5 / seize-01
+)			:domain (c7 / it
+)			:ARG1 (c9 / it
+)			:domain (c11 / eat-01
+				:ARG0 (c10 / sheep
+)				:ARG1 (c13 / bush
+					:mod (c12 / little
+))))		:ARG0 (c6 / grave
+)		:ARG0 (c4 / abruptly
+))
+
+# ::id lpp_1943.212
+(c3 / have-03
+		:ARG1 (c1 / time
+			:mod (c0 / this
+))		:ARG0 (c2 / i
+)		:ARG1 (c4 / sheep
+			:ARG1-of (c5 / thank-01
+				:ARG1 (c6 / it
+))))
+
+# ::id lpp_1943.149
+(c1 / know-01
+		:ARG0 (c0 / i
+)		:manner (c3 / well
+			:degree (c2 / very
+))		:ARG0 (c11 / venus
+)		:ARG0 (c15 / also
+)		:ARG1 (c9 / organization
+			:name (n1 / name :op1 "Jupiter" 
+))		:ARG1 (c8 / planet
+			:degree (c7 / such
+)			:name (n2 / name :op1 "Earth" 
+))		:ARG2 (c4 / that
+)		:ARG3 (c21 / time
+			:mod (c20 / hard
+)			:purpose (c22 / see-01
+				:ARG1 (c23 / telescope
+))))
+
+# ::id lpp_1943.148
+(c0 / contrast-01
+		:ARG2 (c3 / surprise-01
+			:ARG1 (c1 / that
+)			:mod (c2 / real
+)			:ARG1 (c4 / much
+)))
+
+# ::id lpp_1943.237
+(c1 / something
+		:ARG0 (c0 / baobab
+)		:mod (c3 / possible
+			:domain (c2 / you
+)			:domain (c4 / rid-01
+	:domain c2
+				:time (c8 / late
+					:degree (c7 / too
+))))		:mod (c6 / attend-01
+			:ARG0 (c5 / you
+)))
+
+# ::id lpp_1943.236
+(c3 / infested
+		:ARG0 (c0 / soil-01
+			:domain (c2 / planet
+				:mod (c1 / that
+))))
+
+# ::id lpp_1943.235
+(c9 / and
+		:op2 (c10 / and
+			:time (c0 / now
+))		:ARG0 (c3 / seed
+			:mod (c1 / some
+)			:mod (c2 / terrible-41
+)			:topic (c4 / planet
+				:ARG1 (c5 / that
+)				:ARG4 (c6 / home
+	:ARG0 c4
+					:ARG0 (c8 / prince
+						:mod (c7 / little
+)))))		:ARG1 (c11 / seed
+			:part-of (c12 / baobab
+)))
+
+# ::id lpp_1943.234
+(c0 / contrast-01
+		:ARG0 (c4 / destroy-01
+			:ARG0 (c3 / plant
+				:domain (c1 / it
+)				:mod (c2 / bad
+))			:ARG1 (c5 / it
+)			:time (c6 / soon
+				:duration (c9 / instant
+					:ARG1 (c7 / possible
+)))			:ARG0 (c10 / recognize-01
+				:ARG1 (c11 / it
+)))		:ARG1 (c8 / very
+))
+
+# ::id lpp_1943.233
+(c8 / let-01
+		:ARG1 (c2 / sprout
+			:ARG0 (c0 / it
+)			:degree (c1 / only
+)			:mod (c3 / radish
+)			:ARG1 (c4 / or
+)			:location (c5 / sprig
+				:poss (c6 / rose
+					:domain (c7 / bush
+))))	:ARG1 c5
+		:ARG1 (c10 / grow-01
+			:ARG0 (c9 / it
+)			:ARG1 (c13 / wish-01
+				:ARG1 (c11 / wherever
+)				:ARG1 (c12 / possible
+	:domain c13
+))))
+
+# ::id lpp_1943.232
+(c4 / stretch-01
+		:time (c0 / then
+)		:time-of (c3 / seed
+			:mod (c1 / this
+)			:mod (c2 / little
+))		:ARG1 (c5 / and
+)		:ARG1 (c6 / begin-01
+	:ARG1 c3
+			:ARG1 (c7 / timidly
+))		:ARG1 (c8 / push-01
+			:ARG1 (c15 / sun
+				:direction (c14 / toward
+)))		:ARG0 (c12 / inoffensively
+			:op1 (c9 / charm-01
+)			:mod (c10 / little
+))		:ARG0-of (c13 / upward
+)		:ARG1 (c11 / sprig
+))
+
+# ::id lpp_1943.231
+(c1 / sleep-01
+		:ARG0 (c0 / they
+)		:manner (c2 / deep
+			:ARG1 (c3 / heart
+				:ARG1 (c5 / darkness
+					:ARG4 (c4 / earth
+))))		:ARG0 (c8 / seize-01
+			:time (c6 / until
+))		:ARG0 (c10 / awaken-01
+)		:polarity (c9 / desire-01
+)		:mod (c7 / some
+))
+
+# ::id lpp_1943.230
+(c0 / contrast-01
+		:ARG0 (c1 / seed
+))
+
+# ::id lpp_1943.239
+(c1 / bore-01
+		:ARG0 (c0 / it
+)		:ARG1 (c3 / root
+)		:ARG1 (c2 / it
+))
+
+# ::id lpp_1943.238
+(c1 / spread-01
+		:ARG0 (c0 / it
+)		:ARG1 (c3 / planet
+			:mod (c2 / entire
+)))
+
+# ::id lpp_1943.202
+(c0 / contrast-01
+)
+
+# ::id lpp_1943.203
+(c2 / explain-01
+		:ARG0 (c1 / friend
+)		:ARG1 (c3 / anything
+)		:ARG0 (c0 / have-rel-role-91
+	:ARG2 c1
+))
+
+# ::id lpp_1943.200
+(c1 / fumble-01
+		:ARG0 (c0 / i
+)		:ARG1 (c7 / good
+			:time (c6 / now
+)			:ARG1 (c9 / bad
+				:time (c8 / now
+)))		:ARG1 (c10 / and
+			:op2 (c12 / hope-01
+				:ARG0 (c11 / i
+)				:ARG1 (c14 / fair
+					:domain (c13 / generally
+)					:domain (c15 / middling
+))))	:ARG1 c12
+		:mod (c2 / good
+			:degree (c3 / most
+				:ARG2 (c5 / possible
+					:ARG0 (c4 / i
+)))))
+
+# ::id lpp_1943.201
+(c0 / certain
+		:domain (c3 / detail
+			:mod (c2 / important
+				:degree (c1 / more
+)))		:ARG0 (c6 / also
+)		:ARG1 (c5 / mistake
+)		:ARG2 (c4 / i
+))
+
+# ::id lpp_1943.206
+(c0 / possible
+		:ARG0 (c3 / grown-up
+)		:ARG1 (c2 / little
+			:domain (c1 / i
+)))
+
+# ::id lpp_1943.207
+(c1 / grow-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / old
+))
+
+# ::id lpp_1943.204
+(c1 / think-01
+		:ARG0 (c0 / he
+)		:mod (c2 / perhaps
+)		:ARG1 (c3 / that
+)		:ARG0 (c4 / i
+))
+
+# ::id lpp_1943.205
+(c0 / contrast-01
+		:ARG2 (c3 / know-01
+			:ARG0 (c1 / i
+)			:ARG1 (c4 / see-01
+				:ARG1 (c5 / sheep
+)				:ARG1 (c6 / wall
+					:ARG1 (c7 / box
+))))		:ARG1 (c2 / ala
+))
+
+# ::id lpp_1943.208
+(c0 / chapter
+		:mod (c1 / 5
+))
+
+# ::id lpp_1943.209
+(c9 / planet
+		:mod (c2 / pass-01
+			:ARG1 (c1 / day
+				:mod (c0 / each
+))			:ARG1 (c4 / learn-01
+				:ARG0 (c3 / i
+)))		:mod (c5 / talk-01
+)		:domain (c6 / something
+			:part-of (c8 / prince
+				:mod (c7 / little
+)))		:time-of (c10 / depart-01
+			:ARG1 (c11 / it
+))		:mod (c12 / journey-01
+))
+
+# ::id lpp_1943.192
+(c0 / and
+		:op2 (c4 / possible
+			:domain (c5 / become-01
+				:ARG1 (c2 / forget-01
+					:ARG0 (c1 / i
+))				:ARG0 (c3 / i
+)	:ARG1 c4
+				:ARG1 (c6 / grown-up
+)))		:ARG0 (c8 / interest-01
+			:ARG1 (c9 / anything
+)			:ARG1 (c10 / contrast-01
+)			:ARG1 (c11 / figure
+))		:ARG1 (c7 / -
+))
+
+# ::id lpp_1943.288
+(c0 / contrast-01
+		:ARG2 (c4 / reply-01
+			:polarity (c3 / -
+))		:ARG0 (c2 / prince
+			:mod (c1 / little
+)))
+
+# ::id lpp_1943.282
+(c0 / contrast-01
+		:ARG2 (c9 / move-01
+			:ARG1 (c2 / planet
+				:mod (c1 / tiny
+))			:ARG1 (c4 / prince
+				:mod (c3 / little
+)				:mod (c8 / do-02
+					:ARG1 (c5 / all
+)					:ARG0 (c6 / you
+)					:ARG0 (c7 / need-01
+	:ARG0 c6
+)))			:ARG1 (c10 / chair
+)			:ARG1 (c12 / step-01
+				:mod (c11 / few
+))))
+
+# ::id lpp_1943.283
+(c1 / possible
+		:domain (c2 / see-01
+			:ARG0 (c0 / you
+)			:ARG1 (c7 / fall-01
+				:ARG0 (c4 / end-01
+					:time (c3 / day
+)					:ARG1 (c5 / and
+)					:ARG1 (c6 / twilight
+))	:ARG1 c6
+				:ARG1 (c9 / like-02
+					:ARG0 (c8 / you
+)))))
+
+# ::id lpp_1943.280
+(c1 / possible
+		:domain (c2 / fly-01
+			:ARG0 (c0 / you
+)			:manner (c3 / country
+				:name (n0 / name :op1 "France" 
+))			:destination (c5 / minute
+))		:domain (c8 / go-02
+	:ARG1 c2
+			:ARG0 (c6 / you
+)			:ARG0 (c7 / possible
+	:domain c2
+	:domain c8
+)			:ARG1 (c10 / sunset
+				:poss (c9 / straight
+)				:mod (c11 / right
+)				:poss (c12 / noon
+)))		:domain (c4 / temporal-quantity
+	:unit c5
+))
+
+# ::id lpp_1943.281
+(c4 / that
+		:mod (c0 / country
+			:name (n0 / name :op1 "France" 
+))		:direction (c3 / away
+			:degree (c1 / too
+)			:ARG1 (c2 / far
+)))
+
+# ::id lpp_1943.286
+(c2 / sad
+		:degree (c1 / so
+)		:domain (c0 / you
+			:time (c3 / then
+)))
+
+# ::id lpp_1943.287
+(c1 / ask-01
+		:ARG0 (c0 / i
+)		:ARG1 (c2 / day
+)		:ARG0 (c4 / sunset
+			:quant (c3 / 4
+)))
+
+# ::id lpp_1943.284
+(c6 / see-01
+		:ARG1 (c4 / say-01
+			:ARG1 (c2 / day
+				:ARG1 (c0 / one
+))			:ARG0 (c3 / you
+))		:ARG0 (c5 / i
+)		:ARG0 (c8 / 4
+)		:ARG1 (c1 / temporal-quantity
+	:unit c2
+)		:ARG0 (c7 / sunset
+))
+
+# ::id lpp_1943.285
+(c0 / and
+		:op2 (c4 / add-01
+			:ARG1 (c2 / late
+				:degree (c1 / little
+))			:ARG0 (c3 / you
+)			:ARG1 (c6 / know-01
+	:ARG0 c3
+				:ARG0 (c5 / you
+))			:ARG1 (c7 / love-01
+				:ARG1 (c8 / sunset
+					:mod (c10 / sad
+						:degree (c9 / so
+)))))	:op2 c7
+)
+
+# ::id lpp_1943.196
+(c0 / contrast-01
+		:ARG2 (c3 / sure
+			:domain (c1 / i
+)			:quant (c2 / all
+))		:ARG1 (c4 / success
+))
+
+# ::id lpp_1943.197
+(c2 / go-01
+		:ARG1 (c1 / drawing
+			:ARG1 (c0 / one
+))		:ARG1 (c5 / and
+)		:ARG1 (c8 / resemblance
+			:polarity (c7 / -
+)			:ARG1 (c9 / subject
+))		:direction (c3 / all
+)		:purpose (c6 / another
+)		:ARG4 (c4 / right
+))
+
+# ::id lpp_1943.194
+(c1 / hard
+		:ARG1 (c0 / it
+)		:op1 (c16 / 6
+			:time (c14 / since
+)			:ARG0 (c15 / i
+))		:ARG1 (c2 / draw-01
+			:mod (c3 / again
+)			:ARG2 (c4 / age-01
+				:ARG1-of (c6 / make-01
+					:ARG0 (c5 / i
+)					:ARG1 (c8 / picture
+						:mod (c7 / any
+))					:ARG3 (c10 / outside
+						:ARG1 (c11 / and
+	:op1 c6
+))					:ARG1 (c12 / constrictor
+)					:ARG1 (c13 / inside
+))))		:ARG0 (c9 / constrictor
+))
+
+# ::id lpp_1943.195
+(c2 / try-01
+		:ARG0 (c0 / i
+)		:mod (c1 / certain
+)		:ARG1 (c4 / true
+			:domain (c3 / portrait
+))		:ARG0 (c5 / possible
+))
+
+# ::id lpp_1943.219
+(c7 / contrast-01
+		:ARG2 (c1 / pointed
+			:ARG0 (c0 / i
+)			:ARG1 (c3 / prince
+				:mod (c2 / little
+))			:ARG1 (c6 / bush
+				:domain (c4 / baobab
+)				:mod (c5 / little
+)				:ARG1 (c8 / contrary-41
+					:ARG2 (c9 / tree
+						:mod (c10 / big
+)))				:ARG1 (c13 / and
+	:op2 c1
+)				:domain (c23 / eat-01
+					:ARG1 (c14 / that
+)					:ARG1 (c17 / take-01
+						:mod (c15 / even
+)						:ARG0 (c16 / he
+)						:ARG1 (c19 / herd-01
+							:mod (c18 / whole
+)))					:ARG1 (c22 / herd-01
+)					:ARG1 (c25 / baobab
+						:mod (c24 / single
+))))	:ARG1 c8
+	:ARG1 c23
+)		:ARG2 (c12 / and
+)		:ARG1 (c11 / castle
+)		:ARG0 (c20 / elephant
+)		:ARG0 (c21 / away
+))
+
+# ::id lpp_1943.193
+(c2 / purpose-01
+		:ARG1 (c0 / it
+)		:mod (c1 / that
+)		:mod (c3 / again
+)		:domain (c6 / buy-01
+	:ARG1 c0
+			:ARG1 (c4 / that
+)			:ARG1 (c5 / i
+)			:ARG1 (c7 / box
+				:poss (c8 / paint
+					:ARG1 (c9 / and
+)					:ARG1 (c11 / pencil
+						:mod (c10 / some
+)))	:poss c11
+)))
+
+# ::id lpp_1943.190
+(c3 / sad
+		:domain (c0 / forget-01
+			:ARG1 (c2 / friend
+))		:domain (c1 / have-rel-role-91
+	:ARG2 c2
+))
+
+# ::id lpp_1943.191
+(c0 / have-03
+		:ARG1 (c2 / friend
+)		:ARG1 (c1 / have-rel-role-91
+	:ARG2 c2
+))
+
+# ::id lpp_1943.215
+(c0 / ah
+)
+
+# ::id lpp_1943.214
+(c1 / true
+		:domain (c0 / that
+))
+
+# ::id lpp_1943.217
+(c1 / understand-01
+		:ARG0 (c0 / i
+)		:ARG1 (c3 / important
+			:degree (c2 / so
+)			:degree (c5 / eat-01
+				:ARG0 (c4 / sheep
+)				:ARG1 (c7 / bush
+					:mod (c6 / little
+)))))
+
+# ::id lpp_1943.216
+(c1 / glad
+		:ARG1 (c0 / i
+))
+
+# ::id lpp_1943.211
+(c2 / way
+		:domain (c0 / it
+)		:mod (c1 / this
+)		:ARG1 (c4 / hear-01
+			:ARG0 (c3 / i
+)			:ARG1 (c5 / day
+)			:ARG1 (c6 / catastrophe
+				:ARG2 (c7 / baobab
+))))
+
+# ::id lpp_1943.210
+(c1 / come-01
+		:ARG1 (c0 / information
+)		:direction (c3 / slow
+			:degree (c2 / very
+))		:ARG1 (c5 / possible
+			:domain (c4 / it
+)			:domain (c6 / chance
+)			:domain (c7 / fall-01
+)))
+
+# ::id lpp_1943.198
+(c11 / and
+		:op2 (c14 / short
+			:domain (c8 / he
+)			:mod (c12 / another
+)			:degree (c13 / too
+))		:op2 (c10 / tall
+			:ARG4 (c7 / place
+)	:domain c8
+			:degree (c9 / too
+)	:duration c14
+)		:op1 (c2 / error
+			:mod (c1 / some
+))		:ARG0 (c3 / too
+)		:ARG1 (c0 / i
+)		:op3 (c6 / height
+			:poss (c5 / prince
+				:mod (c4 / little
+))))
+
+# ::id lpp_1943.199
+(c2 / feel-01
+		:ARG1 (c0 / and
+)		:ARG0 (c1 / i
+)		:ARG1 (c4 / doubt
+			:mod (c3 / some
+))		:ARG1 (c5 / color
+			:poss (c6 / costume
+)))
+
+# ::id lpp_1943.155
+(c3 / present-01
+		:ARG1 (c0 / make-02
+			:ARG1 (c1 / discover-01
+))		:ARG1 (c2 / astronomer
+)		:ARG1 (c4 / it
+)		:ARG1 (c5 / organization
+			:name (n0 / name :op1 "International" :op2 "Astronomical" :op3 "Congress" 
+))		:ARG1 (c7 / demonstration
+			:mod (c6 / great
+)))
+

@@ -1,0 +1,68 @@
+lpp_1943.1383
+ALERT : NO ROOT FOUND
+Error1
+lpp_1943.370
+ALERT : NO ROOT FOUND
+lpp_1943.337
+ALERT : NO ROOT FOUND
+lpp_1943.1518
+ALERT : NO ROOT FOUND
+0 5912
+ARG1 	1300
+ARG0 	1265
+mod 	773
+ARG2 	369
+domain 	252
+op1 	231
+op2 	225
+time 	225
+degree 	183
+ARG1-of 	137
+poss 	105
+manner 	103
+location 	102
+quant 	79
+direction 	54
+purpose 	51
+ARG0-of 	48
+part-of 	47
+condition 	43
+polarity 	38
+ARG3 	21
+compared-to 	21
+consist-of 	19
+ARG4 	19
+duration 	18
+op3 	17
+extent 	14
+frequency 	13
+location-of 	12
+instrument 	12
+beneficiary 	12
+topic 	11
+ARG2-of 	11
+destination 	8
+concession 	8
+source-of 	7
+domain-of 	7
+op4 	5
+source 	5
+accompanier 	5
+subevent-of 	4
+path 	4
+part 	3
+time-of 	3
+op5 	2
+ARG3-of 	2
+op6 	2
+duration-of 	2
+condition-of 	2
+ARG4-of 	2
+concession-of 	2
+conj-as-if 	2
+ARG5 	2
+quant-of 	1
+op1-of 	1
+poss-of 	1
+purpose-of 	1
+example 	1

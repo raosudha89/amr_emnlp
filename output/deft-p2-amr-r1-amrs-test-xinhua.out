@@ -1,0 +1,1544 @@
+# ::id nw.chtb_0302.6
+(c1 / say-01
+		:ARG2 (c0 / he
+)		:time (c8 / accelerate-01
+			:degree (c4 / year
+				:mod (c2 / recent
+))			:domain (c5 / develop-02
+				:ARG1 (c7 / economy
+					:time (c6 / country
+						:name (n1 / name :op1 "China" 
+)))))		:time (c9 / and
+)		:time (c14 / feel-01
+			:ARG0 (c11 / govern-01
+				:ARG2 (c12 / and
+))			:ARG1 (c16 / happy
+				:domain (c15 / extreme
+)))		:ARG0 (c10 / government-organization
+	:wiki c11
+)		:ARG1 (c3 / temporal-quantity
+	:unit c4
+)		:ARG1 (c13 / country
+			:name (n0 / name :op1 "Thailand" 
+)))
+
+# ::id nw.chtb_0302.7
+(c1 / say-01
+		:ARG2 (c0 / he
+)		:time (c3 / agree-01
+			:ARG2 (c2 / he
+)			:time (c5 / opine-01
+				:ARG0 (c4 / person
+					:name (n2 / name :op1 "Huaqing" :op2 "Liu" 
+)))			:ARG1 (c11 / develop-02
+				:ARG0 (c6 / country
+					:ARG2 (c7 / and
+)					:name (n1 / name :op1 "Thailand" 
+))				:ARG0 (c8 / country
+					:name (n0 / name :op1 "China" 
+))				:mod (c9 / recommend-01
+)				:ARG1 (c10 / further
+)				:ARG1 (c13 / form
+					:mod (c12 / various
+)					:ARG1 (c14 / economy
+						:time (c15 / and
+)						:time (c17 / cooperate-01
+							:topic (c16 / trade-01
+)))	:ARG1 c17
+))))
+
+# ::id nw.chtb_0324.1
+(c0 / byline-91
+		:ARG0 (c3 / report-01
+)		:ARG1 (c2 / 9
+)		:ARG1 (c1 / country
+			:name (n0 / name :op1 "Rome" 
+))		:ARG4 (c4 / person
+			:ARG1 (c5 / and
+)			:name (n1 / name :op1 "Aiguo" :op2 "Yang" 
+))		:ARG0 (c6 / changrui huang
+))
+
+# ::id nw.chtb_0324.2
+(c6 / hold-04
+		:time (c0 / 1
+)		:time (c4 / preliminary
+			:unit (c1 / meter
+)			:topic (c2 / dive-01
+))		:time (c7 / here
+)		:time (c9 / morning
+			:mod (c8 / this
+))		:ARG1 (c3 / board-01
+)		:time (c5 / seventh world swimming championship
+))
+
+# ::id nw.chtb_0324.3
+(c8 / final
+		:ARG1 (c6 / qualify-02
+)		:poss (c2 / person
+			:ARG1 (c3 / and
+)			:name (n0 / name :op1 "Lan" :op2 "Wei" 
+))		:ARG0 (c0 / country
+			:name (n1 / name :op1 "China" 
+))		:ARG0 (c4 / person
+			:name (n2 / name :op1 "Sheng" :op2 "Chen" 
+))		:ARG0-of (c7 / semi
+)		:ARG1-of (c1 / competitor
+)		:mod (c5 / both
+))
+
+# ::id nw.chtb_0324.4
+(c11 / occupy-01
+		:ARG0 (c0 / preliminary
+)		:ARG0 (c1 / person
+			:mod (c5 / old
+				:time (c7 / year
+					:mod (c6 / this
+)))			:name (n1 / name :op1 "Wei" :op2 "Lan" 
+))		:ARG1 (c13 / position
+			:mod (c12 / lead-02
+))		:ARG0 (c15 / score-01
+			:mod (c14 / total-01
+)			:ARG0-of (c17 / point-out-02
+				:time (c16 / 355.35
+)))		:ARG0 (c10 / skill
+			:mod (c9 / outstanding
+))		:ARG1 (c8 / province
+			:name (n0 / name :op1 "Guangdong" 
+))		:ARG1-of (c3 / temporal-quantity
+			:unit (c4 / year
+				:quant (c2 / 26
+))))
+
+# ::id nw.chtb_0324.5
+(c11 / position
+		:mod (c0 / person
+			:mod (c4 / old
+				:time (c6 / year
+					:mod (c5 / this
+)))			:name (n0 / name :op1 "Sheng" :op2 "Chen" 
+))		:mod (c9 / temporarily
+)		:mod (c10 / sixth
+)		:mod (c13 / score-01
+			:mod (c12 / total-01
+)			:ARG0-of (c15 / point-out-02
+				:time (c14 / 342.60
+)))		:mod (c7 / name
+			:op1 (c8 / "Hubei"
+))		:ARG0 (c1 / 19
+)		:ARG1 (c2 / temporal-quantity
+			:unit (c3 / year
+)))
+
+# ::id nw.chtb_0324.6
+(c5 / person
+		:ARG1 (c11 / low-04
+			:time (c10 / slightly
+)			:time (c12 / person
+				:name (n0 / name :op1 "Wei" :op2 "Lan" 
+)))		:name (n2 / name :op1 "Bao" :op2 "Lizuo" 
+)		:name (c7 / score-01
+			:mod (c6 / total-01
+)			:ARG0-of (c9 / point-out-02
+				:time (c8 / 355.02
+)))		:poss (c3 / country
+			:name (n1 / name :op1 "Germany" 
+))		:ARG0-of (c4 / athlete
+))
+
+# ::id nw.chtb_0324.7
+(c8 / point-out-02
+		:time (c7 / 354.39
+)		:ARG1 (c2 / person
+			:name (n0 / name :op1 "Si" :op2 "Aiwan" 
+))		:ARG0 (c1 / country
+			:name (n1 / name :op1 "Zimbabwe" 
+))		:ARG0 (c6 / score-01
+			:mod (c5 / total-01
+)))
+
+# ::id nw.chtb_0324.8
+(c8 / say-01
+		:ARG0 (c1 / compete-02
+			:time (c0 / after
+))		:ARG0 (c4 / coach-01
+			:mod (c2 / chief
+)			:ARG2 (c7 / team
+				:mod (c5 / country
+					:name (n1 / name :op1 "China" 
+))				:mod (c6 / dive-01
+)))		:time (c9 / report-01
+)		:ARG1 (c12 / nervous
+			:time (c13 / today
+))		:ARG0 (c10 / person
+			:name (n0 / name :op1 "Sheng" :op2 "Chen" 
+))		:ARG1 (c3 / person
+	:quant c4
+)		:ARG1 (c11 / little
+))
+
+# ::id nw.chtb_0324.9
+(c2 / say-01
+		:ARG2 (c0 / he
+)		:mod (c1 / also
+)		:time (c5 / use-01
+			:mod (c3 / athlete
+)			:mod (c4 / very
+))		:ARG1 (c8 / sunlight
+			:ARG1-of (c7 / strong-02
+))		:ARG0 (c6 / compete-02
+))
+
+# ::id nw.chtb_0322.18
+(c7 / dollar
+		:domain (c1 / money
+			:ARG1 (c0 / prize
+)			:ARG1 (c2 / compete-02
+))		:ARG0 (c4 / time
+			:mod (c3 / this
+))		:ARG1 (c8 / team
+			:mod (c10 / get-01
+				:ARG1-of (c9 / win-01
+)))		:consist-of (c19 / monetary-quantity
+			:unit (c20 / dollar
+))		:ARG0 (c18 / country
+			:name (n1 / name :op1 "US" 
+))		:ARG1 (c12 / monetary-quantity
+			:unit (c13 / dollar
+))		:ARG2 (c11 / country
+			:name (n0 / name :op1 "US" 
+))		:ARG3 (c6 / monetary-quantity
+	:unit c7
+)		:ARG4 (c17 / 30,000
+)		:ARG5 (c16 / get-01
+			:ARG0 (c14 / team
+				:mod (c15 / lose-01
+	:ARG0 c14
+)))		:ARG6 (c5 / country
+			:name (n2 / name :op1 "US" 
+)))
+
+# ::id nw.chtb_0322.19
+(c0 / end-01
+)
+
+# ::id nw.chtb_0322.14
+(c1 / win-01
+		:time (c0 / fengzhu xu
+)		:ARG1 (c3 / championship
+			:quant (c2 / many
+))		:time (c6 / before
+)		:ARG0 (c5 / competition
+			:mod (c4 / international
+)))
+
+# ::id nw.chtb_0322.15
+(c1 / achieve-01
+		:ARG2 (c0 / he
+)		:time (c3 / victory
+			:ARG1-of (c2 / complete-02
+))		:time (c5 / game
+)		:ARG1 (c8 / player
+)		:time (c9 / before
+)		:ARG1 (c6 / country
+			:name (n0 / name :op1 "China" 
+))		:ARG0 (c7 / go
+)		:time (c4 / 9
+))
+
+# ::id nw.chtb_0322.16
+(c5 / shift-01
+		:ARG0 (c1 / team
+			:mod (c0 / go
+)			:mod (c2 / country
+				:ARG2 (c3 / and
+)				:name (n1 / name :op1 "China" 
+))			:mod (c4 / country
+				:name (n3 / name :op1 "Korea" 
+)))		:time (c8 / and
+)		:ARG1 (c9 / hold-04
+	:ARG0 c1
+			:ARG1 (c10 / compete-02
+				:ARG1-of (c11 / organization
+					:name (n0 / name :op1 "Le" :op2 "Tian" :op3 "Hotel" 
+))))		:ARG0 (c6 / country
+			:name (n2 / name :op1 "Seoul" 
+))		:ARG0-of (c7 / 9
+))
+
+# ::id nw.chtb_0322.17
+(c14 / determine-01
+		:time (c0 / rule
+			:ARG1 (c1 / discuss-01
+				:ARG2 (c2 / and
+)				:time (c3 / agree-01
+)				:time (c5 / side
+					:mod (c4 / both
+)					:part-of (c8 / draw-01
+						:ARG0 (c7 / team
+							:quant (c6 / 2
+))						:quant (c9 / 7
+)))				:time (c10 / 7
+))	:ARG1 c3
+)		:time (c13 / result-01
+			:time (c11 / then
+)			:time (c12 / final
+))		:time (c15 / result-01
+			:ARG2 (c16 / compete-02
+				:ARG1-of (c17 / organization
+					:ARG1 (c19 / team
+						:mod (c18 / country
+							:name (n0 / name :op1 "China" 
+)))					:ARG2 (c20 / and
+)					:name (n1 / name :op1 "Weiping" :op2 "Nie" 
+))				:ARG1-of (c21 / person
+					:ARG1 (c23 / team
+						:mod (c22 / korean
+))					:name (n2 / name :op1 "Xunxuan" :op2 "Cao" 
+)))))
+
+# ::id nw.chtb_0322.10
+(c3 / achieve-01
+		:ARG0 (c0 / changhao li
+			:ARG1 (c1 / and
+))		:ARG0 (c2 / organization
+			:name (n0 / name :op1 "Changhe" :op2 "Liu" 
+))		:ARG1 (c4 / victory
+			:ARG1 (c5 / advantage
+				:quant (c6 / 6
+					:ARG1 (c7 / and
+)					:ARG1 (c9 / and
+))				:quant (c8 / mu
+)				:quant (c10 / seven
+)				:time (c11 / and
+)				:quant (c12 / mu
+)))		:time (c13 / respective
+))
+
+# ::id nw.chtb_0322.11
+(c7 / present-01
+		:ARG0 (c4 / lead-02
+			:ARG2 (c6 / delegation
+				:mod (c5 / country
+					:name (n2 / name :op1 "China" 
+))))		:ARG0 (c13 / stronger
+			:ARG1 (c15 / team
+				:mod (c14 / country
+					:name (n0 / name :op1 "China" 
+))))		:ARG0 (c9 / speak-01
+			:mod (c8 / overall
+)			:ARG2 (c10 / strength
+				:ARG2 (c12 / team
+					:mod (c11 / korean
+))))		:ARG0 (c2 / interview
+			:ARG1-of (c0 / report-01
+)			:quant-of (c1 / telephone
+))		:ARG1 (c3 / person
+			:name (n1 / name :op1 "Runan" :op2 "Wang" 
+)))
+
+# ::id nw.chtb_0322.12
+(c2 / perform-02
+		:ARG0 (c1 / team
+			:mod (c0 / country
+				:name (n0 / name :op1 "China" 
+)))		:ARG1 (c3 / good
+)		:time (c4 / today
+)		:ARG1 (c5 / and
+)		:ARG1 (c6 / achieve-01
+	:ARG0 c1
+			:ARG1 (c7 / victory
+)))
+
+# ::id nw.chtb_0322.13
+(c5 / outstanding
+		:op2 (c0 / perform-02
+			:ARG2 (c2 / competitor
+))		:mod (c4 / especially
+)		:time (c6 / today
+)		:ARG0 (c8 / fengzhu xu
+			:ARG1 (c10 / team
+				:mod (c9 / korean
+)				:subevent-of (c12 / game
+					:location (c11 / middle
+))))		:poss (c3 / person
+			:name (n0 / name :op1 "Hao" :op2 "Chang" 
+))		:ARG0-of (c1 / young
+)		:ARG1 (c7 / defeat-01
+))
+
+# ::id nw.chtb_0325.5
+(c0 / occupy-01
+		:ARG1 (c1 / position
+)		:ARG0 (c3 / competitor
+)		:ARG0 (c2 / country
+			:name (n0 / name :op1 "US" 
+))		:ARG1 (c4 / person
+			:name (n1 / name :op1 "Richard" 
+)))
+
+# ::id nw.chtb_0325.4
+(c6 / sight-01
+		:mod (c2 / hope-01
+			:time (c3 / enter-01
+				:ARG1 (c4 / heat-01
+)))		:time (c5 / already
+)		:ARG0 (c1 / occur-01
+)		:ARG0-of (c0 / accident
+))
+
+# ::id nw.chtb_0302.2
+(c18 / say-01
+		:ARG0 (c0 / meet-03
+			:time (c1 / person
+				:mod (c2 / vice
+)				:name (n4 / name :op1 "Chavalit" :op2 "Yoncayu" 
+))			:time (c12 / today
+))		:ARG0 (c13 / person
+			:mod (c14 / vice
+)			:name (n1 / name :op1 "Huaqing" :op2 "Liu" 
+))		:ARG1 (c24 / friendship
+			:mod (c23 / develop-02
+)			:ARG1 (c31 / economy
+				:time (c30 / especially
+))			:ARG1 (c32 / and
+)			:ARG1 (c34 / cooperate-01
+				:topic (c33 / trade-01
+)				:ARG1 (c36 / country
+					:mod (c35 / 2
+))))		:ARG0 (c10 / country
+			:name (n3 / name :op1 "Thailand" 
+))		:ARG1 (c19 / country
+			:name (n0 / name :op1 "China" 
+))		:ARG2 (c11 / organization
+			:name (n2 / name :op1 "Diaoyutai" :op2 "State" :op3 "Guesthouse" 
+))		:ARG0 (c17 / have-org-role-91_government-organization_name_"Central"_"Military"_"Commission"
+)		:ARG3 (c15 / have-org-role-91
+			:ARG2 (c16 / chairman
+))		:time (c9 / domestic affairs
+)		:ARG4 (c7 / have-org-role-91
+			:op1 (c8 / minister
+))		:ARG5 (c3 / have-org-role-91
+			:ARG2 (c4 / premier
+				:ARG2 (c5 / and
+)))		:location (c6 / concurrent-02
+)		:medium (c21 / deal-01
+			:mod (c20 / great
+)			:ARG2 (c22 / importance
+))		:ARG6 (c25 / government-organization
+			:wiki (c26 / govern-01
+				:ARG2 (c27 / and
+)))		:mod (c28 / armed forces
+)		:ARG7 (c29 / country
+			:name (n5 / name :op1 "Thailand" 
+)))
+
+# ::id nw.chtb_0302.3
+(c1 / say-01
+		:ARG0 (c0 / person
+			:name (n1 / name :op1 "Huaqing" :op2 "Liu" 
+))		:time (c13 / friendly
+			:ARG0 (c8 / relation-03
+				:ARG1 (c10 / country
+					:mod (c9 / 2
+)))			:mod (c11 / also
+)			:mod (c12 / very
+))		:ARG1 (c2 / country
+			:ARG2 (c3 / and
+)			:name (n0 / name :op1 "China" 
+))		:ARG0 (c14 / too
+)		:ARG0 (c4 / country
+			:name (n2 / name :op1 "Thailand" 
+))		:ARG1 (c7 / and
+)		:time (c6 / friendship
+			:mod (c5 / tradition
+)))
+
+# ::id nw.chtb_0302.4
+(c1 / say-01
+		:ARG2 (c0 / he
+)		:time (c19 / beneficial
+			:purpose (c3 / visit-01
+				:mod (c2 / this
+)				:time (c4 / vice
+)				:ARG1 (c7 / chavalit
+					:ARG2 (c8 / and
+)					:ARG1 (c10 / visit-01
+						:mod (c9 / mutual
+))					:ARG1 (c12 / high-02
+						:mod (c11 / other
+)))	:ARG1 c10
+				:ARG1 (c15 / lead-02
+					:ARG4 (c13 / level
+))				:mod (c17 / and
+)				:ARG1 (c18 / country
+					:name (n0 / name :op1 "Thailand" 
+)))			:op3 (c20 / promote-02
+				:ARG1 (c22 / develop-02
+					:mod (c21 / further
+)					:ARG1 (c23 / relationship
+						:time (c24 / and
+)						:ARG1 (c26 / cooperate-01
+							:mod (c25 / efficient
+)))	:time c26
+)				:time (c28 / field
+					:mod (c27 / all
+)					:ARG1 (c30 / country
+						:mod (c29 / 2
+)))))		:ARG0 (c14 / person
+	:quant c15
+)		:ARG1 (c16 / country
+			:name (n1 / name :op1 "China" 
+))		:ARG1 (c5 / have-org-role-91
+			:ARG2 (c6 / premier
+)))
+
+# ::id nw.chtb_0302.5
+(c1 / say-01
+		:ARG0 (c0 / chavalit
+)		:time (c4 / happy
+			:domain (c2 / he
+)			:domain (c3 / extreme
+)			:ARG1 (c5 / meet-01
+	:ARG2 c2
+				:ARG1 (c6 / vice
+)))		:ARG1 (c9 / liu
+)		:ARG0 (c7 / have-org-role-91
+			:ARG2 (c8 / chairman
+)))
+
+# ::id nw.chtb_0322.8
+(c9 / defeat-01
+		:ARG0 (c19 / team
+			:mod (c18 / country
+				:name (n0 / name :op1 "China" 
+)))		:ARG0-of (c13 / xiaocun ma
+)		:mod (c12 / level
+)		:ARG1 (c11 / liu
+)		:ARG1-of (c10 / jing
+)		:op4 (c17 / level
+)		:ARG2 (c16 / jianhong wang
+)		:example (c15 / and
+)		:op1 (c14 / level
+)		:ARG0 (c8 / team
+			:mod (c7 / korean
+))		:op2 (c3 / level
+)		:ARG2-of (c2 / changhao li
+)		:op3 (c1 / level
+)		:ARG3 (c0 / xunxuan cao
+)		:ARG4 (c6 / level
+)		:ARG3-of (c5 / changhe liu
+)		:topic (c4 / and
+)		:ARG1 (c20 / respective
+))
+
+# ::id nw.chtb_0325.2
+(c26 / sight-01
+		:ARG1 (c0 / perform-02
+			:ARG1 (c2 / competitor
+				:ARG1 (c5 / team
+					:mod (c3 / country
+						:name (n2 / name :op1 "China" 
+))					:mod (c4 / dive-01
+)					:mod (c6 / person
+						:name (n3 / name :op1 "Mingxia" :op2 "Fu" 
+))					:ARG2 (c7 / and
+)					:mod (c8 / person
+						:name (n1 / name :op1 "Bin" :op2 "Chi" 
+)))				:mod (c13 / platform
+					:unit (c12 / meter
+))				:ARG1 (c23 / hope-01
+					:time (c24 / enter-01
+						:ARG1 (c25 / heat-01
+)))))		:ARG0 (c21 / ideal
+			:domain (c16 / compete-02
+				:topic (c14 / dive-01
+)				:mod (c15 / preliminary
+)				:manner (c17 / organization
+					:name (n0 / name :op1 "Seventh" :op2 "World" :op3 "Swimming" :op4 "Championships" 
+))				:ARG1 (c18 / hold-04
+					:time (c19 / here
+)					:time (c20 / today
+))))		:ARG0-of (c10 / round
+			:quant (c9 / 6
+)			:quant (c11 / 10
+)	:mod c13
+			:time (c22 / and
+)	:ARG1 c23
+)		:ARG1 (c1 / female
+))
+
+# ::id nw.chtb_0322.6
+(c5 / achieve-01
+		:ARG0 (c0 / organization
+			:ARG1 (c2 / and
+)			:name (n2 / name :op1 "Weiping" :op2 "Nie" 
+))		:ARG0 (c1 / organization
+			:name (n1 / name :op1 "Xiaoguang" :op2 "Liu" 
+))		:ARG0 (c3 / person
+			:name (n0 / name :op1 "Hao" :op2 "Chang" 
+))		:mod (c4 / both
+)		:ARG1 (c6 / victory
+)		:time (c8 / game
+			:location (c7 / middle
+)))
+
+# ::id nw.chtb_0322.7
+(c1 / achieve-01
+		:ARG0 (c0 / dayuan cao
+)		:ARG1 (c2 / victory
+)		:time (c3 / advantage
+			:quant (c4 / seven
+)			:ARG2 (c5 / and
+)			:quant (c6 / mu
+))	:time c6
+)
+
+# ::id nw.chtb_0322.4
+(c3 / side
+		:mod (c2 / both
+)		:mod (c7 / player
+			:quant (c5 / 7
+)			:ARG1 (c8 / participate-01
+))		:part-of (c1 / today
+)		:ARG0 (c0 / compete-02
+)		:ARG1 (c6 / go
+)		:ARG2 (c4 / each
+))
+
+# ::id nw.chtb_0322.5
+(c0 / person
+		:ARG1 (c10 / team
+			:mod (c9 / country
+				:name (n2 / name :op1 "China" 
+)))		:name (n4 / name :op1 "Weiping" :op2 "Nie" 
+)		:name (c19 / xuange lin
+)		:ARG0 (c18 / and
+)		:ARG0-of (c13 / level
+)		:ARG1-of (c12 / organization
+			:name (n0 / name :op1 "Guibing" :op2 "Cui" 
+))		:ARG2-of (c11 / defeat-01
+)		:mod (c17 / level
+)		:quant (c16 / fengzhu xu
+)		:location (c15 / level
+)		:poss (c14 / person
+			:name (n1 / name :op1 "Xiuying" :op2 "Zhang" 
+))		:ARG1 (c8 / level
+)		:ARG2 (c3 / level
+)		:ARG3 (c2 / person
+			:name (n3 / name :op1 "Xiaoguang" :op2 "Liu" 
+))		:ARG4 (c1 / level
+)		:ARG5 (c7 / person
+			:name (n5 / name :op1 "Dayuan" :op2 "Cao" 
+))		:ARG6 (c6 / and
+)		:ARG7 (c5 / level
+)		:ARG8 (c4 / person
+			:name (n6 / name :op1 "Hao" :op2 "Chang" 
+))		:ARG9 (c22 / team
+			:mod (c21 / korean
+))		:ARG10 (c23 / respective
+)		:ARG11 (c20 / level
+))
+
+# ::id nw.chtb_0322.2
+(c6 / start-01
+		:ARG0 (c1 / country
+			:ARG2 (c2 / and
+)			:ARG1 (c5 / compete-02
+				:manner (c3 / country
+					:name (n2 / name :op1 "Korea" 
+))				:manner (c4 / go
+))			:name (n3 / name :op1 "China" 
+))	:ARG0 c5
+		:time (c7 / today
+)		:time (c8 / organization
+			:name (n0 / name :op1 "Fushan" 
+))		:ARG1 (c11 / city
+			:wiki (c12 / country
+				:name (n1 / name :op1 "Korea" 
+)))		:ARG0 (c9 / large
+			:degree (c10 / most
+))		:ARG1 (c0 / le tian cup
+))
+
+# ::id nw.chtb_0319.1
+(c16 / change-01
+		:polarity (c4 / prepare-02
+			:time (c0 / script
+)			:prep-as (c3 / athlete
+)			:time (c5 / far south sports meet
+)			:ARG1 (c6 / broadcast-01
+				:time (c7 / today
+)))		:polarity (c11 / lahagewasu
+			:time (c12 / end-01
+				:time (c13 / paragraph
+					:quant (c14 / 3
+))))		:polarity (c15 / recommend-01
+)		:polarity (c17 / sport
+)		:ARG1 (c19 / have-org-role-91
+			:ARG2 (c20 / chairman
+))		:polarity (c21 / lahagewasulen
+			:op3 (c18 / association
+))		:ARG0 (c9 / have-org-role-91
+			:ARG2 (c10 / chairman
+))		:ARG2 (c8 / sports association
+)		:ARG3 (c2 / handicapped
+)		:location (c1 / mongolian
+))
+
+# ::id nw.chtb_0319.2
+(c0 / byline-91
+		:ARG0 (c1 / 8
+))
+
+# ::id nw.chtb_0322.1
+(c0 / byline-91
+		:ARG1 (c4 / shuifu tang
+			:ARG1-of (c3 / report-01
+))		:ARG4 (c1 / country
+			:name (n0 / name :op1 "Seoul" 
+))		:ARG0 (c2 / 8
+))
+
+# ::id nw.chtb_0325.10
+(c0 / end-01
+)
+
+# ::id nw.chtb_0322.3
+(c4 / defeat-01
+		:mod (c0 / round-table
+			:ARG1 (c1 / compete-02
+))		:ARG0 (c3 / team
+			:mod (c2 / country
+				:name (n0 / name :op1 "China" 
+)))		:ARG1 (c8 / team
+			:mod (c6 / stronger
+				:mod (c5 / relative
+))			:mod (c7 / korean
+))		:ARG0 (c9 / score-01
+			:quant (c10 / 4
+)			:quant (c11 / 3
+)))
+
+# ::id nw.chtb_0305.12
+(c0 / end-01
+)
+
+# ::id nw.chtb_0305.11
+(c1 / hope-01
+		:ARG0 (c0 / person
+			:name (n1 / name :op1 "Peng" :op2 "Li" 
+))		:ARG1 (c5 / relay-01
+			:time (c4 / media
+				:mod (c2 / person
+					:name (n0 / name :op1 "Kirghizian" 
+))				:ARG0 (c3 / news
+))			:ARG1 (c6 / greeting
+))		:ARG0 (c7 / country
+			:name (n2 / name :op1 "China" 
+))		:ARG1 (c8 / kirghizian
+))
+
+# ::id nw.chtb_0305.10
+(c1 / express-01
+		:ARG2 (c0 / he
+)		:ARG1 (c2 / hope-01
+			:time (c5 / stable-03
+				:domain (c4 / region
+					:mod (c3 / central asian
+))				:ARG2 (c6 / and
+)				:topic (c7 / develop-02
+	:ARG0 c4
+))	:time c7
+			:time (c8 / and
+)			:time (c12 / improve-01
+				:ARG0 (c9 / standard
+					:ARG2 (c10 / live-01
+))				:time (c11 / continue-01
+)))	:ARG1 c12
+)
+
+# ::id nw.chtb_0324.12
+(c1 / felt-01
+		:ARG2 (c0 / he
+)		:ARG0 (c5 / country
+			:ARG1 (c6 / participate-01
+				:ARG1 (c8 / compete-02
+					:mod (c7 / this
+))))		:ARG0-of (c4 / competitor
+			:quant (c2 / more-than
+)			:mod (c3 / new
+)))
+
+# ::id nw.chtb_0324.13
+(c2 / lack-01
+		:degree (c0 / they
+)		:mod (c1 / still
+)		:ARG1 (c3 / experience-01
+			:ARG1 (c5 / competition
+				:mod (c4 / international
+))))
+
+# ::id nw.chtb_0324.10
+(c1 / carry-out-03
+		:time (c0 / home
+)		:time (c3 / train-01
+			:mod (c2 / indoor
+))		:time (c4 / most
+))
+
+# ::id nw.chtb_0324.11
+(c3 / need-01
+		:ARG0 (c1 / we
+)		:mod (c2 / still
+)		:ARG1 (c4 / train
+	:ARG0 c1
+			:ARG0-of (c6 / outdoors
+				:quant (c5 / more-than
+)))		:ARG1 (c0 / look-01
+))
+
+# ::id nw.chtb_0324.16
+(c0 / end-01
+)
+
+# ::id nw.chtb_0324.14
+(c3 / 10
+		:manner (c1 / compete-02
+			:mod (c0 / preliminary
+)			:ARG1-of (c2 / woman
+))		:ARG1 (c7 / hold-04
+			:time (c6 / dive-01
+				:unit (c4 / meter
+)				:mod (c5 / platform
+))			:time (c9 / afternoon
+				:mod (c8 / this
+))))
+
+# ::id nw.chtb_0324.15
+(c14 / participate-01
+		:ARG0 (c0 / person
+			:ARG1 (c1 / win-01
+	:ARG0 c0
+				:time (c2 / championship
+)				:time (c3 / country
+)				:time (c4 / world championship
+					:ARG1 (c5 / and
+))				:time (c6 / olympic games
+)				:ARG0 (c8 / competitor
+))			:time (c7 / and
+)			:ARG1 (c11 / win-01
+	:ARG0 c0
+	:ARG0 c8
+				:time (c12 / championship
+)				:time (c13 / world cup
+))			:name (n2 / name :op1 "Mingxia" :op2 "Fu" 
+))	:ARG0 c8
+		:ARG1 (c15 / compete-02
+)		:ARG1 (c10 / person
+			:name (n0 / name :op1 "Bin" :op2 "Chi" 
+))		:ARG0 (c9 / country
+			:name (n1 / name :op1 "Hebei" 
+)))
+
+# ::id nw.chtb_0302.1
+(c0 / byline-91
+		:ARG1 (c4 / person
+			:ARG1-of (c3 / report-01
+)			:name (n1 / name :op1 "Guojun" :op2 "Yang" 
+))		:ARG0 (c2 / 9
+)		:ARG4 (c1 / city
+			:name (n0 / name :op1 "Beijing" 
+)))
+
+# ::id nw.chtb_0325.7
+(c2 / 1
+		:ARG1 (c1 / man
+			:mod (c0 / preliminary
+))		:ARG1 (c6 / compete-02
+			:unit (c3 / meter
+)			:mod (c4 / platform
+)			:topic (c5 / dive-01
+))		:time (c8 / morning
+			:mod (c7 / this
+)			:mod (c9 / competitor
+				:op2 (c14 / gain-02
+					:mod (c10 / lan wei
+						:ARG1 (c11 / and
+))					:mod (c12 / organization
+						:name (n0 / name :op1 "Sheng" :op2 "Chen" 
+))					:time (c13 / already
+)					:ARG1 (c15 / right
+)					:ARG1 (c16 / heat-01
+)))))
+
+# ::id nw.chtb_0305.3
+(c8 / attend-01
+		:ARG0 (c2 / person
+			:ARG1 (c3 / and
+)			:name (n0 / name :op1 "Peng" :op2 "Li" 
+))		:ARG0 (c7 / person
+			:name (n1 / name :op1 "Akayev" 
+))		:ARG1 (c10 / ceremony
+			:mod (c9 / sign-02
+))		:ARG1 (c0 / have-org-role-91
+			:ARG2 (c1 / premier
+))		:ARG0 (c5 / have-org-role-91
+			:op1 (c6 / president
+))		:ARG0 (c4 / kirghizian
+))
+
+# ::id nw.chtb_0305.2
+(c6 / sign-02
+		:ARG0 (c0 / principle
+			:topic (c1 / party
+				:quant (c2 / concern-02
+					:ARG1 (c3 / country
+						:ARG2 (c4 / and
+)						:name (n0 / name :op1 "China" 
+))					:ARG1 (c5 / country
+						:name (n1 / name :op1 "Kirghizia" 
+)))))		:time (c9 / here
+)		:time (c10 / today
+)		:ARG1 (c8 / document
+			:quant (c7 / 6
+)))
+
+# ::id nw.chtb_0305.1
+(c0 / byline-91
+		:ARG0 (c3 / report-01
+)		:ARG1 (c1 / country
+			:name (n0 / name :op1 "Bishket" 
+))		:ARG1 (c2 / 4
+)		:ARG4 (c6 / xiaoguang hu
+)		:ARG0 (c4 / menjun ju
+			:ARG1 (c5 / and
+)))
+
+# ::id nw.chtb_0325.6
+(c3 / point-out-02
+		:ARG0 (c1 / perform-02
+			:mod (c0 / her
+))		:time (c2 / 303.00
+))
+
+# ::id nw.chtb_0305.7
+(c1 / express-01
+		:ARG2 (c0 / he
+)		:ARG1 (c7 / promote-02
+			:ARG0 (c3 / visit-01
+				:mod (c2 / this
+)				:time (c6 / person
+					:name (n0 / name :op1 "Peng" :op2 "Li" 
+)))			:time (c8 / peace
+				:ARG1 (c9 / security
+)				:ARG2 (c10 / and
+)				:ARG1 (c11 / stability
+)				:domain (c13 / region
+					:mod (c12 / central asian
+)))	:ARG1 c9
+	:ARG1 c11
+)		:ARG0 (c4 / have-org-role-91
+			:ARG2 (c5 / premier
+)))
+
+# ::id nw.chtb_0305.6
+(c0 / akayev
+		:ARG0 (c3 / thing
+			:ARG2-of (c4 / result-01
+				:time (c5 / conference
+					:mod (c6 / person
+						:name (n0 / name :op1 "Peng" :op2 "Li" 
+)))))		:ARG0-of (c2 / commend-01
+			:manner (c1 / high-02
+)	:manner c4
+))
+
+# ::id nw.chtb_0305.5
+(c12 / answer-01
+		:ARG1 (c2 / ceremony
+			:mod (c0 / after
+)			:mod (c1 / sign-02
+))		:mod (c11 / respective
+)		:ARG1 (c13 / question
+)		:ARG1 (c14 / report-01
+)		:poss (c10 / person
+			:name (n0 / name :op1 "Peng" :op2 "Li" 
+))		:ARG0-of (c8 / have-org-role-91
+			:ARG2 (c9 / premier
+))		:ARG0 (c3 / kirghizian
+)		:ARG0 (c6 / person
+			:ARG2 (c7 / and
+)			:name (n1 / name :op1 "Akayev" 
+))		:ARG1 (c4 / have-org-role-91
+			:op1 (c5 / president
+)))
+
+# ::id nw.chtb_0305.4
+(c2 / agree-01
+		:ARG0 (c1 / document
+			:quant (c0 / 6
+))		:time (c3 / country
+			:ARG1 (c8 / agree-01
+				:ARG1 (c9 / form-01
+					:ARG1 (c11 / organization
+						:name (n4 / name :op1 "Economy" :op2 "and" :op3 "Trade" :op4 "Committee" 
+))					:time (c17 / present-01
+						:ARG1 (c18 / material
+							:quant (c19 / country
+								:name (n1 / name :op1 "Kirghizia" 
+))))					:time (c20 / country
+						:name (n8 / name :op1 "China" 
+))))			:ARG1 (c23 / agree-01
+				:mod (c21 / culture
+)				:time (c22 / cooperate-01
+)				:ARG1 (c25 / country
+					:mod (c24 / 2
+)					:quant (c26 / country
+						:ARG2 (c27 / and
+)						:name (n9 / name :op1 "China" 
+))					:quant (c28 / country
+						:name (n10 / name :op1 "Kirghizia" 
+))))			:mod (c30 / letter
+				:mod (c29 / ratification
+)				:duration (c33 / treaty
+					:mod (c31 / exchange-01
+)					:purpose (c32 / consular
+)					:ARG1 (c35 / country
+						:mod (c34 / 2
+))))			:ARG1 (c36 / agree-01
+				:ARG1 (c37 / cooperate-01
+					:ARG1 (c39 /organization
+						:name (n2 / name :op1 "Trade" :op2 "Promotion" :op3 "Council" 
+))))			:time (c40 / and
+)			:name (n6 / name :op1 "China" 
+))	:time c8
+	:time c23
+	:ARG1 c30
+	:time c36
+		:time (c42 /organization
+			:name (n5 / name :op1 "Chamber" :op2 "of" :op3 "Industry" :op4 "and" :op5 "Commerce" 
+))		:ARG0 (c41 / organization
+			:name (n0 / name :op1 "Kirghizian" 
+))		:ARG1 (c38 / country
+			:name (n3 / name :op1 "China" 
+))		:ARG1 (c12 / kirghizian
+)		:ARG0 (c10 / combine-01
+)		:ARG2 (c13 / government-organization
+			:wiki (c14 / govern-01
+				:ARG1 (c16 / exchange-01
+					:ARG2 (c15 / note-01
+))))		:ARG3 (c6 / government-organization
+			:wiki (c7 / govern-01
+))		:ARG4 (c5 / country
+			:name (n7 / name :op1 "Kirghizia" 
+))		:ARG5 (c4 / loan-01
+))
+
+# ::id nw.chtb_0325.1
+(c0 / byline-91
+		:ARG1 (c6 / person
+			:name (n1 / name :op1 "Aiguo" :op2 "Yang" 
+))		:ARG0 (c3 / report-01
+)		:ARG1 (c2 / 9
+)		:ARG4 (c1 / country
+			:name (n0 / name :op1 "Rome" 
+))		:ARG0 (c4 / person
+			:ARG1 (c5 / and
+)			:name (n2 / name :op1 "Changrui" :op2 "Huang" 
+)))
+
+# ::id nw.chtb_0305.9
+(c3 / say-01
+		:ARG0 (c2 / person
+			:name (n2 / name :op1 "Peng" :op2 "Li" 
+))		:ARG1 (c6 / improve-01
+			:degree (c5 / visit-01
+				:mod (c4 / this
+))			:time (c8 / friendship
+				:mod (c7 / mutual
+)				:ARG1 (c9 / and
+)				:ARG1 (c10 / understand-01
+))	:time c10
+)		:ARG1 (c11 / and
+)		:ARG0 (c15 / cooperate-01
+			:mod (c14 / further
+)			:ARG1 (c16 / country
+				:ARG2 (c17 / and
+)				:name (n1 / name :op1 "China" 
+))			:ARG1 (c18 / country
+				:name (n0 / name :op1 "Kirghizia" 
+)))		:ARG1 (c13 / found-01
+			:mod (c12 / good
+))		:ARG2 (c0 / have-org-role-91
+			:ARG2 (c1 / premier
+)))
+
+# ::id nw.chtb_0305.8
+(c1 / felt-01
+		:ARG2 (c0 / he
+)		:ARG1 (c6 / important
+			:domain (c4 / document
+				:ARG1-of (c3 / sign-02
+					:time (c2 / recent
+)))			:mod (c5 / very
+)			:time (c7 / enforce-01
+				:ARG1 (c10 / relation-03
+					:mod (c8 / good
+)					:ARG0 (c9 / neighborhood
+)					:time (c11 / and
+)					:op8 (c13 / cooperate-01
+						:mod (c12 / friendly
+)						:ARG1 (c15 / country
+							:mod (c14 / both
+))))	:ARG1 c13
+)))
+
+# ::id nw.chtb_0303.5
+(c0 / end-01
+)
+
+# ::id nw.chtb_0303.4
+(c11 / organization
+		:name (n0 / name :op1 "Tanzania" :op2 "United" :op3 "Republic" 
+)		:name (c14 / visit-01
+			:mod (c13 / official
+))		:mod (c12 / person
+			:name (n2 / name :op1 "John" :op2 "Malsela" 
+))		:ARG0-of (c9 / have-org-role-91
+			:ARG2 (c10 / president
+))		:ARG1-of (c16 / 9
+)		:ARG0 (c15 / country
+			:name (n1 / name :op1 "China" 
+))		:quant (c2 / have-org-role-91
+			:ARG2 (c3 / premier
+				:mod (c8 / vice
+)))		:ARG1 (c4 / government-organization
+			:time (c7 / and
+)	:mod c8
+			:name (n4 / name :op1 "State" :op2 "Council" 
+))		:ARG2 (c0 / invite-01
+			:ARG1 (c1 / person
+				:name (n3 / name :op1 "Peng" :op2 "Li" 
+)))		:ARG3 (c5 / have-org-role-91
+			:ARG2 (c6 / premier
+)))
+
+# ::id nw.chtb_0303.1
+(c0 / byline-91
+		:ARG1 (c1 / city
+			:name (n0 / name :op1 "Beijing" 
+))		:ARG0 (c2 / 9
+))
+
+# ::id nw.chtb_0325.3
+(c11 / occupy-01
+		:ARG0 (c3 / dispatch-01
+			:ARG0 (c0 / time
+)			:ARG0 (c2 / report-01
+				:mod (c1 / this
+))			:time (c5 / round
+				:quant (c4 / 6
+)				:ARG1 (c6 / compete-02
+)))		:ARG0 (c7 / person
+			:ARG2 (c8 / and
+)			:name (n1 / name :op1 "Mingxia" :op2 "Fu" 
+))		:ARG0 (c9 / person
+			:name (n0 / name :op1 "Bin" :op2 "Chi" 
+))		:ARG0 (c10 / temporarily
+)		:ARG1 (c13 / position
+)		:ARG1 (c15 / score
+			:mod (c14 / total-01
+)			:ARG0-of (c19 / point-out-02
+				:time (c16 / 339.12
+					:ARG2 (c17 / and
+))				:time (c18 / 290.19
+)))		:ARG1 (c20 / respective
+)		:ARG0 (c12 / and
+))
+
+# ::id nw.chtb_0303.3
+(c2 / announce-01
+		:ARG2 (c0 / he
+)		:mod (c1 / also
+)		:ARG1 (c12 / invite-01
+			:ARG1 (c13 / person
+				:name (n2 / name :op1 "Peng" :op2 "Li" 
+)))		:ARG0 (c11 / 9
+)		:ARG0 (c10 / country
+			:name (n0 / name :op1 "China" 
+))		:manner (c16 / government-organization
+			:name (n1 / name :op1 "State" :op2 "Council" 
+))		:time (c14 / have-org-role-91
+			:ARG2 (c15 / premier
+))		:mod (c9 / visit-01
+			:mod (c7 / formal
+)			:mod (c8 / friendly
+))		:location (c3 / person
+			:name (n3 / name :op1 "Casymier" :op2 "Auye" :op3 "Muba" 
+))		:ARG1 (c6 / country
+			:name (n4 / name :op1 "Gabon" :op2 "Republic" 
+))		:ARG2 (c4 / have-org-role-91
+			:ARG2 (c5 / premier
+)))
+
+# ::id nw.chtb_0303.2
+(c3 / announce-01
+		:ARG0 (c0 / organization
+			:ARG0 (c2 / spokesperson
+				:mod (c1 / foreign ministry
+))			:name (n4 / name :op1 "Guofang" :op2 "Shen" 
+))		:time (c5 / conference
+			:medium (c4 / news
+)			:ARG1 (c6 / hold-04
+				:ARG1 (c8 / afternoon
+					:mod (c7 / this
+))))		:time (c17 / invite-01
+			:ARG1 (c20 / person
+				:name (n0 / name :op1 "Zemin" :op2 "Jiang" 
+)))		:ARG1 (c18 / have-org-role-91
+			:ARG2 (c19 / president
+))		:ARG0 (c14 / visit-01
+			:ARG1 (c13 / state
+))		:ARG0 (c12 / country
+			:name (n3 / name :op1 "Hungary" :op2 "Republic" 
+))		:manner (c11 / person
+			:name (n1 / name :op1 "Gentzs" :op2 "Aerpade" 
+))		:time (c9 / have-org-role-91
+			:ARG2 (c10 / president
+))		:mod (c16 / 9
+)		:ARG1 (c15 / country
+			:name (n2 / name :op1 "China" 
+)))
+
+# ::id nw.chtb_0322.9
+(c1 / achieve-01
+		:ARG0 (c0 / organization
+			:name (n0 / name :op1 "Xunxuan" :op2 "Cao" 
+))		:ARG1 (c2 / victory
+)		:time (c4 / game
+			:location (c3 / middle
+)))
+
+# ::id nw.chtb_0318.1
+(c0 / byline-91
+		:ARG1 (c4 / yiguo yu
+			:ARG1-of (c3 / report-01
+))		:ARG4 (c1 / city
+			:name (n0 / name :op1 "Tokyo" 
+))		:ARG0 (c2 / 9
+))
+
+# ::id nw.chtb_0302.8
+(c0 / end-01
+)
+
+# ::id nw.chtb_0318.3
+(c2 / hang-01
+		:op1 (c5 / stage-01
+			:ARG1 (c4 / chairman
+))		:ARG0-of (c3 / have-org-role-91
+	:ARG2 c4
+)		:ARG0 (c0 / country
+			:name (n0 / name :op1 "Japan" 
+))		:ARG1 (c1 / flag
+))
+
+# ::id nw.chtb_0318.2
+(c5 / hold-04
+		:ARG0 (c1 / delegation
+			:mod (c0 / country
+				:name (n1 / name :op1 "Japan" 
+))			:ARG1 (c2 / participate-01
+				:ARG1 (c4 / organization
+					:name (n2 / name :op1 "Far" :op2 "East" :op3 "and" :op4 "South" :op5 "Pacific" :op6 "Region" :op7 "Handicapped" :op8 "Sports" :op9 "Meet" 
+))))		:ARG1 (c7 / swearing
+			:mod (c6 / grand
+))		:time (c8 / ceremony
+)		:time (c9 / city
+			:name (n0 / name :op1 "Tokyo" 
+))		:ARG1 (c11 / afternoon
+			:mod (c10 / this
+))		:ARG1 (c3 / sixth
+))
+
+# ::id nw.chtb_0318.5
+(c6 / fill-01
+		:ARG0 (c1 / atmosphere
+			:mod (c0 / an
+)			:mod (c2 / confidence
+				:ARG2 (c3 / and
+)				:ARG1 (c5 / progress-01
+))			:mod (c4 / eagerness
+))		:ARG2 (c8 / ground
+			:ARG1 (c7 / ceremony
+)))
+
+# ::id nw.chtb_0318.4
+(c8 / sit-01
+		:op1 (c11 / stage-01
+			:prep-at (c10 / below
+))		:ARG0 (c9 / neatly
+)		:ARG0-of (c1 / coach
+)		:ARG1 (c3 / nurse
+)		:ARG1-of (c2 / doctor
+)		:ARG2 (c0 / sportsman
+			:time (c4 / and
+)			:ARG1 (c7 / delegation
+))		:ARG0 (c5 / have-org-role-91
+			:manner (c6 / official
+)))
+
+# ::id nw.chtb_0318.7
+(c1 / say-01
+		:ARG0 (c0 / souya
+)		:ARG1 (c4 / sport
+			:mod (c3 / international
+)			:ARG1 (c5 / meet-01
+				:time (c6 / attract-01
+	:degree c4
+					:ARG1 (c8 / attend-02
+						:degree (c7 / world
+)))))		:time (c9 / and
+)		:time (c13 / meet-01
+			:ARG0 (c10 / scale
+				:mod (c12 / sport
+					:mod (c11 / this
+)))			:ARG1 (c14 / hold-04
+	:time c10
+				:time (c15 / city
+					:name (n0 / name :op1 "Beijing" 
+))))		:ARG0 (c16 / large
+			:degree (c17 / most
+))		:ARG1 (c2 / far south sports meet
+))
+
+# ::id nw.chtb_0318.6
+(c0 / vice
+		:ARG0 (c1 / have-org-role-91
+			:ARG2 (c2 / minister
+				:ARG0-of (c6 / deliver-01
+					:ARG1 (c9 / speech
+						:medium (c7 / bolster-01
+)						:medium (c8 / depart-01
+))					:ARG0 (c10 / delegation
+))))		:ARG1 (c3 / country
+			:name (n0 / name :op1 "Japan" 
+))		:ARG2 (c5 / country
+			:name (n1 / name :op1 "Souyasen" 
+))		:ARG0 (c4 /organization
+			:name (n2 / name :op1 "State" :op2 "Welfare" :op3 "Ministry" 
+)))
+
+# ::id nw.chtb_0318.9
+(c1 / emphasize-01
+		:ARG0 (c0 / souya
+)		:ARG1 (c10 / friendship
+)		:ARG0 (c11 / athlete
+			:ARG1 (c13 / country
+				:mod (c12 / various
+)))		:time (c18 / friendliness
+			:mod (c17 / international
+))		:mod (c9 / deepen-01
+			:ARG1 (c14 / and
+)			:ARG1 (c15 / expand-01
+				:ARG1 (c16 / scope
+)))		:location (c4 / use-01
+			:ARG2 (c6 / opportunity
+				:mod (c5 / this
+)				:ARG1 (c7 / participate-01
+					:ARG1 (c8 / country
+						:name (n0 / name :op1 "Beijing" :op2 "Far" :op3 "South" :op4 "Sports" :op5 "Meet" 
+)))))		:ARG0 (c3 / delegation
+			:mod (c2 / country
+				:name (n1 / name :op1 "Japan" 
+))))
+
+# ::id nw.chtb_0318.8
+(c15 / carry-out-03
+		:mod (c1 / hope-01
+			:ARG2 (c0 / he
+)			:time (c5 / demonstrate-01
+				:time (c3 / athlete
+					:quant (c2 / all
+))				:time (c4 / full
+)				:ARG1 (c6 / strength
+					:ARG2 (c7 / and
+))				:ARG1 (c8 / skill
+)				:time (c9 / cultivate-01
+)))		:time (c14 / recommend-01
+)		:ARG1 (c16 / compete-02
+)		:ARG1 (c17 / athlete
+			:ARG1 (c19 / country
+				:mod (c18 / various
+)				:quant (c20 / honestly
+)))		:ARG0 (c13 / country
+			:name (n0 / name :op1 "Japan" 
+))		:ARG1 (c11 / person
+			:quant (c12 / represent-01
+))		:ARG0 (c10 / competitor
+))
+
+# ::id nw.chtb_0325.9
+(c3 / participate-01
+		:mod (c2 / total-01
+			:ARG0 (c1 / team
+				:mod (c0 / 12
+)))		:ARG1 (c4 / compete-02
+))
+
+# ::id nw.chtb_0325.8
+(c5 / water
+		:ARG1 (c7 / compete-02
+			:manner (c6 / polo
+))		:ARG2 (c9 / team
+			:mod (c8 / hungarian
+)			:mod (c10 / defeat-01
+				:ARG1 (c12 / team
+					:mod (c11 / country
+						:name (n3 / name :op1 "Canada" 
+)))))		:quant (c14 / 7
+			:ARG1 (c16 / team
+				:mod (c15 / "France"
+)				:mod (c17 / defeat-01
+					:ARG1 (c19 / team
+						:mod (c18 / country
+							:name (n2 / name :op1 "Brazil" 
+)))					:quant (c20 / 10
+))))		:quant (c28 / 8
+			:ARG1 (c30 / team
+				:mod (c29 / country
+					:name (n6 / name :op1 "Russia" 
+))				:mod (c31 / defeat-01
+					:ARG1 (c33 / team
+						:mod (c32 / dutch
+))					:quant (c34 / 7
+))))		:quant (c35 / 6
+			:ARG1 (c37 / team
+				:mod (c36 / country
+					:name (n0 / name :op1 "US" 
+))				:mod (c38 / defeat-01
+					:ARG1 (c40 / team
+						:mod (c39 / kazakhstani
+))					:quant (c41 / 10
+						:quant (c42 / 5
+)))))		:ARG2 (c43 / and
+)		:ARG2 (c45 / team
+			:mod (c44 / italian
+)			:mod (c46 / defeat-01
+				:ARG1 (c48 / team
+					:mod (c47 / country
+						:name (n1 / name :op1 "New" :op2 "Zealand" 
+)))))		:quant (c50 / 2
+)		:ARG0 (c21 / 9
+			:ARG1 (c23 / team
+				:mod (c22 / country
+					:name (n4 / name :op1 "Australia" 
+))				:mod (c24 / defeat-01
+					:ARG1 (c26 / team
+						:mod (c25 / country
+							:name (n5 / name :op1 "Germany" 
+)))					:quant (c27 / 10
+))))		:ARG0-of (c13 / 13
+)		:ARG1 (c0 / thing
+			:ARG2-of (c1 / result-01
+				:ARG2 (c4 / woman
+					:time (c2 / today
+)					:mod (c3 / preliminary
+))))		:ARG1-of (c49 / 12
+))
+
+# ::id nw.chtb_0318.14
+(c0 / end-01
+)
+
+# ::id nw.chtb_0318.11
+(c10 / felt-01
+		:ARG0 (c9 / report-01
+			:mod (c8 / this
+))		:ARG0 (c12 / team
+			:mod (c11 / japanese handicapped sports team
+)			:ARG1 (c13 / train-01
+	:ARG2 c12
+				:ARG2 (c14 / discipline-01
+	:ARG2 c12
+)				:ARG2 (c15 / and
+)				:ARG2 (c16 / possess-01
+	:ARG0 c12
+))	:mod c14
+	:ARG2 c16
+)		:op2 (c17 / fight-01
+)		:ARG0 (c6 / swearing
+			:mod (c0 / this
+)			:ARG0-of (c1 / tight-04
+				:ARG1-of (c2 / orderly-04
+)				:degree (c3 / warm-01
+)				:ARG2 (c4 / and
+)				:manner (c5 / serious
+))	:ARG1-of c2
+	:manner c5
+			:ARG1 (c7 / ceremony
+)))
+
+# ::id nw.chtb_0318.10
+(c1 / hand-01
+		:ARG0-of (c6 / head-01
+			:ARG1 (c7 / delegation
+)			:ARG2 (c8 / and
+)			:ARG1 (c10 / director
+))		:ARG0-of (c9 / have-org-role-91
+	:ARG2 c10
+)		:op1 (c11 / organization
+			:name (n0 / name :op1 "Tokyo" :op2 "Handicapped" :op3 "Integrated" :op4 "Sports" :op5 "Center" 
+))		:ARG0 (c3 / flag
+			:ARG0 (c2 / delegation
+)			:ARG1 (c5 / delegation
+				:mod (c4 / country
+					:name (n2 / name :op1 "Japan" 
+))))		:poss (c12 / country
+			:name (n1 / name :op1 "Banminyan" 
+))		:ARG1 (c0 / souya
+))
+
+# ::id nw.chtb_0318.13
+(c4 / continue-01
+		:ARG1 (c2 / ceremony
+			:time (c0 / after
+)			:mod (c1 / close-02
+)			:mod (c3 / sports meet
+))		:time (c5 / remain-01
+			:time (c6 / city
+				:name (n1 / name :op1 "Beijing" 
+))			:ARG1 (c9 / day
+				:quant (c7 / 2
+))			:time (c10 / carry-out-03
+				:ARG1 (c12 / activity-06
+					:topic (c11 / interaction
+))				:ARG1 (c15 / party
+					:mod (c13 / relevant-01
+)					:mod (c14 / country
+						:name (n0 / name :op1 "China" 
+)))				:ARG2 (c16 / and
+)				:time (c17 / visit-01
+					:ARG2 (c18 / and
+)					:time (c19 / tour-01
+))	:time c19
+				:ARG2 (c20 / and
+)				:time (c21 / return-01
+					:ARG1 (c22 / country
+						:name (n2 / name :op1 "Japan" 
+))))	:ARG1 c17
+	:time c21
+)		:ARG1 (c8 / temporal-quantity
+	:unit c9
+))
+
+# ::id nw.chtb_0318.12
+(c2 / fly-01
+		:ARG0 (c1 / delegation
+			:mod (c0 / country
+				:name (n1 / name :op1 "Japan" 
+)))		:ARG1 (c3 / city
+			:name (n0 / name :op1 "Beijing" 
+)))
+

@@ -1,0 +1,15 @@
+Starting Up!
+Learning..
+Time taken: 149429.459674
+Testing..
+
+Evaluation against aligned concepts
+& P & R & F
+& 0.717 & 0.709 & 0.713
+Micro avg F1 = 0.70719741957
+Time taken: 140.895221949
+
+
+Precision: 0.52
+Recall: 0.40
+Document F-score: 0.45

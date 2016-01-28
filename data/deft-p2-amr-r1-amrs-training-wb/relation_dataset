@@ -1,0 +1,108 @@
+wb.eng_0002.124
+ALERT : NO ROOT FOUND
+wb.eng_0015.170
+ALERT : NO ROOT FOUND
+Error1
+wb.eng_0002.22
+ALERT : NO ROOT FOUND
+wb.eng_0015.15
+ALERT : NO ROOT FOUND
+Error1
+wb.eng_0009.57
+ALERT : NO ROOT FOUND
+wb.eng_0015.165
+ALERT : NO ROOT FOUND
+wb.c2e_0044.5
+ALERT : NO ROOT FOUND
+Error1
+Error1
+wb.c2e_0050.1
+ALERT : NO ROOT FOUND
+wb.c2e_0050.8
+ALERT : NO ROOT FOUND
+wb.c2e_0008.2
+ALERT : NO ROOT FOUND
+Error1
+wb.eng_0015.38
+ALERT : NO ROOT FOUND
+Error1
+wb.eng_0009.69
+ALERT : NO ROOT FOUND
+wb.p2.5_c2e_0038.6
+ALERT : NO ROOT FOUND
+wb.p2.5_c2e_0038.2
+ALERT : NO ROOT FOUND
+wb.eng_0015.171
+ALERT : NO ROOT FOUND
+0 6421
+ARG1 	1503
+mod 	863
+ARG0 	823
+ARG2 	481
+ARG1-of 	394
+op1 	356
+op2 	347
+time 	250
+ARG0-of 	120
+manner 	118
+degree 	118
+location 	115
+poss 	104
+domain 	92
+quant 	83
+purpose 	60
+op3 	57
+ARG3 	45
+topic 	44
+ARG2-of 	36
+condition 	35
+part-of 	32
+ARG4 	29
+compared-to 	28
+concession 	22
+consist-of 	20
+polarity 	18
+direction 	18
+frequency 	15
+example 	15
+duration 	11
+prep-to 	11
+destination 	11
+beneficiary 	11
+op4 	10
+source 	10
+accompanier 	9
+time-of 	9
+location-of 	8
+ARG3-of 	7
+li 	7
+medium 	7
+prep-with 	7
+extent 	6
+path 	5
+prep-for 	5
+op5 	4
+manner-of 	4
+prep-in 	3
+instrument 	3
+prep-against 	3
+value 	3
+op7 	2
+prep-on 	2
+prep-as 	2
+prep-from 	2
+ARG4-of 	2
+beneficiary-of 	2
+quant-of 	2
+op6 	1
+op10 	1
+prep-at 	1
+poss-of 	1
+medium-of 	1
+op12 	1
+op8 	1
+op9 	1
+instrument-of 	1
+topic-of 	1
+prep-by 	1
+prep-toward 	1

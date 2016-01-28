@@ -1,0 +1,19 @@
+Starting Up!
+Learning..
+Time taken: 134.373670101
+Testing..
+
+Evaluation against aligned concepts
+& P & R & F
+& 0.686 & 0.717 & 0.701
+Micro avg F1 = 0.697007732335
+Time taken: 19.0057811737
+
+
+Error processing (c8 / wish-01:ARG0 (c7 / you)		:ARG1 (c9 / live-01:ARG0 c7)		:ARG0 (c3 / right:mod (c2 / every)			:ARG2 (c4 / live-01:manner (c5 / country)))		:ARG1 (c1 / you)		:ARG0 (c0 / anonymous 6:37) 37
+Traceback (most recent call last):
+  File "smatch_code/smatch.py", line 694, in <module>
+    main(args)
+  File "smatch_code/smatch.py", line 598, in main
+    amr1.rename_node(test_label)
+AttributeError: 'NoneType' object has no attribute 'rename_node'

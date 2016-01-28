@@ -1,0 +1,39 @@
+nw.chtb_0322.18
+ALERT : NO ROOT FOUND
+Error1
+0 554
+ARG1 	121
+mod 	88
+ARG0 	76
+time 	34
+op1 	32
+ARG2 	29
+ARG1-of 	25
+op2 	24
+quant 	16
+ARG0-of 	13
+degree 	12
+location 	10
+manner 	7
+poss 	7
+op3 	6
+part-of 	6
+ARG2-of 	6
+domain 	4
+duration 	4
+wiki 	3
+op4 	3
+topic 	3
+consist-of 	3
+purpose 	3
+condition 	3
+op6 	2
+prep-with 	2
+source 	2
+op5 	2
+ARG3 	2
+compared-to 	2
+ARG3-of 	1
+location-of 	1
+medium 	1
+instrument-of 	1

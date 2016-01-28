@@ -1,0 +1,429 @@
+lpp_1943.181
+{0: [(4, 'root')], 8: [(7, 'case'), (10, 'advmod'), (11, 'dep')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'advmod'), (6, 'dobj'), (8, 'nmod:toward')], 6: [(5, 'amod')]}
+
+lpp_1943.180
+{0: [(4, 'root')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (5, 'dobj'), (7, 'nmod:against')], 7: [(6, 'case')]}
+
+lpp_1943.183
+{0: [(4, 'root')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'aux'), (6, 'xcomp')], 6: [(1, 'nsubj'), (5, 'mark'), (8, 'dobj')], 8: [(7, 'det'), (11, 'nmod:in'), (16, 'dep')], 11: [(9, 'case'), (10, 'det'), (14, 'nmod:of')], 14: [(12, 'case'), (13, 'det')]}
+
+lpp_1943.182
+{0: [(13, 'root')], 15: [(14, 'case')], 7: [(5, 'nsubj'), (8, 'dobj')], 13: [(1, 'cc'), (2, 'advmod'), (5, 'nmod:for'), (10, 'nsubj'), (11, 'cop'), (12, 'det'), (15, 'nmod:of')], 5: [(4, 'case'), (6, 'ref'), (7, 'acl:relcl')]}
+
+lpp_1943.185
+{0: [(10, 'root')], 2: [(1, 'case'), (3, 'ref'), (4, 'acl:relcl')], 4: [(2, 'nsubj'), (5, 'dobj')], 10: [(2, 'nmod:to'), (7, 'nsubj'), (8, 'aux'), (9, 'aux'), (14, 'dobj'), (19, 'nmod:to')], 13: [(12, 'advmod')], 14: [(11, 'det'), (13, 'amod'), (16, 'nmod:of')], 16: [(15, 'case')], 19: [(17, 'case'), (18, 'nmod:poss')]}
+
+lpp_1943.184
+{0: [(4, 'root')], 33: [(32, 'nsubj'), (34, 'dobj')], 34: [(37, 'nmod:of')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'aux'), (6, 'xcomp'), (14, 'parataxis')], 37: [(35, 'case'), (36, 'det')], 6: [(1, 'nsubj'), (5, 'mark')], 9: [(12, 'nmod:upon')], 12: [(10, 'case'), (11, 'det')], 14: [(9, 'advmod'), (13, 'expl'), (17, 'nsubj')], 17: [(15, 'det'), (16, 'amod'), (18, 'ref'), (19, 'acl:relcl')], 19: [(17, 'nsubj'), (22, 'nmod:on'), (27, 'dep'), (33, 'dep')], 22: [(20, 'case'), (21, 'det')], 27: [(23, 'nsubj'), (24, 'cop'), (25, 'advmod'), (26, 'advmod'), (29, 'nmod:than'), (31, 'cc'), (33, 'conj:and')], 29: [(28, 'case')]}
+
+lpp_1943.187
+{0: [(3, 'root')], 8: [(7, 'mark'), (9, 'compound:prt'), (11, 'dobj')], 3: [(1, 'nsubj'), (2, 'aux'), (6, 'xcomp'), (8, 'advcl')], 6: [(4, 'advmod'), (5, 'advmod')], 11: [(10, 'det')]}
+
+lpp_1943.186
+{0: [(5, 'root')], 9: [(8, 'mark'), (11, 'dobj'), (12, 'advmod')], 11: [(10, 'nmod:poss')], 5: [(1, 'dep'), (2, 'nsubj'), (3, 'aux'), (4, 'neg'), (7, 'dobj')], 7: [(6, 'det'), (9, 'acl')]}
+
+lpp_1943.189
+{0: [(10, 'root')], 3: [(1, 'mark'), (2, 'nsubj'), (5, 'xcomp')], 5: [(2, 'nsubj'), (4, 'mark'), (6, 'dobj'), (7, 'advmod')], 10: [(3, 'advcl'), (9, 'nsubj'), (12, 'xcomp')], 12: [(9, 'nsubj'), (11, 'mark'), (13, 'xcomp'), (18, 'ccomp')], 18: [(14, 'mark'), (15, 'nsubj'), (16, 'aux'), (17, 'neg'), (19, 'dobj')]}
+
+lpp_1943.188
+{0: [(5, 'root')], 2: [(1, 'nummod')], 5: [(2, 'nsubj'), (3, 'aux'), (4, 'advmod'), (9, 'advcl')], 8: [(7, 'nmod:poss')], 9: [(6, 'mark'), (8, 'nsubj'), (12, 'nmod:away_from'), (16, 'nmod:with')], 10: [(11, 'mwe')], 12: [(10, 'case')], 16: [(14, 'case'), (15, 'nmod:poss')]}
+
+lpp_1943.262
+{0: [(11, 'root')], 3: [(1, 'advmod'), (2, 'nsubj'), (5, 'dobj')], 5: [(4, 'det'), (8, 'nmod:of')], 8: [(6, 'case'), (7, 'det')], 11: [(3, 'advcl'), (9, 'nsubjpass'), (10, 'auxpass'), (13, 'nmod:beyond'), (17, 'nmod:by')], 13: [(12, 'case')], 17: [(14, 'case'), (15, 'det'), (16, 'amod'), (20, 'nmod:of')], 20: [(18, 'case'), (19, 'amod')]}
+
+lpp_1943.263
+{0: [(1, 'root')], 1: [(2, 'dep')]}
+
+lpp_1943.264
+{0: [(4, 'root')], 4: [(1, 'discourse'), (3, 'amod')]}
+
+lpp_1943.265
+{0: [(1, 'root')], 1: [(3, 'nmod:by')], 3: [(2, 'case'), (5, 'acl:relcl')], 5: [(4, 'nsubj'), (7, 'xcomp')], 7: [(4, 'nsubj'), (6, 'mark'), (9, 'dobj')], 9: [(8, 'det'), (14, 'nmod:of')], 14: [(10, 'case'), (11, 'nmod:poss'), (12, 'amod'), (13, 'amod')]}
+
+lpp_1943.266
+{0: [(7, 'root')], 4: [(1, 'case'), (2, 'det'), (3, 'amod')], 7: [(4, 'nmod:for'), (5, 'nsubj'), (6, 'aux'), (10, 'dobj'), (14, 'nmod:in')], 10: [(8, 'nmod:poss'), (9, 'amod')], 14: [(11, 'case'), (12, 'det'), (13, 'amod'), (16, 'acl')], 16: [(15, 'mark'), (19, 'nmod:at')], 19: [(17, 'case'), (18, 'det')]}
+
+lpp_1943.267
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (5, 'dobj'), (8, 'nmod:on'), (16, 'advcl')], 5: [(3, 'det'), (4, 'amod')], 8: [(6, 'case'), (7, 'det'), (12, 'nmod:of')], 12: [(9, 'case'), (10, 'det'), (11, 'amod')], 16: [(14, 'advmod'), (15, 'nsubj'), (18, 'nmod:to'), (24, 'ccomp')], 18: [(17, 'case')], 24: [(21, 'nsubj'), (22, 'cop'), (23, 'advmod'), (26, 'nmod:of')], 26: [(25, 'case')]}
+
+lpp_1943.279
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (15, 'ccomp')], 7: [(4, 'advmod'), (5, 'nsubj'), (6, 'cop'), (11, 'nmod:in')], 11: [(8, 'case'), (9, 'det'), (10, 'compound')], 13: [(12, 'det')], 15: [(3, 'mark'), (7, 'advcl'), (13, 'nsubj'), (14, 'aux'), (17, 'nmod:over')], 17: [(16, 'case')]}
+
+lpp_1943.278
+{0: [(1, 'root')], 1: [(2, 'advmod')]}
+
+lpp_1943.273
+{0: [(1, 'root')], 1: [(4, 'dep')], 4: [(2, 'case'), (3, 'det')]}
+
+lpp_1943.272
+{0: [(4, 'root')], 2: [(1, 'dep')], 4: [(2, 'dep')]}
+
+lpp_1943.271
+{0: [(2, 'root')]}
+
+lpp_1943.270
+{0: [(2, 'root')], 2: [(1, 'nsubj')]}
+
+lpp_1943.277
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'nmod:to'), (10, 'ccomp')], 4: [(3, 'case')], 10: [(7, 'nsubj'), (8, 'aux'), (9, 'advmod'), (15, 'ccomp')], 15: [(11, 'mark'), (12, 'nsubj'), (13, 'cop'), (14, 'case')]}
+
+lpp_1943.276
+{0: [(4, 'root')], 4: [(1, 'cc'), (2, 'advmod'), (3, 'nsubj'), (6, 'nmod:to')], 6: [(5, 'case')]}
+
+lpp_1943.275
+{0: [(4, 'root')], 9: [(3, 'nsubj'), (5, 'mark'), (6, 'cop'), (7, 'advmod'), (8, 'advmod')], 2: [(1, 'case')], 4: [(2, 'nmod:at'), (3, 'nsubj'), (9, 'xcomp')]}
+
+lpp_1943.274
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (7, 'advcl')], 7: [(4, 'mark'), (5, 'nsubj'), (6, 'cop')]}
+
+lpp_1943.268
+{0: [(1, 'root')], 1: [(3, 'dep')], 3: [(5, 'ccomp')], 5: [(4, 'nsubj'), (6, 'xcomp')], 6: [(9, 'nmod:at'), (10, 'advmod')], 9: [(7, 'case'), (8, 'det')]}
+
+lpp_1943.260
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux')]}
+
+lpp_1943.269
+{0: [(5, 'root')], 5: [(2, 'cc'), (3, 'nsubj'), (4, 'aux')]}
+
+lpp_1943.178
+{0: [(25, 'root')], 34: [(32, 'case'), (33, 'nmod:poss')], 4: [(2, 'mark'), (3, 'nsubj'), (6, 'nmod:to'), (16, 'ccomp')], 6: [(5, 'case')], 10: [(9, 'det'), (12, 'acl:relcl')], 12: [(11, 'nsubj'), (13, 'nmod')], 16: [(10, 'nsubj'), (14, 'cop'), (15, 'compound'), (18, 'dep')], 25: [(1, 'cc'), (4, 'advcl'), (21, 'advmod'), (22, 'nsubj'), (23, 'aux'), (24, 'cop'), (27, 'cc'), (28, 'conj:and')], 28: [(22, 'nsubj'), (29, 'dobj'), (31, 'nmod:in'), (34, 'nmod:from')], 31: [(30, 'case')]}
+
+lpp_1943.179
+{0: [(4, 'root')], 4: [(1, 'nsubj'), (2, 'cop'), (3, 'case')]}
+
+lpp_1943.174
+{0: [(6, 'root')], 32: [(29, 'mark'), (30, 'nsubj'), (31, 'aux'), (35, 'nmod:for')], 2: [(1, 'advmod')], 35: [(33, 'case'), (34, 'det')], 6: [(2, 'advmod'), (4, 'nsubj'), (5, 'aux'), (8, 'nmod:to'), (18, 'parataxis')], 8: [(7, 'case')], 12: [(11, 'det'), (17, 'dep')], 16: [(14, 'det'), (15, 'amod')], 17: [(13, 'mark'), (16, 'nsubj')], 18: [(12, 'nsubj'), (22, 'ccomp')], 22: [(19, 'mark'), (20, 'nsubj'), (21, 'cop'), (26, 'ccomp'), (32, 'ccomp')], 26: [(24, 'mark'), (25, 'nsubj'), (28, 'cc'), (32, 'conj:and')]}
+
+lpp_1943.175
+{0: [(10, 'root')], 10: [(3, 'advcl'), (7, 'nsubj'), (8, 'cop'), (9, 'det'), (13, 'ccomp')], 3: [(1, 'mark'), (2, 'nsubj'), (5, 'dobj')], 5: [(4, 'det')], 13: [(11, 'mark'), (12, 'nsubj')]}
+
+lpp_1943.176
+{8: [(5, 'nsubj'), (7, 'mark'), (9, 'iobj'), (10, 'dobj')], 0: [(6, 'root')], 3: [(2, 'det')], 6: [(1, 'cc'), (3, 'dep'), (4, 'aux'), (5, 'nsubj'), (8, 'xcomp')]}
+
+lpp_1943.177
+{8: [(1, 'nsubj'), (9, 'dobj'), (12, 'nmod:like')], 0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (5, 'dobj'), (7, 'cc'), (8, 'conj:and')], 12: [(10, 'case'), (11, 'det')], 5: [(4, 'nmod:poss')]}
+
+lpp_1943.170
+{0: [(5, 'root')], 1: [(4, 'nmod:from')], 4: [(2, 'case'), (3, 'det')], 5: [(1, 'nsubj'), (7, 'ccomp')], 7: [(6, 'nsubj'), (10, 'ccomp')], 10: [(8, 'nsubj'), (9, 'aux'), (11, 'dobj'), (13, 'nmod:about')], 13: [(12, 'case')]}
+
+lpp_1943.171
+{32: [(30, 'case'), (31, 'det')], 0: [(39, 'root')], 3: [(1, 'mark'), (2, 'nsubj'), (5, 'xcomp')], 5: [(2, 'nsubj'), (4, 'mark'), (10, 'nmod:to')], 39: [(3, 'advcl'), (14, 'ccomp'), (35, 'nsubj'), (36, 'aux'), (37, 'neg'), (38, 'cop'), (41, 'xcomp')], 41: [(35, 'nsubj'), (40, 'mark'), (43, 'dobj')], 10: [(6, 'case'), (7, 'det'), (8, 'amod'), (9, 'nummod')], 43: [(42, 'det'), (46, 'nmod:of')], 14: [(13, 'nsubj'), (18, 'ccomp')], 48: [(47, 'case')], 17: [(15, 'det'), (16, 'amod')], 18: [(17, 'nsubj'), (21, 'nmod:of'), (24, 'nmod:with')], 21: [(19, 'case'), (20, 'amod')], 24: [(23, 'case'), (27, 'nmod:in'), (29, 'nmod:in')], 46: [(44, 'case'), (45, 'det'), (48, 'nmod:at')], 27: [(25, 'case'), (26, 'det'), (28, 'cc'), (29, 'conj:and'), (32, 'nmod:on')]}
+
+lpp_1943.172
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (5, 'xcomp'), (11, 'parataxis')], 5: [(1, 'nsubj'), (4, 'mark'), (7, 'nmod:to')], 7: [(6, 'case')], 11: [(10, 'nsubj'), (13, 'dobj')], 13: [(12, 'det'), (14, 'ref'), (15, 'acl:relcl')], 15: [(13, 'nsubj'), (16, 'dobj')], 16: [(17, 'nummod')]}
+
+lpp_1943.173
+{0: [(4, 'root')], 12: [(9, 'dep'), (10, 'det'), (11, 'amod')], 4: [(1, 'advmod'), (2, 'nsubj'), (3, 'aux'), (14, 'parataxis')], 14: [(7, 'discourse'), (12, 'dep'), (13, 'nsubj')]}
+
+lpp_1943.261
+{0: [(9, 'root')], 9: [(1, 'cc'), (4, 'nmod:with'), (5, 'nsubj'), (6, 'aux'), (7, 'neg'), (8, 'cop')], 4: [(2, 'case'), (3, 'det')]}
+
+lpp_1943.246
+{0: [(5, 'root')], 5: [(1, 'nsubj'), (2, 'aux'), (3, 'cop'), (4, 'advmod'), (7, 'nmod:to'), (10, 'advcl')], 7: [(6, 'case')], 10: [(8, 'mark'), (9, 'nsubj'), (12, 'xcomp')], 12: [(9, 'nsubj'), (11, 'mark'), (14, 'nmod:tmod')], 14: [(13, 'det')]}
+
+lpp_1943.247
+{0: [(9, 'root')], 5: [(4, 'nsubj')], 9: [(1, 'advmod'), (5, 'ccomp'), (8, 'expl'), (11, 'nsubj')], 11: [(10, 'neg'), (13, 'acl')], 13: [(12, 'mark'), (14, 'compound:prt'), (16, 'dobj'), (21, 'nmod:until')], 16: [(15, 'det'), (18, 'nmod:of')], 18: [(17, 'case')], 21: [(19, 'case'), (20, 'det')]}
+
+lpp_1943.244
+{0: [(11, 'root')], 4: [(3, 'advmod')], 5: [(1, 'nsubj'), (2, 'cop'), (4, 'amod')], 10: [(8, 'det'), (9, 'amod')], 11: [(5, 'ccomp'), (10, 'nsubj'), (16, 'xcomp')], 15: [(14, 'advmod')], 16: [(15, 'advmod')]}
+
+lpp_1943.245
+{0: [(5, 'root')], 3: [(2, 'nummod')], 5: [(1, 'cc'), (3, 'nmod:tmod'), (4, 'nsubj'), (7, 'nmod:to'), (11, 'ccomp')], 7: [(6, 'case')], 11: [(10, 'nsubj'), (13, 'xcomp'), (26, 'advcl')], 13: [(10, 'nsubj'), (12, 'mark'), (16, 'dobj')], 16: [(14, 'det'), (15, 'amod')], 18: [(19, 'mwe')], 21: [(20, 'det'), (24, 'acl:relcl')], 24: [(22, 'advmod'), (23, 'nsubj')], 26: [(18, 'mark'), (21, 'nsubj'), (25, 'aux'), (31, 'ccomp')], 28: [(27, 'advmod')], 30: [(29, 'det:predet')], 31: [(28, 'advmod'), (30, 'nsubj')]}
+
+lpp_1943.242
+{0: [(16, 'root')], 32: [(29, 'case'), (30, 'det'), (31, 'amod')], 5: [(2, 'advmod'), (3, 'nsubj'), (4, 'aux'), (8, 'dobj'), (11, 'nmod:in')], 8: [(6, 'nmod:poss'), (7, 'amod')], 11: [(9, 'case'), (10, 'det')], 14: [(13, 'advmod')], 16: [(5, 'advcl'), (14, 'nsubj'), (15, 'cop'), (18, 'acl')], 18: [(17, 'mark'), (21, 'nmod:to'), (27, 'advmod'), (32, 'nmod:with')], 21: [(19, 'case'), (20, 'det'), (24, 'nmod:of')], 24: [(22, 'case'), (23, 'nmod:poss')], 27: [(26, 'advmod')]}
+
+lpp_1943.243
+{0: [(3, 'root')], 32: [(31, 'advmod')], 3: [(1, 'nsubj'), (2, 'aux'), (5, 'nmod:to'), (8, 'ccomp')], 36: [(33, 'case'), (34, 'nmod:poss'), (35, 'amod')], 5: [(4, 'case')], 8: [(6, 'mark'), (7, 'nsubj'), (10, 'advmod'), (13, 'dobj'), (19, 'nmod:at')], 10: [(9, 'advmod')], 13: [(11, 'det:predet'), (12, 'det')], 18: [(17, 'advmod')], 19: [(15, 'case'), (16, 'det'), (18, 'amod'), (24, 'acl:relcl'), (28, 'ref')], 24: [(20, 'advmod'), (21, 'nsubj'), (22, 'aux'), (23, 'cop'), (27, 'nmod:from')], 27: [(25, 'case'), (26, 'det'), (28, 'ref'), (30, 'acl:relcl')], 30: [(19, 'dobj'), (27, 'dobj'), (29, 'nsubj'), (32, 'advmod'), (36, 'nmod:in')]}
+
+lpp_1943.240
+{0: [(17, 'root')], 4: [(3, 'det')], 7: [(2, 'mark'), (4, 'nsubj'), (5, 'cop'), (6, 'advmod'), (9, 'cc'), (14, 'conj:and')], 11: [(10, 'det')], 14: [(11, 'nsubj'), (12, 'cop'), (13, 'advmod')], 17: [(1, 'cc'), (7, 'advcl'), (14, 'advcl'), (16, 'nsubj'), (18, 'dobj'), (20, 'nmod:in')], 20: [(19, 'case')]}
+
+lpp_1943.241
+{0: [(13, 'root')], 5: [(2, 'nsubj'), (3, 'cop'), (4, 'det'), (7, 'nmod:of')], 7: [(6, 'case')], 12: [(10, 'det'), (11, 'amod')], 13: [(5, 'ccomp'), (12, 'nsubj'), (15, 'nmod:to'), (17, 'advmod')], 15: [(14, 'case')], 17: [(16, 'advmod')]}
+
+lpp_1943.248
+{8: [(7, 'case')], 0: [(12, 'root')], 12: [(1, 'cc'), (6, 'advcl'), (10, 'nsubj'), (11, 'advmod'), (14, 'dobj')], 14: [(13, 'det')], 6: [(2, 'advmod'), (3, 'nsubj'), (4, 'cop'), (5, 'det'), (8, 'nmod:of')]}
+
+lpp_1943.249
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'dobj')], 11: [(8, 'case'), (9, 'det'), (10, 'amod')], 4: [(3, 'det'), (5, 'ref'), (7, 'acl:relcl')], 7: [(4, 'nsubjpass'), (6, 'auxpass'), (11, 'nmod:by')]}
+
+lpp_1943.169
+{0: [(7, 'root')], 2: [(1, 'advmod')], 3: [(2, 'amod')], 4: [(3, 'nsubj'), (6, 'dobj')], 6: [(5, 'nmod:poss')], 7: [(4, 'csubj')]}
+
+lpp_1943.168
+{0: [(5, 'root')], 2: [(1, 'advmod')], 5: [(2, 'dep'), (3, 'aux'), (4, 'nsubj')]}
+
+lpp_1943.167
+{0: [(4, 'root')], 2: [(1, 'advmod')], 3: [(2, 'amod')], 4: [(3, 'nsubj'), (5, 'dobj')]}
+
+lpp_1943.166
+{0: [(4, 'root')], 8: [(7, 'advmod')], 4: [(1, 'advmod'), (3, 'nsubj'), (9, 'parataxis')], 9: [(8, 'dep'), (10, 'nsubj')]}
+
+lpp_1943.165
+{0: [(3, 'root')], 3: [(1, 'aux'), (2, 'nsubj'), (4, 'dobj')]}
+
+lpp_1943.164
+{0: [(5, 'root')], 2: [(1, 'det')], 5: [(2, 'dobj'), (3, 'aux'), (4, 'nsubj'), (6, 'advmod')]}
+
+lpp_1943.163
+{0: [(3, 'root')], 9: [(5, 'nsubj'), (12, 'dobj'), (13, 'nmod')], 3: [(1, 'nsubj'), (2, 'neg'), (5, 'nmod:to')], 12: [(10, 'nmod:poss'), (11, 'compound')], 5: [(4, 'case'), (8, 'ref'), (9, 'acl:relcl')]}
+
+lpp_1943.162
+{0: [(15, 'root')], 1: [(3, 'ccomp')], 3: [(2, 'nsubj'), (4, 'dobj'), (8, 'ccomp')], 8: [(5, 'mark'), (6, 'nsubj'), (7, 'aux'), (11, 'dobj')], 11: [(9, 'det'), (10, 'amod')], 15: [(1, 'advcl'), (13, 'nsubj'), (14, 'neg'), (18, 'xcomp')], 18: [(16, 'nsubj'), (17, 'det'), (21, 'nmod:about')], 21: [(19, 'case'), (20, 'amod')]}
+
+lpp_1943.161
+{0: [(25, 'root')], 33: [(32, 'nmod:poss')], 4: [(1, 'mark'), (2, 'nsubj'), (3, 'aux'), (7, 'xcomp'), (12, 'cc'), (13, 'conj:and')], 7: [(5, 'nsubj'), (6, 'det'), (10, 'nmod:about')], 10: [(8, 'case'), (9, 'det')], 13: [(2, 'nsubj'), (15, 'dobj'), (20, 'nmod:for')], 15: [(14, 'det'), (18, 'nmod:of')], 18: [(16, 'case'), (17, 'nmod:poss')], 20: [(19, 'case')], 25: [(4, 'advcl'), (13, 'advcl'), (22, 'nsubj'), (23, 'cop'), (24, 'case'), (28, 'nmod:of'), (30, 'dep'), (33, 'dep')], 28: [(26, 'case'), (27, 'det')], 30: [(31, 'cc'), (33, 'conj:and')]}
+
+lpp_1943.160
+{0: [(5, 'root')], 4: [(2, 'det'), (3, 'compound')], 5: [(1, 'cc'), (4, 'nsubj'), (7, 'dobj')], 7: [(6, 'nmod:poss')]}
+
+lpp_1943.251
+{0: [(14, 'root')], 6: [(4, 'det'), (5, 'amod')], 7: [(3, 'mark'), (6, 'nsubj'), (8, 'dobj'), (10, 'nmod:to')], 10: [(9, 'case')], 14: [(1, 'dep'), (7, 'advcl'), (12, 'nsubj'), (13, 'aux'), (16, 'dobj')], 16: [(15, 'det'), (19, 'nmod:of')], 19: [(17, 'case'), (18, 'det')]}
+
+lpp_1943.250
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (5, 'dobj')], 5: [(3, 'nummod'), (4, 'amod')]}
+
+lpp_1943.253
+{0: [(10, 'root')], 34: [(29, 'mark'), (31, 'nmod:for'), (32, 'nsubj'), (33, 'aux'), (37, 'nmod:through')], 3: [(2, 'det'), (6, 'nmod:of')], 37: [(35, 'case'), (36, 'nmod:poss')], 6: [(4, 'case'), (5, 'det')], 9: [(8, 'advmod')], 10: [(1, 'cc'), (3, 'nsubjpass'), (7, 'auxpass'), (9, 'advmod'), (12, 'cc'), (18, 'conj:and')], 15: [(13, 'amod'), (14, 'amod')], 18: [(15, 'nsubjpass'), (16, 'aux'), (17, 'auxpass'), (20, 'nmod:by')], 20: [(19, 'case'), (21, 'ref'), (24, 'acl:relcl')], 24: [(20, 'nsubjpass'), (22, 'aux'), (23, 'auxpass'), (27, 'nmod:on'), (34, 'ccomp')], 27: [(25, 'case'), (26, 'det')], 31: [(30, 'case')]}
+
+lpp_1943.252
+{0: [(5, 'root')], 9: [(8, 'det'), (12, 'nmod:of')], 12: [(10, 'case'), (11, 'det')], 5: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (4, 'advmod'), (7, 'xcomp')], 7: [(1, 'nsubj'), (6, 'mark'), (9, 'dobj')]}
+
+lpp_1943.255
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (3, 'advmod'), (6, 'ccomp')], 10: [(8, 'case'), (9, 'det')], 6: [(7, 'compound:prt'), (10, 'nmod:for')]}
+
+lpp_1943.254
+{0: [(2, 'root')], 2: [(1, 'amod')]}
+
+lpp_1943.257
+{0: [(11, 'root')], 2: [(1, 'det'), (3, 'ref'), (5, 'acl:relcl')], 5: [(2, 'dobj'), (4, 'nsubj'), (6, 'compound:prt'), (9, 'nmod:by')], 9: [(7, 'case'), (8, 'det')], 11: [(2, 'nsubj'), (10, 'cop'), (14, 'dep')], 14: [(12, 'det:predet'), (13, 'det'), (17, 'acl:relcl')], 17: [(15, 'nsubj'), (16, 'aux'), (18, 'dobj')]}
+
+lpp_1943.256
+{0: [(9, 'root')], 33: [(32, 'advmod')], 2: [(1, 'nmod:poss')], 36: [(34, 'case'), (35, 'det')], 5: [(4, 'case')], 9: [(2, 'nsubj'), (5, 'nmod:like'), (7, 'aux'), (8, 'aux'), (11, 'dobj'), (19, 'advcl'), (22, 'cc'), (27, 'conj:and')], 11: [(10, 'det'), (15, 'nmod:for')], 15: [(12, 'case'), (13, 'det'), (14, 'amod')], 19: [(17, 'mark'), (18, 'advmod'), (20, 'dobj')], 27: [(23, 'dep'), (24, 'nsubj'), (25, 'cop'), (26, 'case'), (31, 'ccomp')], 31: [(28, 'mark'), (29, 'nsubj'), (30, 'aux'), (33, 'xcomp'), (36, 'nmod:over')]}
+
+lpp_1943.259
+{0: [(4, 'root')], 2: [(1, 'det')], 4: [(2, 'nsubj'), (3, 'cop')]}
+
+lpp_1943.258
+{0: [(1, 'root')], 1: [(4, 'ccomp')], 4: [(2, 'nsubj'), (3, 'aux'), (5, 'dobj')], 5: [(13, 'dep')], 13: [(8, 'advmod'), (9, 'cop'), (10, 'advmod'), (11, 'neg'), (12, 'amod'), (16, 'nmod:in'), (18, 'dep'), (20, 'dep')], 16: [(14, 'case'), (15, 'det')], 18: [(17, 'advmod'), (19, 'cc'), (20, 'conj:and'), (23, 'nmod:as')], 23: [(21, 'case'), (22, 'det'), (26, 'nmod:of')], 26: [(24, 'case'), (25, 'det')]}
+
+lpp_1943.158
+{0: [(17, 'root')], 33: [(31, 'case'), (32, 'amod')], 7: [(5, 'case'), (6, 'det'), (10, 'nmod:of')], 10: [(8, 'case'), (9, 'compound'), (12, 'dep')], 16: [(14, 'det'), (15, 'amod')], 17: [(1, 'advmod'), (3, 'advmod'), (7, 'nmod:for'), (16, 'nsubj'), (19, 'dobj'), (30, 'ccomp')], 19: [(18, 'det')], 22: [(21, 'nmod:poss')], 25: [(24, 'case'), (27, 'nmod:of')], 27: [(26, 'case')], 30: [(20, 'mark'), (22, 'nsubj'), (25, 'nmod:under'), (29, 'aux'), (33, 'nmod:to')]}
+
+lpp_1943.159
+{0: [(6, 'root')], 3: [(2, 'case')], 5: [(4, 'det')], 6: [(1, 'advmod'), (3, 'nmod:in'), (5, 'nsubj'), (8, 'dobj'), (11, 'advmod'), (13, 'advcl')], 8: [(7, 'nmod:poss')], 11: [(9, 'dep'), (10, 'case')], 13: [(16, 'nmod:with'), (18, 'nmod:with')], 16: [(14, 'case'), (15, 'amod'), (17, 'cc'), (18, 'conj:and')]}
+
+lpp_1943.152
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'dobj')], 4: [(3, 'amod'), (6, 'acl')], 6: [(5, 'mark'), (18, 'ccomp')], 9: [(8, 'det'), (11, 'ref'), (15, 'acl:relcl')], 11: [(10, 'case')], 14: [(12, 'det'), (13, 'amod')], 15: [(9, 'nmod:from'), (14, 'nsubj')], 18: [(7, 'mark'), (9, 'nsubj'), (16, 'cop'), (17, 'det'), (19, 'acl'), (23, 'dep')], 19: [(21, 'nmod:as')], 21: [(20, 'case')]}
+
+lpp_1943.192
+{0: [(9, 'root')], 4: [(2, 'mark'), (3, 'nsubj'), (5, 'dobj')], 9: [(1, 'cc'), (4, 'advcl'), (7, 'nsubj'), (8, 'aux'), (12, 'nmod:like')], 12: [(10, 'case'), (11, 'det'), (14, 'dep')], 14: [(15, 'ref'), (19, 'acl:relcl'), (23, 'acl:relcl')], 18: [(17, 'neg')], 19: [(14, 'nsubjpass'), (16, 'auxpass'), (18, 'advmod'), (21, 'nmod:in'), (22, 'cc'), (23, 'conj:but')], 21: [(20, 'case')], 23: [(14, 'nsubj')]}
+
+lpp_1943.150
+{0: [(11, 'root')], 3: [(2, 'det')], 4: [(1, 'advmod'), (3, 'nsubj'), (5, 'dobj')], 5: [(7, 'nmod:of')], 7: [(6, 'case')], 11: [(4, 'advcl'), (8, 'nsubj'), (9, 'aux'), (10, 'neg'), (12, 'iobj'), (14, 'dobj'), (19, 'dobj')], 14: [(13, 'det'), (17, 'cc'), (19, 'conj:only')], 17: [(16, 'cc')], 19: [(18, 'det')]}
+
+lpp_1943.151
+{0: [(3, 'root')], 11: [(10, 'compound')], 3: [(1, 'nsubj'), (2, 'aux'), (4, 'dobj'), (7, 'nmod:for')], 7: [(6, 'case'), (11, 'dep')]}
+
+lpp_1943.156
+{0: [(6, 'root')], 12: [(10, 'nsubj'), (11, 'aux'), (15, 'ccomp')], 6: [(1, 'cc'), (2, 'nsubj'), (3, 'cop'), (4, 'case'), (5, 'amod'), (8, 'cc'), (9, 'conj:and'), (12, 'ccomp')], 15: [(13, 'dobj'), (14, 'nsubj')]}
+
+lpp_1943.157
+{0: [(6, 'root')], 3: [(1, 'compound'), (2, 'compound')], 6: [(3, 'nsubj'), (4, 'cop'), (5, 'case')]}
+
+lpp_1943.154
+{0: [(6, 'root')], 9: [(8, 'case')], 6: [(1, 'nsubj'), (2, 'cop'), (3, 'case'), (4, 'det'), (5, 'amod'), (9, 'nmod:in')]}
+
+lpp_1943.193
+{0: [(5, 'root')], 5: [(1, 'nsubj'), (2, 'cop'), (3, 'case'), (4, 'det'), (7, 'advmod'), (12, 'ccomp')], 12: [(9, 'mark'), (10, 'nsubj'), (11, 'aux'), (14, 'dobj')], 14: [(13, 'det'), (16, 'nmod:of'), (19, 'nmod:of')], 16: [(15, 'case'), (17, 'cc'), (19, 'conj:and')], 19: [(18, 'det')]}
+
+lpp_1943.224
+{0: [(2, 'root')], 2: [(1, 'nsubj')]}
+
+lpp_1943.225
+{0: [(6, 'root')], 4: [(3, 'advmod'), (5, 'dobj')], 6: [(2, 'cc'), (4, 'advcl'), (8, 'dobj'), (10, 'xcomp')], 8: [(7, 'det')], 10: [(8, 'nsubj'), (9, 'mark'), (13, 'dobj')], 13: [(11, 'det'), (12, 'amod')]}
+
+lpp_1943.226
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (3, 'dobj'), (10, 'dep'), (20, 'dep')], 3: [(5, 'nmod:at')], 5: [(4, 'case')], 10: [(8, 'discourse'), (12, 'dep')], 16: [(17, 'mwe')], 20: [(16, 'mark'), (18, 'nsubj'), (19, 'aux'), (22, 'nmod:of')], 22: [(21, 'case'), (23, 'ref'), (25, 'acl:relcl')], 25: [(22, 'nsubj'), (24, 'cop'), (27, 'dep')]}
+
+lpp_1943.227
+{0: [(4, 'root')], 4: [(1, 'cc'), (2, 'nsubjpass'), (3, 'auxpass'), (6, 'xcomp')], 6: [(2, 'nsubj'), (5, 'mark'), (10, 'dobj'), (12, 'advcl')], 10: [(7, 'det'), (8, 'amod'), (9, 'amod')], 12: [(11, 'mark'), (14, 'dobj'), (18, 'nmod:without')], 14: [(13, 'det')], 18: [(16, 'case'), (17, 'det')]}
+
+lpp_1943.220
+{0: [(8, 'root')], 2: [(1, 'det'), (5, 'nmod:of')], 5: [(3, 'case'), (4, 'det'), (7, 'nmod:of')], 7: [(6, 'case')], 8: [(2, 'nsubj'), (12, 'dobj')], 12: [(9, 'det'), (10, 'amod'), (11, 'compound')]}
+
+lpp_1943.221
+{0: [(17, 'root')], 4: [(2, 'nsubj'), (3, 'aux'), (6, 'xcomp')], 6: [(2, 'nsubj'), (5, 'mark'), (8, 'xcomp')], 8: [(7, 'nsubj')], 9: [(10, 'mwe'), (11, 'mwe')], 10: [(13, 'nmod:on_top_of')], 13: [(9, 'case'), (12, 'det')], 17: [(4, 'ccomp'), (16, 'nsubj')]}
+
+lpp_1943.222
+{0: [(3, 'root')], 3: [(1, 'cc'), (2, 'nsubj'), (6, 'dobj'), (17, 'dep')], 6: [(4, 'det'), (5, 'amod')], 11: [(9, 'mark'), (10, 'nsubj'), (13, 'xcomp')], 13: [(12, 'advmod')], 16: [(15, 'det')], 17: [(11, 'advcl'), (16, 'nsubj'), (18, 'compound:prt'), (21, 'advcl')], 21: [(19, 'mark'), (20, 'cop')]}
+
+lpp_1943.223
+{0: [(5, 'root')], 5: [(2, 'nsubj'), (3, 'cop'), (4, 'advmod')]}
+
+lpp_1943.228
+{0: [(8, 'root')], 5: [(3, 'mark'), (4, 'nsubj')], 8: [(1, 'advmod'), (5, 'advcl'), (7, 'expl'), (11, 'nmod:on'), (27, 'nmod:on')], 11: [(9, 'case'), (10, 'det'), (16, 'acl:relcl'), (25, 'cc'), (27, 'conj:and')], 15: [(13, 'det'), (14, 'amod')], 16: [(12, 'advmod'), (15, 'nsubj'), (24, 'dobj')], 21: [(18, 'advmod'), (19, 'case'), (20, 'det')], 24: [(21, 'nmod:on'), (23, 'amod')], 27: [(26, 'amod')]}
+
+lpp_1943.229
+{0: [(5, 'root')], 2: [(1, 'case')], 5: [(2, 'nmod:in'), (4, 'expl'), (7, 'nsubj'), (14, 'nsubj')], 7: [(6, 'amod'), (10, 'nmod:from'), (12, 'cc'), (14, 'conj:and')], 10: [(8, 'case'), (9, 'amod')], 14: [(13, 'amod'), (17, 'nmod:from')], 17: [(15, 'case'), (16, 'amod')]}
+
+lpp_1943.147
+{0: [(4, 'root')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'advmod'), (7, 'dobj'), (13, 'parataxis')], 7: [(5, 'det'), (6, 'amod'), (10, 'nmod:of')], 10: [(8, 'case'), (9, 'amod')], 13: [(12, 'nsubj'), (25, 'ccomp')], 16: [(15, 'det'), (20, 'acl:relcl')], 19: [(17, 'det'), (18, 'amod')], 20: [(19, 'nsubj'), (21, 'nmod')], 25: [(14, 'mark'), (16, 'nsubj'), (22, 'cop'), (23, 'advmod'), (24, 'advmod'), (28, 'nmod:than')], 28: [(26, 'case'), (27, 'det')]}
+
+lpp_1943.146
+{0: [(1, 'root')], 1: [(2, 'dep')]}
+
+lpp_1943.198
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'dobj'), (6, 'advmod'), (13, 'nmod:in'), (21, 'parataxis'), (26, 'parataxis')], 4: [(3, 'det')], 11: [(9, 'det'), (10, 'amod'), (12, 'case')], 13: [(8, 'case'), (11, 'nmod:poss')], 17: [(15, 'case'), (16, 'nummod')], 21: [(17, 'nmod:in'), (18, 'nsubj'), (19, 'cop'), (20, 'advmod'), (22, 'cc'), (26, 'conj:and')], 26: [(18, 'nsubj'), (23, 'case'), (24, 'det'), (25, 'advmod')]}
+
+lpp_1943.199
+{0: [(3, 'root')], 8: [(6, 'case'), (7, 'det'), (11, 'nmod:of')], 3: [(1, 'cc'), (2, 'nsubj'), (5, 'dobj'), (8, 'nmod:about')], 5: [(4, 'det')], 11: [(9, 'case'), (10, 'nmod:poss')]}
+
+lpp_1943.149
+{0: [(2, 'root')], 32: [(5, 'mark'), (31, 'expl'), (33, 'advmod'), (34, 'nsubj')], 2: [(1, 'nsubj'), (4, 'advmod'), (32, 'ccomp')], 34: [(36, 'nmod:of')], 4: [(3, 'advmod')], 38: [(36, 'nmod:of')], 6: [(7, 'mwe'), (8, 'mwe')], 7: [(11, 'nmod:in_addition_to')], 40: [(39, 'case')], 11: [(6, 'case'), (9, 'det'), (10, 'amod'), (20, 'dep'), (25, 'ref'), (28, 'acl:relcl')], 13: [(14, 'mwe')], 46: [(44, 'mark'), (45, 'nsubj'), (49, 'dobj')], 16: [(13, 'case'), (15, 'det'), (18, 'appos')], 43: [(38, 'nsubj'), (41, 'cop'), (42, 'advmod'), (46, 'ccomp')], 50: [(51, 'dobj'), (54, 'nmod:through')], 20: [(16, 'nmod:such_as'), (22, 'appos')], 54: [(52, 'case'), (53, 'det')], 25: [(24, 'case')], 49: [(47, 'det'), (48, 'amod'), (50, 'acl')], 28: [(11, 'nmod:to'), (26, 'nsubj'), (27, 'aux'), (29, 'dobj')], 36: [(35, 'case'), (40, 'ref'), (43, 'acl:relcl')]}
+
+lpp_1943.148
+{0: [(6, 'root')], 8: [(7, 'nsubj')], 6: [(1, 'cc'), (2, 'nsubj'), (3, 'aux'), (4, 'neg'), (5, 'advmod'), (8, 'xcomp')]}
+
+lpp_1943.153
+{0: [(7, 'root')], 2: [(1, 'det')], 10: [(8, 'case'), (9, 'det')], 5: [(4, 'advmod')], 7: [(2, 'nsubjpass'), (3, 'aux'), (5, 'advmod'), (6, 'auxpass'), (10, 'nmod:through')]}
+
+lpp_1943.237
+{0: [(4, 'root')], 2: [(1, 'det')], 4: [(2, 'nsubj'), (3, 'cop'), (11, 'acl:relcl')], 7: [(9, 'advmod')], 11: [(5, 'nsubj'), (6, 'aux'), (7, 'advmod'), (10, 'cop'), (14, 'xcomp')], 14: [(5, 'nsubj'), (12, 'mark'), (13, 'dep'), (18, 'advcl'), (22, 'advmod')], 18: [(15, 'mark'), (16, 'mark'), (17, 'nsubj'), (20, 'nmod:to')], 20: [(19, 'case')], 22: [(21, 'advmod')]}
+
+lpp_1943.236
+{0: [(7, 'root')], 9: [(8, 'case')], 2: [(1, 'det'), (5, 'nmod:of')], 5: [(3, 'case'), (4, 'det')], 7: [(2, 'nsubj'), (6, 'cop'), (9, 'nmod:with')]}
+
+lpp_1943.235
+{0: [(3, 'root')], 3: [(1, 'advmod'), (2, 'expl'), (6, 'nsubj'), (19, 'cc'), (23, 'conj:and')], 6: [(4, 'det'), (5, 'amod'), (9, 'nmod:on')], 9: [(7, 'case'), (8, 'det'), (10, 'ref'), (13, 'acl:relcl')], 13: [(9, 'nsubj'), (11, 'cop'), (12, 'det'), (17, 'nmod:of')], 17: [(14, 'case'), (15, 'det'), (16, 'amod')], 23: [(20, 'nsubj'), (21, 'cop'), (22, 'det'), (26, 'nmod:of')], 26: [(24, 'case'), (25, 'det')]}
+
+lpp_1943.234
+{0: [(11, 'root')], 7: [(2, 'advmod'), (3, 'nsubj'), (4, 'cop'), (5, 'det'), (6, 'amod')], 11: [(1, 'cc'), (7, 'advcl'), (9, 'nsubj'), (10, 'aux'), (12, 'dobj'), (14, 'advmod'), (24, 'ccomp')], 14: [(13, 'advmod'), (21, 'advcl')], 20: [(19, 'advmod')], 21: [(15, 'mark'), (16, 'dep'), (18, 'det'), (20, 'amod')], 24: [(22, 'mark'), (23, 'nsubj'), (25, 'dobj')]}
+
+lpp_1943.233
+{0: [(20, 'root')], 6: [(1, 'mark'), (2, 'nsubj'), (3, 'cop'), (4, 'advmod'), (5, 'det'), (8, 'nmod:of'), (9, 'cc'), (11, 'conj:or')], 8: [(7, 'case')], 11: [(10, 'det'), (14, 'nmod:of')], 14: [(12, 'case'), (13, 'det'), (16, 'dep')], 20: [(6, 'advcl'), (11, 'advcl'), (18, 'nsubj'), (19, 'aux'), (22, 'ccomp')], 22: [(21, 'nsubj'), (26, 'advcl')], 26: [(23, 'advmod'), (24, 'nsubj'), (25, 'aux')]}
+
+lpp_1943.232
+{0: [(6, 'root')], 4: [(2, 'det'), (3, 'amod')], 6: [(1, 'advmod'), (4, 'nsubj'), (5, 'aux'), (7, 'dobj'), (8, 'cc'), (9, 'conj:and'), (16, 'xcomp')], 9: [(4, 'nsubj'), (11, 'dep')], 11: [(12, 'case'), (13, 'dep')], 16: [(7, 'nsubj'), (15, 'mark'), (21, 'dobj'), (22, 'advmod'), (25, 'nmod:toward')], 21: [(17, 'det'), (18, 'amod'), (19, 'amod'), (20, 'compound')], 25: [(23, 'case'), (24, 'det')]}
+
+lpp_1943.231
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (3, 'xcomp'), (19, 'advcl')], 3: [(6, 'nmod:in')], 6: [(4, 'case'), (5, 'det'), (11, 'nmod:of')], 9: [(8, 'det'), (10, 'case')], 11: [(7, 'case'), (9, 'nmod:poss')], 15: [(14, 'det'), (17, 'nmod:among')], 17: [(16, 'case')], 19: [(13, 'mark'), (15, 'nsubjpass'), (18, 'auxpass'), (22, 'nmod:with'), (24, 'nmod:to')], 22: [(20, 'case'), (21, 'det')], 24: [(23, 'case')]}
+
+lpp_1943.230
+{0: [(4, 'root')], 4: [(1, 'cc'), (2, 'nsubj'), (3, 'cop')]}
+
+lpp_1943.239
+{0: [(2, 'root')], 8: [(6, 'case'), (7, 'nmod:poss')], 2: [(1, 'nsubj'), (3, 'xcomp'), (8, 'nmod:with')], 3: [(5, 'nmod:through')], 5: [(4, 'case')]}
+
+lpp_1943.238
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (6, 'nmod:over')], 6: [(3, 'case'), (4, 'det'), (5, 'amod')]}
+
+lpp_1943.202
+{0: [(4, 'root')], 10: [(4, 'nsubj'), (6, 'aux'), (7, 'neg'), (8, 'cop'), (9, 'nmod:poss')], 4: [(1, 'cc'), (2, 'nsubj'), (3, 'cop'), (5, 'ref'), (10, 'acl:relcl')]}
+
+lpp_1943.203
+{0: [(4, 'root')], 2: [(1, 'nmod:poss')], 4: [(2, 'nsubj'), (3, 'neg'), (5, 'dobj'), (7, 'nmod:to')], 7: [(6, 'case')]}
+
+lpp_1943.200
+{0: [(3, 'root')], 3: [(1, 'cc'), (2, 'nsubj'), (4, 'compound:prt'), (6, 'nmod:as'), (11, 'xcomp'), (16, 'cc'), (18, 'conj:so')], 6: [(5, 'case'), (8, 'acl:relcl')], 8: [(7, 'nsubj')], 11: [(10, 'advmod'), (14, 'dep')], 14: [(13, 'advmod')], 18: [(17, 'nsubj'), (20, 'xcomp')], 20: [(19, 'advmod'), (22, 'nmod'), (24, 'dep')]}
+
+lpp_1943.201
+{8: [(5, 'nmod:in'), (6, 'nsubj'), (7, 'aux'), (9, 'dobj'), (11, 'advmod')], 0: [(8, 'root')], 4: [(3, 'advmod')], 5: [(1, 'case'), (2, 'amod'), (4, 'amod')]}
+
+lpp_1943.206
+{0: [(5, 'root')], 10: [(7, 'det'), (8, 'amod'), (9, 'nummod')], 5: [(1, 'advmod'), (2, 'nsubj'), (3, 'cop'), (4, 'det'), (6, 'case'), (10, 'dep')]}
+
+lpp_1943.207
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (5, 'xcomp')], 5: [(1, 'nsubj'), (4, 'mark'), (6, 'xcomp')]}
+
+lpp_1943.204
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (4, 'advmod'), (10, 'ccomp')], 10: [(6, 'mark'), (7, 'nsubj'), (8, 'cop'), (9, 'case')]}
+
+lpp_1943.205
+{0: [(8, 'root')], 6: [(4, 'discourse'), (7, 'neg')], 8: [(1, 'cc'), (2, 'nsubj'), (6, 'dep'), (11, 'ccomp')], 11: [(9, 'advmod'), (10, 'mark'), (12, 'dobj'), (15, 'nmod:through')], 15: [(13, 'case'), (14, 'det'), (17, 'nmod:of')], 17: [(16, 'case')]}
+
+lpp_1943.208
+{0: [(1, 'root')], 1: [(2, 'dep')]}
+
+lpp_1943.209
+{0: [(19, 'root')], 3: [(2, 'det')], 4: [(1, 'mark'), (3, 'nsubj'), (7, 'ccomp')], 7: [(5, 'nsubj'), (6, 'aux')], 11: [(9, 'case'), (10, 'nmod:poss')], 13: [(17, 'nmod:about')], 17: [(14, 'case'), (15, 'det'), (16, 'amod')], 19: [(4, 'advcl'), (11, 'nmod:in'), (13, 'nsubj'), (18, 'cop'), (22, 'appos'), (27, 'appos')], 22: [(21, 'nmod:poss'), (24, 'nmod:from')], 24: [(23, 'case')], 27: [(26, 'nmod:poss')]}
+
+lpp_1943.288
+{0: [(5, 'root')], 4: [(2, 'det'), (3, 'amod')], 5: [(1, 'cc'), (4, 'nsubj'), (7, 'dobj')], 7: [(6, 'neg')]}
+
+lpp_1943.282
+{0: [(16, 'root')], 5: [(2, 'case'), (3, 'nmod:poss'), (4, 'amod')], 9: [(7, 'nmod:poss'), (8, 'amod'), (14, 'acl:relcl')], 14: [(11, 'dobj'), (12, 'nsubj'), (13, 'aux')], 16: [(1, 'cc'), (5, 'nmod:on'), (9, 'nsubj'), (15, 'aux'), (18, 'dep'), (21, 'dobj')], 18: [(17, 'nmod:poss')], 21: [(19, 'det'), (20, 'amod')]}
+
+lpp_1943.283
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'aux'), (10, 'dep')], 6: [(4, 'det'), (5, 'compound'), (7, 'cc'), (9, 'conj:and')], 9: [(8, 'det')], 10: [(6, 'nsubj'), (9, 'nsubj'), (13, 'advcl')], 13: [(11, 'advmod'), (12, 'nsubj')]}
+
+lpp_1943.280
+{0: [(13, 'root')], 4: [(1, 'mark'), (2, 'nsubj'), (3, 'aux'), (6, 'nmod:to'), (9, 'nmod:in')], 6: [(5, 'case')], 9: [(7, 'case'), (8, 'nummod')], 13: [(4, 'advcl'), (11, 'nsubj'), (12, 'aux'), (17, 'advcl:into')], 17: [(14, 'advmod'), (15, 'case'), (16, 'det'), (19, 'dep'), (21, 'nmod:from')], 21: [(20, 'case')]}
+
+lpp_1943.281
+{0: [(9, 'root')], 9: [(1, 'advmod'), (3, 'nsubj'), (4, 'cop'), (7, 'advmod'), (8, 'case')], 7: [(5, 'advmod'), (6, 'advmod')]}
+
+lpp_1943.286
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'cop'), (5, 'amod'), (7, 'advmod')], 5: [(4, 'advmod')]}
+
+lpp_1943.287
+{0: [(2, 'root')], 2: [(1, 'nsubj'), (7, 'nmod:on')], 13: [(12, 'nummod')], 10: [(8, 'case'), (9, 'det'), (13, 'dep')], 7: [(5, 'case'), (6, 'det'), (10, 'nmod:of')]}
+
+lpp_1943.284
+{0: [(13, 'root')], 3: [(2, 'nummod')], 7: [(3, 'nmod:tmod'), (6, 'nsubj'), (9, 'nmod:to')], 9: [(8, 'case')], 13: [(7, 'ccomp'), (12, 'nsubj'), (16, 'dobj')], 16: [(14, 'det'), (15, 'amod'), (19, 'dep')], 19: [(18, 'nummod')]}
+
+lpp_1943.285
+{0: [(6, 'root')], 3: [(2, 'det')], 4: [(3, 'nmod:npmod')], 6: [(1, 'cc'), (4, 'advmod'), (5, 'nsubj'), (10, 'ccomp'), (13, 'parataxis')], 10: [(9, 'nsubj')], 13: [(12, 'nsubj'), (15, 'dobj')], 15: [(14, 'det'), (21, 'acl:relcl')], 21: [(17, 'advmod'), (18, 'nsubj'), (19, 'cop'), (20, 'advmod')]}
+
+lpp_1943.196
+{0: [(7, 'root')], 9: [(8, 'case')], 6: [(5, 'case')], 7: [(1, 'cc'), (2, 'nsubj'), (3, 'cop'), (4, 'neg'), (6, 'nmod:at'), (9, 'nmod:of')]}
+
+lpp_1943.197
+{0: [(3, 'root')], 2: [(1, 'nummod')], 3: [(2, 'nsubj'), (4, 'advmod'), (8, 'cc'), (10, 'conj:and')], 4: [(5, 'det'), (6, 'dep')], 10: [(9, 'nsubj'), (12, 'dobj')], 12: [(11, 'neg'), (15, 'nmod:to')], 15: [(13, 'case'), (14, 'nmod:poss')]}
+
+lpp_1943.194
+{0: [(3, 'root')], 32: [(30, 'det'), (31, 'compound')], 3: [(1, 'nsubj'), (2, 'cop'), (5, 'xcomp'), (40, 'advcl')], 5: [(1, 'nsubj'), (4, 'mark'), (6, 'compound:prt'), (7, 'xcomp')], 35: [(33, 'case'), (34, 'det')], 7: [(8, 'advmod'), (11, 'nmod:at')], 40: [(37, 'mark'), (38, 'nsubj'), (39, 'cop')], 11: [(9, 'case'), (10, 'nmod:poss'), (17, 'acl:relcl')], 17: [(13, 'advmod'), (14, 'nsubj'), (15, 'aux'), (16, 'neg'), (19, 'dobj'), (28, 'nmod:from'), (32, 'nmod:from'), (35, 'nmod:from')], 19: [(18, 'det'), (21, 'nmod:except')], 21: [(20, 'case'), (25, 'nmod:of')], 25: [(22, 'case'), (23, 'det'), (24, 'compound')], 28: [(26, 'case'), (27, 'det'), (29, 'cc'), (32, 'conj:and')]}
+
+lpp_1943.195
+{0: [(4, 'root')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'advmod'), (6, 'xcomp')], 6: [(1, 'nsubj'), (5, 'mark'), (10, 'xcomp')], 8: [(7, 'nmod:poss')], 10: [(8, 'nsubj'), (9, 'advmod'), (12, 'nmod:to')], 12: [(11, 'case'), (14, 'amod')], 14: [(13, 'advmod')]}
+
+lpp_1943.219
+{0: [(2, 'root')], 32: [(29, 'advmod'), (30, 'mark'), (31, 'nsubj'), (35, 'dobj'), (40, 'nmod:with')], 2: [(1, 'nsubj'), (3, 'compound:prt'), (7, 'nmod:to'), (13, 'ccomp'), (19, 'ccomp'), (46, 'ccomp')], 35: [(33, 'det'), (34, 'amod'), (37, 'nmod:of')], 37: [(36, 'case')], 7: [(4, 'case'), (5, 'det'), (6, 'amod')], 40: [(38, 'advmod'), (39, 'case')], 43: [(42, 'det')], 13: [(8, 'mark'), (9, 'nsubj'), (10, 'cop'), (11, 'neg'), (12, 'advmod'), (15, 'cc'), (19, 'conj:but'), (27, 'cc'), (46, 'conj:but')], 46: [(28, 'mark'), (32, 'advcl'), (43, 'nsubj'), (44, 'aux'), (45, 'neg'), (47, 'compound:prt'), (50, 'dobj')], 50: [(48, 'nummod'), (49, 'amod')], 19: [(17, 'case'), (18, 'det'), (21, 'appos')], 21: [(23, 'nmod:as')], 23: [(22, 'case'), (25, 'nmod:as')], 25: [(24, 'case')]}
+
+lpp_1943.218
+{0: [(5, 'root')], 10: [(8, 'advmod'), (9, 'nsubj'), (14, 'ccomp')], 4: [(2, 'det'), (3, 'amod')], 5: [(1, 'cc'), (4, 'nsubj'), (10, 'ccomp')], 14: [(11, 'mark'), (12, 'nsubj'), (13, 'advmod'), (15, 'dobj')]}
+
+lpp_1943.190
+{0: [(6, 'root')], 2: [(1, 'mark'), (4, 'dobj')], 4: [(3, 'det')], 6: [(2, 'csubj'), (5, 'cop')]}
+
+lpp_1943.191
+{0: [(5, 'root')], 3: [(2, 'det')], 5: [(1, 'neg'), (3, 'nsubj'), (4, 'aux'), (7, 'dobj')], 7: [(6, 'det')]}
+
+lpp_1943.215
+{0: [(2, 'root')]}
+
+lpp_1943.214
+{0: [(6, 'root')], 6: [(2, 'discourse'), (4, 'nsubj'), (5, 'cop')]}
+
+lpp_1943.217
+{0: [(4, 'root')], 9: [(5, 'advmod'), (6, 'nsubj'), (7, 'cop'), (8, 'advmod'), (13, 'ccomp')], 4: [(1, 'nsubj'), (2, 'aux'), (3, 'neg'), (9, 'ccomp')], 13: [(10, 'mark'), (11, 'nsubj'), (12, 'aux'), (15, 'dobj')], 15: [(14, 'amod')]}
+
+lpp_1943.216
+{0: [(3, 'root')], 3: [(1, 'nsubj'), (2, 'cop')]}
+
+lpp_1943.211
+{0: [(5, 'root')], 5: [(1, 'nsubj'), (2, 'cop'), (3, 'case'), (4, 'det'), (8, 'ccomp')], 8: [(6, 'mark'), (7, 'nsubj'), (13, 'nmod:on'), (17, 'nmod:about')], 13: [(10, 'case'), (11, 'det'), (12, 'amod')], 17: [(15, 'case'), (16, 'det'), (20, 'nmod:of')], 20: [(18, 'case'), (19, 'det')]}
+
+lpp_1943.210
+{0: [(4, 'root')], 2: [(1, 'det')], 4: [(2, 'nsubj'), (3, 'aux'), (6, 'advmod'), (10, 'advcl')], 6: [(5, 'advmod')], 10: [(8, 'mark'), (9, 'nsubj'), (11, 'dobj'), (13, 'advcl')], 13: [(12, 'mark'), (16, 'nmod:from')], 16: [(14, 'case'), (15, 'nmod:poss')]}
+
+lpp_1943.213
+{0: [(20, 'root')], 4: [(1, 'case'), (2, 'det'), (3, 'amod'), (5, 'acl')], 5: [(6, 'xcomp')], 6: [(7, 'advmod')], 11: [(9, 'mark'), (10, 'mark'), (15, 'nmod:by')], 15: [(12, 'case'), (13, 'det'), (14, 'amod')], 20: [(4, 'nmod:for'), (11, 'dep'), (18, 'nsubj'), (19, 'cop'), (24, 'dep'), (28, 'ccomp')], 24: [(22, 'cop'), (23, 'neg')], 28: [(26, 'mark'), (27, 'nsubj'), (30, 'dobj')], 30: [(29, 'amod')]}
+
+lpp_1943.212
+{0: [(8, 'root')], 2: [(1, 'det')], 5: [(4, 'advmod')], 8: [(2, 'nsubj'), (5, 'advmod'), (7, 'nsubj'), (10, 'dobj')], 10: [(9, 'det'), (12, 'acl')], 12: [(11, 'mark'), (14, 'nmod:for')], 14: [(13, 'case')]}
+
+lpp_1943.155
+{0: [(9, 'root')], 2: [(1, 'mark'), (4, 'dobj')], 4: [(3, 'nmod:poss')], 7: [(6, 'det')], 9: [(2, 'advcl'), (7, 'nsubj'), (8, 'aux'), (10, 'dobj'), (15, 'nmod:to'), (20, 'nmod:in')], 15: [(11, 'case'), (12, 'det'), (13, 'compound'), (14, 'compound')], 20: [(17, 'case'), (18, 'det'), (19, 'amod')]}
+

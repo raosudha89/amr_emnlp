@@ -10,6 +10,8 @@ def main(argv):
 	while (line != ""):
 		if line.startswith("# ::tok"):
 			out_file.write(line.strip("# ::tok"))
+		if line.startswith("# ::snt"):
+			out_file.write(line.strip("# ::snt"))
 		line = amr_aligned.readline()
 	
 if __name__ == "__main__":
